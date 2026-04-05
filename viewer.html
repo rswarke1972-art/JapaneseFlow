@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Viewer | JapaneseFlow</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- 🎵 Background Music -->
+<audio id="bgMusic" autoplay loop>
+  <source src="flute.mp3" type="audio/mpeg">
+</audio>
+
+<button class="back-btn" onclick="goBack()">← Back</button>
+
+<div class="container">
+
+  <!-- Music Toggle -->
+  <button class="action-btn" onclick="toggleMusic()">🎵 Music</button>
+
+  <!-- 🔥 VIEWER CARD -->
+  <div class="viewer-card">
+
+    <!-- Character -->
+    <h1 id="charDisplay"></h1>
+
+    <!-- Universal Info (romaji / pinyin etc.) -->
+    <p id="infoDisplay" class="info-text"></p>
+
+    <!-- Info Box -->
+    <div class="info-box">
+
+      <p><strong>Meaning:</strong> <span id="meaning"></span></p>
+
+      <p><strong>Example:</strong> <span id="example"></span></p>
+      <p class="example-text" id="exampleSub"></p>
+
+      <p class="explanation" id="explanation"></p>
+
+    </div>
+
+    <!-- Stroke / Character Area -->
+    <div id="character"></div>
+
+    <!-- Controls -->
+    <button class="action-btn" onclick="play()">▶ Play</button>
+    <button class="action-btn" onclick="reset()">Reset</button>
+    <button class="action-btn" onclick="nextStroke()">Next Stroke</button>
+
+  </div>
+
+</div>
+
+<!-- Stroke library (used later if needed) -->
+<script src="https://cdn.jsdelivr.net/npm/hanzi-writer@3.5/dist/hanzi-writer.min.js"></script>
+
+<script src="viewer.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz | JapaneseFlow</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<button class="back-btn" onclick="goBack()">⬅ Back</button>
+
+<div class="container">
+  <h1 id="quizTitle">Quiz Mode</h1>
+
+  <h2 id="score">Score: 0</h2>
+
+  <!-- Dynamic character -->
+  <h2 id="questionChar">あ</h2>
+
+  <div id="options"></div>
+
+  <p id="result"></p>
+
+  <button id="nextBtn" onclick="nextQuestion()" style="display:none;">
+    Next
+  </button>
+</div>
+
+<!-- Load data -->
+<script src="data.json"></script>
+<script src="quiz.js"></script>
+
+</body>
+</html>

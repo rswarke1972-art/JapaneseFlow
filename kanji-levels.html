@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kanji Levels</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<button class="back-btn" onclick="goBack()">← Back</button>
+
+<div class="container">
+  <h1>Select JLPT Level</h1>
+
+  <div class="level-buttons">
+    <button onclick="selectLevel('n5')">N5 (Beginner)</button>
+    <button onclick="selectLevel('n4')">N4</button>
+    <button onclick="selectLevel('n3')">N3</button>
+    <button onclick="selectLevel('n2')">N2</button>
+    <button onclick="selectLevel('n1')">N1 (Advanced)</button>
+  </div>
+</div>
+
+<script>
+function selectLevel(level) {
+  localStorage.setItem("level", level);
+  window.location.href = "characters.html?script=kanji";
+}
+
+function goBack() {
+  window.history.back();
+}
+</script>
+
+</body>
+</html>

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JapaneseFlow</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="container">
+    <h1>JapaneseFlow 🇯🇵</h1>
+
+    <div class="level-buttons">
+
+      <!-- Kana Section -->
+      <button onclick="openScript('hiragana')">Hiragana</button>
+      <button onclick="location.href='song.html'">
+  🎵 Hiragana Song
+</button>
+      <button onclick="openScript('katakana')">Katakana</button>
+      <button onclick="location.href='katakana-song.html'">
+  🎵 Katakana Song
+</button>
+
+      <button onclick="location.href='kanji-levels.html'">
+  Kanji (JLPT)
+</button>
+
+      <hr>
+
+      <!-- Features -->
+      <button onclick="location.href='quiz.html'">Quiz Mode</button>
+      <button onclick="goToStories()">Story Mode</button>
+      <button onclick="location.href='search.html'">Search</button>
+      <button onclick="location.href='contact.html'">Contact Us</button>
+
+    </div>
+  </div>
+
+  <script>
+    function openScript(script) {
+      // default level (important for your system)
+      localStorage.setItem("level", "basic");
+
+      // go to reusable page
+      window.location.href = `characters.html?script=${script}`;
+    }
+
+    function goToStories() {
+  window.location.href = "stories.html";
+}
+  </script>
+
+</body>
+</html>

@@ -3,6 +3,7 @@ fetch("data.json")
   .then(data => {
     const stories = data.stories;
     const container = document.getElementById("storyList");
+    
 
     Object.keys(stories).forEach(key => {
       const btn = document.createElement("button");

@@ -348,3 +348,54 @@ h2 {
   z-index: 1000;
   box-shadow: 0 8px 20px rgba(0,0,0,0.5);
 }
+
+.line {
+  display: block;
+  margin-bottom: 15px;
+  line-height: 2;
+}
+
+.word {
+  display: inline;   /* 🔥 CHANGE THIS */
+  margin-right: 6px;
+  cursor: pointer;
+}
+
+.word:hover {
+  color: red;
+}
+
+/* 🔥 Buttons mobile friendly */
+.controls {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+}
+
+.controls button {
+  flex: 1;
+  padding: 15px;
+  font-size: 18px;
+}
+
+
+.controls {
+  display: none;
+}
+
+.mode-switch {
+  display: flex;
+  gap: 5px;
+}
+
+.mode-switch button {
+  flex: none;
+  padding: 10px 10px;
+  font-size: 14px;
+}
+
+.mode-switch {
+  display: none;   /* hidden by default */
+}

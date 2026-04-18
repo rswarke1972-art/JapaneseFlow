@@ -10,7 +10,17 @@
 </head>
 <body>
 
+  <div class="mode-switch">
+  <button onclick="switchMode('simple')">Simple</button>
+  <button onclick="switchMode('original')">Original</button>
+</div>
+
 <div id="storyContainer"></div>
+
+<div class="controls">
+  <button onclick="prevLine()">⬅️</button>
+  <button onclick="nextLine()">➡️</button>
+</div>
 
 <div id="popup"></div>
 

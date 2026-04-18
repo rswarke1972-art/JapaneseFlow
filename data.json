@@ -17501,6 +17501,11 @@
     { "word": "なる", "romaji": "naru", "meaning": "to become" },
     { "word": "。", "meaning": "" }
   ]
-}
+},
+
+"wildcat": {
+      "title": "注文の多い料理店",
+      "file": "wildcat.json"
+    }
   }
 }

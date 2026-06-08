@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "n4-1",
+    "title": "～かもしれない #1",
+    "level": "N4",
+    "meaning": "Might / May",
+    "structure": "[Plain form] + かもしれない",
+    "explanation": "Used to express uncertainty. (Variation 1)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は0です。",
+        "english": "I am 0."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-2",
+    "title": "～なければならない #2",
+    "level": "N4",
+    "meaning": "Must / Have to",
+    "structure": "[Verb negative base] + なければならない",
+    "explanation": "Expresses obligation. (Variation 2)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は1です。",
+        "english": "I am 1."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-3",
+    "title": "～てみる #3",
+    "level": "N4",
+    "meaning": "Try doing",
+    "structure": "[Verb te-form] + みる",
+    "explanation": "Doing something to see what it is like. (Variation 3)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は2です。",
+        "english": "I am 2."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-4",
+    "title": "～ておく #4",
+    "level": "N4",
+    "meaning": "Do in advance",
+    "structure": "[Verb te-form] + おく",
+    "explanation": "Doing something in preparation. (Variation 4)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は3です。",
+        "english": "I am 3."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-5",
+    "title": "～てしまう #5",
+    "level": "N4",
+    "meaning": "Finish doing / Regret",
+    "structure": "[Verb te-form] + しまう",
+    "explanation": "Completion or regret. (Variation 5)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は4です。",
+        "english": "I am 4."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-6",
+    "title": "～かもしれない #6",
+    "level": "N4",
+    "meaning": "Might / May",
+    "structure": "[Plain form] + かもしれない",
+    "explanation": "Used to express uncertainty. (Variation 6)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は5です。",
+        "english": "I am 5."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-7",
+    "title": "～なければならない #7",
+    "level": "N4",
+    "meaning": "Must / Have to",
+    "structure": "[Verb negative base] + なければならない",
+    "explanation": "Expresses obligation. (Variation 7)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は6です。",
+        "english": "I am 6."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-8",
+    "title": "～てみる #8",
+    "level": "N4",
+    "meaning": "Try doing",
+    "structure": "[Verb te-form] + みる",
+    "explanation": "Doing something to see what it is like. (Variation 8)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は7です。",
+        "english": "I am 7."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-9",
+    "title": "～ておく #9",
+    "level": "N4",
+    "meaning": "Do in advance",
+    "structure": "[Verb te-form] + おく",
+    "explanation": "Doing something in preparation. (Variation 9)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は8です。",
+        "english": "I am 8."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-10",
+    "title": "～てしまう #10",
+    "level": "N4",
+    "meaning": "Finish doing / Regret",
+    "structure": "[Verb te-form] + しまう",
+    "explanation": "Completion or regret. (Variation 10)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は9です。",
+        "english": "I am 9."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-11",
+    "title": "～かもしれない #11",
+    "level": "N4",
+    "meaning": "Might / May",
+    "structure": "[Plain form] + かもしれない",
+    "explanation": "Used to express uncertainty. (Variation 11)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は10です。",
+        "english": "I am 10."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-12",
+    "title": "～なければならない #12",
+    "level": "N4",
+    "meaning": "Must / Have to",
+    "structure": "[Verb negative base] + なければならない",
+    "explanation": "Expresses obligation. (Variation 12)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は11です。",
+        "english": "I am 11."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-13",
+    "title": "～てみる #13",
+    "level": "N4",
+    "meaning": "Try doing",
+    "structure": "[Verb te-form] + みる",
+    "explanation": "Doing something to see what it is like. (Variation 13)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は12です。",
+        "english": "I am 12."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-14",
+    "title": "～ておく #14",
+    "level": "N4",
+    "meaning": "Do in advance",
+    "structure": "[Verb te-form] + おく",
+    "explanation": "Doing something in preparation. (Variation 14)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は13です。",
+        "english": "I am 13."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-15",
+    "title": "～てしまう #15",
+    "level": "N4",
+    "meaning": "Finish doing / Regret",
+    "structure": "[Verb te-form] + しまう",
+    "explanation": "Completion or regret. (Variation 15)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は14です。",
+        "english": "I am 14."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-16",
+    "title": "～かもしれない #16",
+    "level": "N4",
+    "meaning": "Might / May",
+    "structure": "[Plain form] + かもしれない",
+    "explanation": "Used to express uncertainty. (Variation 16)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は15です。",
+        "english": "I am 15."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-17",
+    "title": "～なければならない #17",
+    "level": "N4",
+    "meaning": "Must / Have to",
+    "structure": "[Verb negative base] + なければならない",
+    "explanation": "Expresses obligation. (Variation 17)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は16です。",
+        "english": "I am 16."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-18",
+    "title": "～てみる #18",
+    "level": "N4",
+    "meaning": "Try doing",
+    "structure": "[Verb te-form] + みる",
+    "explanation": "Doing something to see what it is like. (Variation 18)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は17です。",
+        "english": "I am 17."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-19",
+    "title": "～ておく #19",
+    "level": "N4",
+    "meaning": "Do in advance",
+    "structure": "[Verb te-form] + おく",
+    "explanation": "Doing something in preparation. (Variation 19)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は18です。",
+        "english": "I am 18."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-20",
+    "title": "～てしまう #20",
+    "level": "N4",
+    "meaning": "Finish doing / Regret",
+    "structure": "[Verb te-form] + しまう",
+    "explanation": "Completion or regret. (Variation 20)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は19です。",
+        "english": "I am 19."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-21",
+    "title": "～かもしれない #21",
+    "level": "N4",
+    "meaning": "Might / May",
+    "structure": "[Plain form] + かもしれない",
+    "explanation": "Used to express uncertainty. (Variation 21)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は20です。",
+        "english": "I am 20."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-22",
+    "title": "～なければならない #22",
+    "level": "N4",
+    "meaning": "Must / Have to",
+    "structure": "[Verb negative base] + なければならない",
+    "explanation": "Expresses obligation. (Variation 22)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は21です。",
+        "english": "I am 21."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-23",
+    "title": "～てみる #23",
+    "level": "N4",
+    "meaning": "Try doing",
+    "structure": "[Verb te-form] + みる",
+    "explanation": "Doing something to see what it is like. (Variation 23)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は22です。",
+        "english": "I am 22."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-24",
+    "title": "～ておく #24",
+    "level": "N4",
+    "meaning": "Do in advance",
+    "structure": "[Verb te-form] + おく",
+    "explanation": "Doing something in preparation. (Variation 24)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は23です。",
+        "english": "I am 23."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-25",
+    "title": "～てしまう #25",
+    "level": "N4",
+    "meaning": "Finish doing / Regret",
+    "structure": "[Verb te-form] + しまう",
+    "explanation": "Completion or regret. (Variation 25)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は24です。",
+        "english": "I am 24."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-26",
+    "title": "～かもしれない #26",
+    "level": "N4",
+    "meaning": "Might / May",
+    "structure": "[Plain form] + かもしれない",
+    "explanation": "Used to express uncertainty. (Variation 26)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は25です。",
+        "english": "I am 25."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-27",
+    "title": "～なければならない #27",
+    "level": "N4",
+    "meaning": "Must / Have to",
+    "structure": "[Verb negative base] + なければならない",
+    "explanation": "Expresses obligation. (Variation 27)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は26です。",
+        "english": "I am 26."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-28",
+    "title": "～てみる #28",
+    "level": "N4",
+    "meaning": "Try doing",
+    "structure": "[Verb te-form] + みる",
+    "explanation": "Doing something to see what it is like. (Variation 28)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は27です。",
+        "english": "I am 27."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-29",
+    "title": "～ておく #29",
+    "level": "N4",
+    "meaning": "Do in advance",
+    "structure": "[Verb te-form] + おく",
+    "explanation": "Doing something in preparation. (Variation 29)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は28です。",
+        "english": "I am 28."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-30",
+    "title": "～てしまう #30",
+    "level": "N4",
+    "meaning": "Finish doing / Regret",
+    "structure": "[Verb te-form] + しまう",
+    "explanation": "Completion or regret. (Variation 30)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は29です。",
+        "english": "I am 29."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-31",
+    "title": "～かもしれない #31",
+    "level": "N4",
+    "meaning": "Might / May",
+    "structure": "[Plain form] + かもしれない",
+    "explanation": "Used to express uncertainty. (Variation 31)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は30です。",
+        "english": "I am 30."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-32",
+    "title": "～なければならない #32",
+    "level": "N4",
+    "meaning": "Must / Have to",
+    "structure": "[Verb negative base] + なければならない",
+    "explanation": "Expresses obligation. (Variation 32)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は31です。",
+        "english": "I am 31."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-33",
+    "title": "～てみる #33",
+    "level": "N4",
+    "meaning": "Try doing",
+    "structure": "[Verb te-form] + みる",
+    "explanation": "Doing something to see what it is like. (Variation 33)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は32です。",
+        "english": "I am 32."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-34",
+    "title": "～ておく #34",
+    "level": "N4",
+    "meaning": "Do in advance",
+    "structure": "[Verb te-form] + おく",
+    "explanation": "Doing something in preparation. (Variation 34)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は33です。",
+        "english": "I am 33."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-35",
+    "title": "～てしまう #35",
+    "level": "N4",
+    "meaning": "Finish doing / Regret",
+    "structure": "[Verb te-form] + しまう",
+    "explanation": "Completion or regret. (Variation 35)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は34です。",
+        "english": "I am 34."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-36",
+    "title": "～かもしれない #36",
+    "level": "N4",
+    "meaning": "Might / May",
+    "structure": "[Plain form] + かもしれない",
+    "explanation": "Used to express uncertainty. (Variation 36)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は35です。",
+        "english": "I am 35."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-37",
+    "title": "～なければならない #37",
+    "level": "N4",
+    "meaning": "Must / Have to",
+    "structure": "[Verb negative base] + なければならない",
+    "explanation": "Expresses obligation. (Variation 37)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は36です。",
+        "english": "I am 36."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-38",
+    "title": "～てみる #38",
+    "level": "N4",
+    "meaning": "Try doing",
+    "structure": "[Verb te-form] + みる",
+    "explanation": "Doing something to see what it is like. (Variation 38)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は37です。",
+        "english": "I am 37."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-39",
+    "title": "～ておく #39",
+    "level": "N4",
+    "meaning": "Do in advance",
+    "structure": "[Verb te-form] + おく",
+    "explanation": "Doing something in preparation. (Variation 39)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は38です。",
+        "english": "I am 38."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-40",
+    "title": "～てしまう #40",
+    "level": "N4",
+    "meaning": "Finish doing / Regret",
+    "structure": "[Verb te-form] + しまう",
+    "explanation": "Completion or regret. (Variation 40)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は39です。",
+        "english": "I am 39."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-41",
+    "title": "～かもしれない #41",
+    "level": "N4",
+    "meaning": "Might / May",
+    "structure": "[Plain form] + かもしれない",
+    "explanation": "Used to express uncertainty. (Variation 41)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は40です。",
+        "english": "I am 40."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-42",
+    "title": "～なければならない #42",
+    "level": "N4",
+    "meaning": "Must / Have to",
+    "structure": "[Verb negative base] + なければならない",
+    "explanation": "Expresses obligation. (Variation 42)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は41です。",
+        "english": "I am 41."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-43",
+    "title": "～てみる #43",
+    "level": "N4",
+    "meaning": "Try doing",
+    "structure": "[Verb te-form] + みる",
+    "explanation": "Doing something to see what it is like. (Variation 43)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は42です。",
+        "english": "I am 42."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-44",
+    "title": "～ておく #44",
+    "level": "N4",
+    "meaning": "Do in advance",
+    "structure": "[Verb te-form] + おく",
+    "explanation": "Doing something in preparation. (Variation 44)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は43です。",
+        "english": "I am 43."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-45",
+    "title": "～てしまう #45",
+    "level": "N4",
+    "meaning": "Finish doing / Regret",
+    "structure": "[Verb te-form] + しまう",
+    "explanation": "Completion or regret. (Variation 45)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は44です。",
+        "english": "I am 44."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-46",
+    "title": "～かもしれない #46",
+    "level": "N4",
+    "meaning": "Might / May",
+    "structure": "[Plain form] + かもしれない",
+    "explanation": "Used to express uncertainty. (Variation 46)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は45です。",
+        "english": "I am 45."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-47",
+    "title": "～なければならない #47",
+    "level": "N4",
+    "meaning": "Must / Have to",
+    "structure": "[Verb negative base] + なければならない",
+    "explanation": "Expresses obligation. (Variation 47)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は46です。",
+        "english": "I am 46."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-48",
+    "title": "～てみる #48",
+    "level": "N4",
+    "meaning": "Try doing",
+    "structure": "[Verb te-form] + みる",
+    "explanation": "Doing something to see what it is like. (Variation 48)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は47です。",
+        "english": "I am 47."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-49",
+    "title": "～ておく #49",
+    "level": "N4",
+    "meaning": "Do in advance",
+    "structure": "[Verb te-form] + おく",
+    "explanation": "Doing something in preparation. (Variation 49)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は48です。",
+        "english": "I am 48."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-50",
+    "title": "～てしまう #50",
+    "level": "N4",
+    "meaning": "Finish doing / Regret",
+    "structure": "[Verb te-form] + しまう",
+    "explanation": "Completion or regret. (Variation 50)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は49です。",
+        "english": "I am 49."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-51",
+    "title": "～かもしれない #51",
+    "level": "N4",
+    "meaning": "Might / May",
+    "structure": "[Plain form] + かもしれない",
+    "explanation": "Used to express uncertainty. (Variation 51)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は50です。",
+        "english": "I am 50."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-52",
+    "title": "～なければならない #52",
+    "level": "N4",
+    "meaning": "Must / Have to",
+    "structure": "[Verb negative base] + なければならない",
+    "explanation": "Expresses obligation. (Variation 52)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は51です。",
+        "english": "I am 51."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-53",
+    "title": "～てみる #53",
+    "level": "N4",
+    "meaning": "Try doing",
+    "structure": "[Verb te-form] + みる",
+    "explanation": "Doing something to see what it is like. (Variation 53)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は52です。",
+        "english": "I am 52."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-54",
+    "title": "～ておく #54",
+    "level": "N4",
+    "meaning": "Do in advance",
+    "structure": "[Verb te-form] + おく",
+    "explanation": "Doing something in preparation. (Variation 54)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は53です。",
+        "english": "I am 53."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-55",
+    "title": "～てしまう #55",
+    "level": "N4",
+    "meaning": "Finish doing / Regret",
+    "structure": "[Verb te-form] + しまう",
+    "explanation": "Completion or regret. (Variation 55)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は54です。",
+        "english": "I am 54."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-56",
+    "title": "～かもしれない #56",
+    "level": "N4",
+    "meaning": "Might / May",
+    "structure": "[Plain form] + かもしれない",
+    "explanation": "Used to express uncertainty. (Variation 56)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は55です。",
+        "english": "I am 55."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-57",
+    "title": "～なければならない #57",
+    "level": "N4",
+    "meaning": "Must / Have to",
+    "structure": "[Verb negative base] + なければならない",
+    "explanation": "Expresses obligation. (Variation 57)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は56です。",
+        "english": "I am 56."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-58",
+    "title": "～てみる #58",
+    "level": "N4",
+    "meaning": "Try doing",
+    "structure": "[Verb te-form] + みる",
+    "explanation": "Doing something to see what it is like. (Variation 58)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は57です。",
+        "english": "I am 57."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-59",
+    "title": "～ておく #59",
+    "level": "N4",
+    "meaning": "Do in advance",
+    "structure": "[Verb te-form] + おく",
+    "explanation": "Doing something in preparation. (Variation 59)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は58です。",
+        "english": "I am 58."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-60",
+    "title": "～てしまう #60",
+    "level": "N4",
+    "meaning": "Finish doing / Regret",
+    "structure": "[Verb te-form] + しまう",
+    "explanation": "Completion or regret. (Variation 60)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は59です。",
+        "english": "I am 59."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-61",
+    "title": "～かもしれない #61",
+    "level": "N4",
+    "meaning": "Might / May",
+    "structure": "[Plain form] + かもしれない",
+    "explanation": "Used to express uncertainty. (Variation 61)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は60です。",
+        "english": "I am 60."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-62",
+    "title": "～なければならない #62",
+    "level": "N4",
+    "meaning": "Must / Have to",
+    "structure": "[Verb negative base] + なければならない",
+    "explanation": "Expresses obligation. (Variation 62)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は61です。",
+        "english": "I am 61."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-63",
+    "title": "～てみる #63",
+    "level": "N4",
+    "meaning": "Try doing",
+    "structure": "[Verb te-form] + みる",
+    "explanation": "Doing something to see what it is like. (Variation 63)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は62です。",
+        "english": "I am 62."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-64",
+    "title": "～ておく #64",
+    "level": "N4",
+    "meaning": "Do in advance",
+    "structure": "[Verb te-form] + おく",
+    "explanation": "Doing something in preparation. (Variation 64)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は63です。",
+        "english": "I am 63."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-65",
+    "title": "～てしまう #65",
+    "level": "N4",
+    "meaning": "Finish doing / Regret",
+    "structure": "[Verb te-form] + しまう",
+    "explanation": "Completion or regret. (Variation 65)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は64です。",
+        "english": "I am 64."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-66",
+    "title": "～かもしれない #66",
+    "level": "N4",
+    "meaning": "Might / May",
+    "structure": "[Plain form] + かもしれない",
+    "explanation": "Used to express uncertainty. (Variation 66)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は65です。",
+        "english": "I am 65."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-67",
+    "title": "～なければならない #67",
+    "level": "N4",
+    "meaning": "Must / Have to",
+    "structure": "[Verb negative base] + なければならない",
+    "explanation": "Expresses obligation. (Variation 67)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は66です。",
+        "english": "I am 66."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-68",
+    "title": "～てみる #68",
+    "level": "N4",
+    "meaning": "Try doing",
+    "structure": "[Verb te-form] + みる",
+    "explanation": "Doing something to see what it is like. (Variation 68)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は67です。",
+        "english": "I am 67."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-69",
+    "title": "～ておく #69",
+    "level": "N4",
+    "meaning": "Do in advance",
+    "structure": "[Verb te-form] + おく",
+    "explanation": "Doing something in preparation. (Variation 69)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は68です。",
+        "english": "I am 68."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-70",
+    "title": "～てしまう #70",
+    "level": "N4",
+    "meaning": "Finish doing / Regret",
+    "structure": "[Verb te-form] + しまう",
+    "explanation": "Completion or regret. (Variation 70)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は69です。",
+        "english": "I am 69."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-71",
+    "title": "～かもしれない #71",
+    "level": "N4",
+    "meaning": "Might / May",
+    "structure": "[Plain form] + かもしれない",
+    "explanation": "Used to express uncertainty. (Variation 71)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は70です。",
+        "english": "I am 70."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-72",
+    "title": "～なければならない #72",
+    "level": "N4",
+    "meaning": "Must / Have to",
+    "structure": "[Verb negative base] + なければならない",
+    "explanation": "Expresses obligation. (Variation 72)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は71です。",
+        "english": "I am 71."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-73",
+    "title": "～てみる #73",
+    "level": "N4",
+    "meaning": "Try doing",
+    "structure": "[Verb te-form] + みる",
+    "explanation": "Doing something to see what it is like. (Variation 73)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は72です。",
+        "english": "I am 72."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-74",
+    "title": "～ておく #74",
+    "level": "N4",
+    "meaning": "Do in advance",
+    "structure": "[Verb te-form] + おく",
+    "explanation": "Doing something in preparation. (Variation 74)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は73です。",
+        "english": "I am 73."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-75",
+    "title": "～てしまう #75",
+    "level": "N4",
+    "meaning": "Finish doing / Regret",
+    "structure": "[Verb te-form] + しまう",
+    "explanation": "Completion or regret. (Variation 75)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は74です。",
+        "english": "I am 74."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-76",
+    "title": "～かもしれない #76",
+    "level": "N4",
+    "meaning": "Might / May",
+    "structure": "[Plain form] + かもしれない",
+    "explanation": "Used to express uncertainty. (Variation 76)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は75です。",
+        "english": "I am 75."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-77",
+    "title": "～なければならない #77",
+    "level": "N4",
+    "meaning": "Must / Have to",
+    "structure": "[Verb negative base] + なければならない",
+    "explanation": "Expresses obligation. (Variation 77)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は76です。",
+        "english": "I am 76."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-78",
+    "title": "～てみる #78",
+    "level": "N4",
+    "meaning": "Try doing",
+    "structure": "[Verb te-form] + みる",
+    "explanation": "Doing something to see what it is like. (Variation 78)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は77です。",
+        "english": "I am 77."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-79",
+    "title": "～ておく #79",
+    "level": "N4",
+    "meaning": "Do in advance",
+    "structure": "[Verb te-form] + おく",
+    "explanation": "Doing something in preparation. (Variation 79)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は78です。",
+        "english": "I am 78."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-80",
+    "title": "～てしまう #80",
+    "level": "N4",
+    "meaning": "Finish doing / Regret",
+    "structure": "[Verb te-form] + しまう",
+    "explanation": "Completion or regret. (Variation 80)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は79です。",
+        "english": "I am 79."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-81",
+    "title": "～かもしれない #81",
+    "level": "N4",
+    "meaning": "Might / May",
+    "structure": "[Plain form] + かもしれない",
+    "explanation": "Used to express uncertainty. (Variation 81)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は80です。",
+        "english": "I am 80."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-82",
+    "title": "～なければならない #82",
+    "level": "N4",
+    "meaning": "Must / Have to",
+    "structure": "[Verb negative base] + なければならない",
+    "explanation": "Expresses obligation. (Variation 82)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は81です。",
+        "english": "I am 81."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-83",
+    "title": "～てみる #83",
+    "level": "N4",
+    "meaning": "Try doing",
+    "structure": "[Verb te-form] + みる",
+    "explanation": "Doing something to see what it is like. (Variation 83)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は82です。",
+        "english": "I am 82."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-84",
+    "title": "～ておく #84",
+    "level": "N4",
+    "meaning": "Do in advance",
+    "structure": "[Verb te-form] + おく",
+    "explanation": "Doing something in preparation. (Variation 84)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は83です。",
+        "english": "I am 83."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-85",
+    "title": "～てしまう #85",
+    "level": "N4",
+    "meaning": "Finish doing / Regret",
+    "structure": "[Verb te-form] + しまう",
+    "explanation": "Completion or regret. (Variation 85)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は84です。",
+        "english": "I am 84."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-86",
+    "title": "～かもしれない #86",
+    "level": "N4",
+    "meaning": "Might / May",
+    "structure": "[Plain form] + かもしれない",
+    "explanation": "Used to express uncertainty. (Variation 86)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は85です。",
+        "english": "I am 85."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-87",
+    "title": "～なければならない #87",
+    "level": "N4",
+    "meaning": "Must / Have to",
+    "structure": "[Verb negative base] + なければならない",
+    "explanation": "Expresses obligation. (Variation 87)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は86です。",
+        "english": "I am 86."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-88",
+    "title": "～てみる #88",
+    "level": "N4",
+    "meaning": "Try doing",
+    "structure": "[Verb te-form] + みる",
+    "explanation": "Doing something to see what it is like. (Variation 88)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は87です。",
+        "english": "I am 87."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-89",
+    "title": "～ておく #89",
+    "level": "N4",
+    "meaning": "Do in advance",
+    "structure": "[Verb te-form] + おく",
+    "explanation": "Doing something in preparation. (Variation 89)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は88です。",
+        "english": "I am 88."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-90",
+    "title": "～てしまう #90",
+    "level": "N4",
+    "meaning": "Finish doing / Regret",
+    "structure": "[Verb te-form] + しまう",
+    "explanation": "Completion or regret. (Variation 90)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は89です。",
+        "english": "I am 89."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-91",
+    "title": "～かもしれない #91",
+    "level": "N4",
+    "meaning": "Might / May",
+    "structure": "[Plain form] + かもしれない",
+    "explanation": "Used to express uncertainty. (Variation 91)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は90です。",
+        "english": "I am 90."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-92",
+    "title": "～なければならない #92",
+    "level": "N4",
+    "meaning": "Must / Have to",
+    "structure": "[Verb negative base] + なければならない",
+    "explanation": "Expresses obligation. (Variation 92)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は91です。",
+        "english": "I am 91."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-93",
+    "title": "～てみる #93",
+    "level": "N4",
+    "meaning": "Try doing",
+    "structure": "[Verb te-form] + みる",
+    "explanation": "Doing something to see what it is like. (Variation 93)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は92です。",
+        "english": "I am 92."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-94",
+    "title": "～ておく #94",
+    "level": "N4",
+    "meaning": "Do in advance",
+    "structure": "[Verb te-form] + おく",
+    "explanation": "Doing something in preparation. (Variation 94)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は93です。",
+        "english": "I am 93."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-95",
+    "title": "～てしまう #95",
+    "level": "N4",
+    "meaning": "Finish doing / Regret",
+    "structure": "[Verb te-form] + しまう",
+    "explanation": "Completion or regret. (Variation 95)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は94です。",
+        "english": "I am 94."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-96",
+    "title": "～かもしれない #96",
+    "level": "N4",
+    "meaning": "Might / May",
+    "structure": "[Plain form] + かもしれない",
+    "explanation": "Used to express uncertainty. (Variation 96)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は95です。",
+        "english": "I am 95."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-97",
+    "title": "～なければならない #97",
+    "level": "N4",
+    "meaning": "Must / Have to",
+    "structure": "[Verb negative base] + なければならない",
+    "explanation": "Expresses obligation. (Variation 97)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は96です。",
+        "english": "I am 96."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-98",
+    "title": "～てみる #98",
+    "level": "N4",
+    "meaning": "Try doing",
+    "structure": "[Verb te-form] + みる",
+    "explanation": "Doing something to see what it is like. (Variation 98)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は97です。",
+        "english": "I am 97."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-99",
+    "title": "～ておく #99",
+    "level": "N4",
+    "meaning": "Do in advance",
+    "structure": "[Verb te-form] + おく",
+    "explanation": "Doing something in preparation. (Variation 99)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は98です。",
+        "english": "I am 98."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-100",
+    "title": "～てしまう #100",
+    "level": "N4",
+    "meaning": "Finish doing / Regret",
+    "structure": "[Verb te-form] + しまう",
+    "explanation": "Completion or regret. (Variation 100)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は99です。",
+        "english": "I am 99."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-101",
+    "title": "～かもしれない #101",
+    "level": "N4",
+    "meaning": "Might / May",
+    "structure": "[Plain form] + かもしれない",
+    "explanation": "Used to express uncertainty. (Variation 101)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は100です。",
+        "english": "I am 100."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-102",
+    "title": "～なければならない #102",
+    "level": "N4",
+    "meaning": "Must / Have to",
+    "structure": "[Verb negative base] + なければならない",
+    "explanation": "Expresses obligation. (Variation 102)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は101です。",
+        "english": "I am 101."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-103",
+    "title": "～てみる #103",
+    "level": "N4",
+    "meaning": "Try doing",
+    "structure": "[Verb te-form] + みる",
+    "explanation": "Doing something to see what it is like. (Variation 103)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は102です。",
+        "english": "I am 102."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-104",
+    "title": "～ておく #104",
+    "level": "N4",
+    "meaning": "Do in advance",
+    "structure": "[Verb te-form] + おく",
+    "explanation": "Doing something in preparation. (Variation 104)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は103です。",
+        "english": "I am 103."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-105",
+    "title": "～てしまう #105",
+    "level": "N4",
+    "meaning": "Finish doing / Regret",
+    "structure": "[Verb te-form] + しまう",
+    "explanation": "Completion or regret. (Variation 105)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は104です。",
+        "english": "I am 104."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-106",
+    "title": "～かもしれない #106",
+    "level": "N4",
+    "meaning": "Might / May",
+    "structure": "[Plain form] + かもしれない",
+    "explanation": "Used to express uncertainty. (Variation 106)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は105です。",
+        "english": "I am 105."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-107",
+    "title": "～なければならない #107",
+    "level": "N4",
+    "meaning": "Must / Have to",
+    "structure": "[Verb negative base] + なければならない",
+    "explanation": "Expresses obligation. (Variation 107)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は106です。",
+        "english": "I am 106."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-108",
+    "title": "～てみる #108",
+    "level": "N4",
+    "meaning": "Try doing",
+    "structure": "[Verb te-form] + みる",
+    "explanation": "Doing something to see what it is like. (Variation 108)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は107です。",
+        "english": "I am 107."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-109",
+    "title": "～ておく #109",
+    "level": "N4",
+    "meaning": "Do in advance",
+    "structure": "[Verb te-form] + おく",
+    "explanation": "Doing something in preparation. (Variation 109)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は108です。",
+        "english": "I am 108."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-110",
+    "title": "～てしまう #110",
+    "level": "N4",
+    "meaning": "Finish doing / Regret",
+    "structure": "[Verb te-form] + しまう",
+    "explanation": "Completion or regret. (Variation 110)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は109です。",
+        "english": "I am 109."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-111",
+    "title": "～かもしれない #111",
+    "level": "N4",
+    "meaning": "Might / May",
+    "structure": "[Plain form] + かもしれない",
+    "explanation": "Used to express uncertainty. (Variation 111)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は110です。",
+        "english": "I am 110."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-112",
+    "title": "～なければならない #112",
+    "level": "N4",
+    "meaning": "Must / Have to",
+    "structure": "[Verb negative base] + なければならない",
+    "explanation": "Expresses obligation. (Variation 112)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は111です。",
+        "english": "I am 111."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-113",
+    "title": "～てみる #113",
+    "level": "N4",
+    "meaning": "Try doing",
+    "structure": "[Verb te-form] + みる",
+    "explanation": "Doing something to see what it is like. (Variation 113)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は112です。",
+        "english": "I am 112."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-114",
+    "title": "～ておく #114",
+    "level": "N4",
+    "meaning": "Do in advance",
+    "structure": "[Verb te-form] + おく",
+    "explanation": "Doing something in preparation. (Variation 114)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は113です。",
+        "english": "I am 113."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-115",
+    "title": "～てしまう #115",
+    "level": "N4",
+    "meaning": "Finish doing / Regret",
+    "structure": "[Verb te-form] + しまう",
+    "explanation": "Completion or regret. (Variation 115)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は114です。",
+        "english": "I am 114."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-116",
+    "title": "～かもしれない #116",
+    "level": "N4",
+    "meaning": "Might / May",
+    "structure": "[Plain form] + かもしれない",
+    "explanation": "Used to express uncertainty. (Variation 116)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は115です。",
+        "english": "I am 115."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-117",
+    "title": "～なければならない #117",
+    "level": "N4",
+    "meaning": "Must / Have to",
+    "structure": "[Verb negative base] + なければならない",
+    "explanation": "Expresses obligation. (Variation 117)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は116です。",
+        "english": "I am 116."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-118",
+    "title": "～てみる #118",
+    "level": "N4",
+    "meaning": "Try doing",
+    "structure": "[Verb te-form] + みる",
+    "explanation": "Doing something to see what it is like. (Variation 118)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は117です。",
+        "english": "I am 117."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-119",
+    "title": "～ておく #119",
+    "level": "N4",
+    "meaning": "Do in advance",
+    "structure": "[Verb te-form] + おく",
+    "explanation": "Doing something in preparation. (Variation 119)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は118です。",
+        "english": "I am 118."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-120",
+    "title": "～てしまう #120",
+    "level": "N4",
+    "meaning": "Finish doing / Regret",
+    "structure": "[Verb te-form] + しまう",
+    "explanation": "Completion or regret. (Variation 120)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は119です。",
+        "english": "I am 119."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-121",
+    "title": "～かもしれない #121",
+    "level": "N4",
+    "meaning": "Might / May",
+    "structure": "[Plain form] + かもしれない",
+    "explanation": "Used to express uncertainty. (Variation 121)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は120です。",
+        "english": "I am 120."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-122",
+    "title": "～なければならない #122",
+    "level": "N4",
+    "meaning": "Must / Have to",
+    "structure": "[Verb negative base] + なければならない",
+    "explanation": "Expresses obligation. (Variation 122)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は121です。",
+        "english": "I am 121."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-123",
+    "title": "～てみる #123",
+    "level": "N4",
+    "meaning": "Try doing",
+    "structure": "[Verb te-form] + みる",
+    "explanation": "Doing something to see what it is like. (Variation 123)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は122です。",
+        "english": "I am 122."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-124",
+    "title": "～ておく #124",
+    "level": "N4",
+    "meaning": "Do in advance",
+    "structure": "[Verb te-form] + おく",
+    "explanation": "Doing something in preparation. (Variation 124)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は123です。",
+        "english": "I am 123."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-125",
+    "title": "～てしまう #125",
+    "level": "N4",
+    "meaning": "Finish doing / Regret",
+    "structure": "[Verb te-form] + しまう",
+    "explanation": "Completion or regret. (Variation 125)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は124です。",
+        "english": "I am 124."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-126",
+    "title": "～かもしれない #126",
+    "level": "N4",
+    "meaning": "Might / May",
+    "structure": "[Plain form] + かもしれない",
+    "explanation": "Used to express uncertainty. (Variation 126)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は125です。",
+        "english": "I am 125."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-127",
+    "title": "～なければならない #127",
+    "level": "N4",
+    "meaning": "Must / Have to",
+    "structure": "[Verb negative base] + なければならない",
+    "explanation": "Expresses obligation. (Variation 127)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は126です。",
+        "english": "I am 126."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-128",
+    "title": "～てみる #128",
+    "level": "N4",
+    "meaning": "Try doing",
+    "structure": "[Verb te-form] + みる",
+    "explanation": "Doing something to see what it is like. (Variation 128)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は127です。",
+        "english": "I am 127."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-129",
+    "title": "～ておく #129",
+    "level": "N4",
+    "meaning": "Do in advance",
+    "structure": "[Verb te-form] + おく",
+    "explanation": "Doing something in preparation. (Variation 129)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は128です。",
+        "english": "I am 128."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-130",
+    "title": "～てしまう #130",
+    "level": "N4",
+    "meaning": "Finish doing / Regret",
+    "structure": "[Verb te-form] + しまう",
+    "explanation": "Completion or regret. (Variation 130)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は129です。",
+        "english": "I am 129."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-131",
+    "title": "～かもしれない #131",
+    "level": "N4",
+    "meaning": "Might / May",
+    "structure": "[Plain form] + かもしれない",
+    "explanation": "Used to express uncertainty. (Variation 131)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は130です。",
+        "english": "I am 130."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-132",
+    "title": "～なければならない #132",
+    "level": "N4",
+    "meaning": "Must / Have to",
+    "structure": "[Verb negative base] + なければならない",
+    "explanation": "Expresses obligation. (Variation 132)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は131です。",
+        "english": "I am 131."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-133",
+    "title": "～てみる #133",
+    "level": "N4",
+    "meaning": "Try doing",
+    "structure": "[Verb te-form] + みる",
+    "explanation": "Doing something to see what it is like. (Variation 133)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は132です。",
+        "english": "I am 132."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-134",
+    "title": "～ておく #134",
+    "level": "N4",
+    "meaning": "Do in advance",
+    "structure": "[Verb te-form] + おく",
+    "explanation": "Doing something in preparation. (Variation 134)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は133です。",
+        "english": "I am 133."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-135",
+    "title": "～てしまう #135",
+    "level": "N4",
+    "meaning": "Finish doing / Regret",
+    "structure": "[Verb te-form] + しまう",
+    "explanation": "Completion or regret. (Variation 135)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は134です。",
+        "english": "I am 134."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-136",
+    "title": "～かもしれない #136",
+    "level": "N4",
+    "meaning": "Might / May",
+    "structure": "[Plain form] + かもしれない",
+    "explanation": "Used to express uncertainty. (Variation 136)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は135です。",
+        "english": "I am 135."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-137",
+    "title": "～なければならない #137",
+    "level": "N4",
+    "meaning": "Must / Have to",
+    "structure": "[Verb negative base] + なければならない",
+    "explanation": "Expresses obligation. (Variation 137)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は136です。",
+        "english": "I am 136."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-138",
+    "title": "～てみる #138",
+    "level": "N4",
+    "meaning": "Try doing",
+    "structure": "[Verb te-form] + みる",
+    "explanation": "Doing something to see what it is like. (Variation 138)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は137です。",
+        "english": "I am 137."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-139",
+    "title": "～ておく #139",
+    "level": "N4",
+    "meaning": "Do in advance",
+    "structure": "[Verb te-form] + おく",
+    "explanation": "Doing something in preparation. (Variation 139)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は138です。",
+        "english": "I am 138."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-140",
+    "title": "～てしまう #140",
+    "level": "N4",
+    "meaning": "Finish doing / Regret",
+    "structure": "[Verb te-form] + しまう",
+    "explanation": "Completion or regret. (Variation 140)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は139です。",
+        "english": "I am 139."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-141",
+    "title": "～かもしれない #141",
+    "level": "N4",
+    "meaning": "Might / May",
+    "structure": "[Plain form] + かもしれない",
+    "explanation": "Used to express uncertainty. (Variation 141)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は140です。",
+        "english": "I am 140."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-142",
+    "title": "～なければならない #142",
+    "level": "N4",
+    "meaning": "Must / Have to",
+    "structure": "[Verb negative base] + なければならない",
+    "explanation": "Expresses obligation. (Variation 142)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は141です。",
+        "english": "I am 141."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-143",
+    "title": "～てみる #143",
+    "level": "N4",
+    "meaning": "Try doing",
+    "structure": "[Verb te-form] + みる",
+    "explanation": "Doing something to see what it is like. (Variation 143)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は142です。",
+        "english": "I am 142."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-144",
+    "title": "～ておく #144",
+    "level": "N4",
+    "meaning": "Do in advance",
+    "structure": "[Verb te-form] + おく",
+    "explanation": "Doing something in preparation. (Variation 144)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は143です。",
+        "english": "I am 143."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-145",
+    "title": "～てしまう #145",
+    "level": "N4",
+    "meaning": "Finish doing / Regret",
+    "structure": "[Verb te-form] + しまう",
+    "explanation": "Completion or regret. (Variation 145)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は144です。",
+        "english": "I am 144."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-146",
+    "title": "～かもしれない #146",
+    "level": "N4",
+    "meaning": "Might / May",
+    "structure": "[Plain form] + かもしれない",
+    "explanation": "Used to express uncertainty. (Variation 146)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は145です。",
+        "english": "I am 145."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-147",
+    "title": "～なければならない #147",
+    "level": "N4",
+    "meaning": "Must / Have to",
+    "structure": "[Verb negative base] + なければならない",
+    "explanation": "Expresses obligation. (Variation 147)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は146です。",
+        "english": "I am 146."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-148",
+    "title": "～てみる #148",
+    "level": "N4",
+    "meaning": "Try doing",
+    "structure": "[Verb te-form] + みる",
+    "explanation": "Doing something to see what it is like. (Variation 148)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は147です。",
+        "english": "I am 147."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-149",
+    "title": "～ておく #149",
+    "level": "N4",
+    "meaning": "Do in advance",
+    "structure": "[Verb te-form] + おく",
+    "explanation": "Doing something in preparation. (Variation 149)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は148です。",
+        "english": "I am 148."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  },
+  {
+    "id": "n4-150",
+    "title": "～てしまう #150",
+    "level": "N4",
+    "meaning": "Finish doing / Regret",
+    "structure": "[Verb te-form] + しまう",
+    "explanation": "Completion or regret. (Variation 150)",
+    "examples": [
+      {
+        "japanese": "私<ruby>わたし<rt>watashi</rt></ruby>は149です。",
+        "english": "I am 149."
+      },
+      {
+        "japanese": "これはペンです。",
+        "english": "This is a pen."
+      }
+    ]
+  }
+]

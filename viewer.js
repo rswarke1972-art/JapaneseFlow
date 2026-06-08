@@ -63,6 +63,20 @@ if (script === "kanji" || script === "chinese") {
     currentStroke++;
   };
 
+  window.startWritingQuiz = function() {
+    writer.quiz({
+      onMistake: function(strokeData) {
+        console.log('Oh no! you made a mistake on stroke ' + strokeData.strokeNum);
+        console.log("Mistakes so far on this stroke: " + strokeData.mistakesOnStroke);
+        console.log("Total mistakes: " + strokeData.totalMistakes);
+      },
+      onComplete: function(summaryData) {
+        alert('You did it! You drew the character correctly.');
+        // Optionally bump SRS rating if they pass the quiz!
+      }
+    });
+  };
+
 } 
 
 // ================================
@@ -97,3 +111,46 @@ else {
 function goBack() {
   window.history.back();
 }
+
+// ===== AUDIO & SRS (V2.5) =====
+window.playAudio = function() {
+  if ('speechSynthesis' in window) {
+    const utterance = new SpeechSynthesisUtterance(charObj.char);
+    utterance.lang = 'ja-JP';
+    window.speechSynthesis.speak(utterance);
+  } else {
+    alert("Text-to-speech not supported in this browser.");
+  }
+};
+
+window.addToSRS = function() {
+  if (typeof SRS !== 'undefined') {
+    let item = SRS.getItem(charObj.char);
+    if (item.stage === 0) {
+      // Add as Stage 1
+      item.stage = 1;
+      item.nextReview = Date.now(); // Due immediately
+      item.script = script;
+      SRS.data.characters[charObj.char] = item;
+      SRS.save();
+      document.getElementById('srsAddBtn').innerText = "✅ Added to Reviews";
+      document.getElementById('srsAddBtn').disabled = true;
+    } else {
+      alert("Already in review queue!");
+    }
+  }
+};
+
+// Check if already in SRS
+document.addEventListener('DOMContentLoaded', () => {
+  if (typeof SRS !== 'undefined') {
+    let item = SRS.getItem(charObj.char);
+    if (item.stage > 0) {
+      const btn = document.getElementById('srsAddBtn');
+      if (btn) {
+        btn.innerText = "✅ In Reviews";
+        btn.disabled = true;
+      }
+    }
+  }
+});

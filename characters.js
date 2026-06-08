@@ -26,8 +26,7 @@ window.addEventListener("scroll", () => {
 });
 
 // ===== LOAD DATA =====
-fetch("data.json")
-  .then(res => res.json())
+DataLoader.loadAll()
   .then(json => {
     data = json;
 

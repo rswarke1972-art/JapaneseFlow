@@ -3,8 +3,7 @@ let allCharacters = [];
 // ===== LOAD DATA =====
 async function loadData() {
   try {
-    let res = await fetch("data.json");
-    let data = await res.json();
+    let data = await DataLoader.loadAll();
 
     // 🔥 IMPORTANT: get ALL characters
     allCharacters = getAllCharacters(data);

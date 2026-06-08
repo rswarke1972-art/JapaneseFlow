@@ -1,5 +1,4 @@
-fetch("data.json")
-  .then(res => res.json())
+DataLoader.loadAll()
   .then(data => {
     const stories = data.stories;
     const container = document.getElementById("storyList");

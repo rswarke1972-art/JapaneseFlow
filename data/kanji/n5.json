@@ -1,0 +1,826 @@
+[
+  {
+    "char": "一",
+    "romaji": "ichi",
+    "meaning": "one",
+    "example": "一つ",
+    "example_romaji": "hitotsu",
+    "explanation": "一 means 'one' and is used for counting."
+  },
+  {
+    "char": "二",
+    "romaji": "ni",
+    "meaning": "two",
+    "example": "二つ",
+    "example_romaji": "futatsu",
+    "explanation": "二 means 'two' and is used for counting."
+  },
+  {
+    "char": "三",
+    "romaji": "san",
+    "meaning": "three",
+    "example": "三つ",
+    "example_romaji": "mittsu",
+    "explanation": "三 means 'three' and is used for counting."
+  },
+  {
+    "char": "四",
+    "romaji": "shi",
+    "meaning": "four",
+    "example": "四つ",
+    "example_romaji": "yottsu",
+    "explanation": "四 means 'four' and can also be read as 'yon'."
+  },
+  {
+    "char": "五",
+    "romaji": "go",
+    "meaning": "five",
+    "example": "五つ",
+    "example_romaji": "itsutsu",
+    "explanation": "五 means 'five' and is used for counting."
+  },
+  {
+    "char": "六",
+    "romaji": "roku",
+    "meaning": "six",
+    "example": "六つ",
+    "example_romaji": "muttsu",
+    "explanation": "六 means 'six' and is used for counting."
+  },
+  {
+    "char": "七",
+    "romaji": "nana",
+    "meaning": "seven",
+    "example": "七つ",
+    "example_romaji": "nanatsu",
+    "explanation": "七 means 'seven' and can also be read as 'shichi'."
+  },
+  {
+    "char": "八",
+    "romaji": "hachi",
+    "meaning": "eight",
+    "example": "八つ",
+    "example_romaji": "yattsu",
+    "explanation": "八 means 'eight' and is used for counting."
+  },
+  {
+    "char": "九",
+    "romaji": "kyuu",
+    "meaning": "nine",
+    "example": "九つ",
+    "example_romaji": "kokonotsu",
+    "explanation": "九 means 'nine' and can also be read as 'ku'."
+  },
+  {
+    "char": "十",
+    "romaji": "juu",
+    "meaning": "ten",
+    "example": "十",
+    "example_romaji": "juu",
+    "explanation": "十 means 'ten'."
+  },
+  {
+    "char": "人",
+    "romaji": "hito",
+    "meaning": "person",
+    "example": "日本人",
+    "example_romaji": "nihonjin",
+    "explanation": "人 means 'person' and is used in words like 'Japanese person'."
+  },
+  {
+    "char": "今",
+    "romaji": "ima",
+    "meaning": "now",
+    "example": "今",
+    "example_romaji": "ima",
+    "explanation": "今 means 'now' or 'the present time'."
+  },
+  {
+    "char": "日",
+    "romaji": "hi",
+    "meaning": "sun, day",
+    "example": "今日",
+    "example_romaji": "kyou",
+    "explanation": "日 means 'sun' or 'day' and appears in words like 'today'."
+  },
+  {
+    "char": "週",
+    "romaji": "shuu",
+    "meaning": "week",
+    "example": "一週間",
+    "example_romaji": "isshuukan",
+    "explanation": "週 means 'week' and is used in time expressions."
+  },
+  {
+    "char": "月",
+    "romaji": "tsuki",
+    "meaning": "moon, month",
+    "example": "月曜日",
+    "example_romaji": "getsuyoubi",
+    "explanation": "月 means 'moon' or 'month' and is used in days like Monday."
+  },
+  {
+    "char": "年",
+    "romaji": "toshi",
+    "meaning": "year",
+    "example": "一年",
+    "example_romaji": "ichinen",
+    "explanation": "年 means 'year'."
+  },
+  {
+    "char": "中",
+    "romaji": "naka",
+    "meaning": "inside, middle",
+    "example": "中",
+    "example_romaji": "naka",
+    "explanation": "中 means 'inside' or 'middle'."
+  },
+  {
+    "char": "山",
+    "romaji": "yama",
+    "meaning": "mountain",
+    "example": "山",
+    "example_romaji": "yama",
+    "explanation": "山 means 'mountain'."
+  },
+  {
+    "char": "川",
+    "romaji": "kawa",
+    "meaning": "river",
+    "example": "川",
+    "example_romaji": "kawa",
+    "explanation": "川 means 'river'."
+  },
+  {
+    "char": "左",
+    "romaji": "hidari",
+    "meaning": "left",
+    "example": "左",
+    "example_romaji": "hidari",
+    "explanation": "左 means 'left'."
+  },
+  {
+    "char": "右",
+    "romaji": "migi",
+    "meaning": "right",
+    "example": "右",
+    "example_romaji": "migi",
+    "explanation": "右 means 'right'."
+  },
+  {
+    "char": "大",
+    "romaji": "ookii",
+    "meaning": "big",
+    "example": "大きい",
+    "example_romaji": "ookii",
+    "explanation": "大 means 'big' or 'large'."
+  },
+  {
+    "char": "木",
+    "romaji": "ki",
+    "meaning": "tree",
+    "example": "木",
+    "example_romaji": "ki",
+    "explanation": "木 means 'tree'."
+  },
+  {
+    "char": "本",
+    "romaji": "hon",
+    "meaning": "book, origin",
+    "example": "本",
+    "example_romaji": "hon",
+    "explanation": "本 means 'book' or 'origin'."
+  },
+  {
+    "char": "水",
+    "romaji": "mizu",
+    "meaning": "water",
+    "example": "水",
+    "example_romaji": "mizu",
+    "explanation": "水 means 'water'."
+  },
+  {
+    "char": "火",
+    "romaji": "hi",
+    "meaning": "fire",
+    "example": "火",
+    "example_romaji": "hi",
+    "explanation": "火 means 'fire'."
+  },
+  {
+    "char": "父",
+    "romaji": "chichi",
+    "meaning": "father",
+    "example": "父",
+    "example_romaji": "chichi",
+    "explanation": "父 means 'father'."
+  },
+  {
+    "char": "母",
+    "romaji": "haha",
+    "meaning": "mother",
+    "example": "母",
+    "example_romaji": "haha",
+    "explanation": "母 means 'mother'."
+  },
+  {
+    "char": "耳",
+    "romaji": "mimi",
+    "meaning": "ear",
+    "example": "耳",
+    "example_romaji": "mimi",
+    "explanation": "耳 means 'ear'."
+  },
+  {
+    "char": "口",
+    "romaji": "kuchi",
+    "meaning": "mouth",
+    "example": "口",
+    "example_romaji": "kuchi",
+    "explanation": "口 means 'mouth'."
+  },
+  {
+    "char": "休",
+    "romaji": "yasumu",
+    "meaning": "rest",
+    "example": "休む",
+    "example_romaji": "yasumu",
+    "explanation": "休 means 'to rest'."
+  },
+  {
+    "char": "何",
+    "romaji": "nani",
+    "meaning": "what",
+    "example": "何",
+    "example_romaji": "nani",
+    "explanation": "何 means 'what'."
+  },
+  {
+    "char": "入",
+    "romaji": "hairu",
+    "meaning": "enter",
+    "example": "入る",
+    "example_romaji": "hairu",
+    "explanation": "入 means 'to enter'."
+  },
+  {
+    "char": "上",
+    "romaji": "ue",
+    "meaning": "up, above",
+    "example": "上",
+    "example_romaji": "ue",
+    "explanation": "上 means 'up' or 'above'."
+  },
+  {
+    "char": "前",
+    "romaji": "mae",
+    "meaning": "front, before",
+    "example": "前",
+    "example_romaji": "mae",
+    "explanation": "前 means 'front' or 'before'."
+  },
+  {
+    "char": "下",
+    "romaji": "shita",
+    "meaning": "down, below",
+    "example": "下",
+    "example_romaji": "shita",
+    "explanation": "下 means 'down' or 'below'."
+  },
+  {
+    "char": "千",
+    "romaji": "sen",
+    "meaning": "thousand",
+    "example": "千",
+    "example_romaji": "sen",
+    "explanation": "千 means 'thousand'."
+  },
+  {
+    "char": "午",
+    "romaji": "go",
+    "meaning": "noon",
+    "example": "午後",
+    "example_romaji": "gogo",
+    "explanation": "午 relates to 'noon' as in afternoon."
+  },
+  {
+    "char": "友",
+    "romaji": "tomo",
+    "meaning": "friend",
+    "example": "友だち",
+    "example_romaji": "tomodachi",
+    "explanation": "友 means 'friend'."
+  },
+  {
+    "char": "古",
+    "romaji": "furui",
+    "meaning": "old",
+    "example": "古い",
+    "example_romaji": "furui",
+    "explanation": "古 means 'old'."
+  },
+  {
+    "char": "名",
+    "romaji": "na",
+    "meaning": "name",
+    "example": "名前",
+    "example_romaji": "namae",
+    "explanation": "名 means 'name'."
+  },
+  {
+    "char": "国",
+    "romaji": "kuni",
+    "meaning": "country",
+    "example": "国",
+    "example_romaji": "kuni",
+    "explanation": "国 means 'country'."
+  },
+  {
+    "char": "外",
+    "romaji": "soto",
+    "meaning": "outside",
+    "example": "外",
+    "example_romaji": "soto",
+    "explanation": "外 means 'outside'."
+  },
+  {
+    "char": "女",
+    "romaji": "onna",
+    "meaning": "woman",
+    "example": "女",
+    "example_romaji": "onna",
+    "explanation": "女 means 'woman'."
+  },
+  {
+    "char": "男",
+    "romaji": "otoko",
+    "meaning": "man",
+    "example": "男",
+    "example_romaji": "otoko",
+    "explanation": "男 means 'man'."
+  },
+  {
+    "char": "子",
+    "romaji": "ko",
+    "meaning": "child",
+    "example": "子ども",
+    "example_romaji": "kodomo",
+    "explanation": "子 means 'child'."
+  },
+  {
+    "char": "学",
+    "romaji": "gaku",
+    "meaning": "study",
+    "example": "学生",
+    "example_romaji": "gakusei",
+    "explanation": "学 means 'study' and is used in 'student'."
+  },
+  {
+    "char": "生",
+    "romaji": "sei",
+    "meaning": "life, student",
+    "example": "学生",
+    "example_romaji": "gakusei",
+    "explanation": "生 means 'life' and appears in 'student'."
+  },
+  {
+    "char": "小",
+    "romaji": "chiisai",
+    "meaning": "small",
+    "example": "小さい",
+    "example_romaji": "chiisai",
+    "explanation": "小 means 'small'."
+  },
+  {
+    "char": "書",
+    "romaji": "kaku",
+    "meaning": "write",
+    "example": "書く",
+    "example_romaji": "kaku",
+    "explanation": "書 means 'to write'."
+  },
+  {
+    "char": "毎",
+    "romaji": "mai",
+    "meaning": "every",
+    "example": "毎日",
+    "example_romaji": "mainichi",
+    "explanation": "毎 means 'every'."
+  },
+  {
+    "char": "先",
+    "romaji": "saki",
+    "meaning": "previous, ahead",
+    "example": "先生",
+    "example_romaji": "sensei",
+    "explanation": "先 means 'ahead' and is used in 'teacher'."
+  },
+  {
+    "char": "会",
+    "romaji": "au",
+    "meaning": "meet",
+    "example": "会う",
+    "example_romaji": "au",
+    "explanation": "会 means 'to meet'."
+  },
+  {
+    "char": "万",
+    "romaji": "man",
+    "meaning": "ten thousand",
+    "example": "一万",
+    "example_romaji": "ichiman",
+    "explanation": "万 means 'ten thousand'."
+  },
+  {
+    "char": "円",
+    "romaji": "en",
+    "meaning": "yen",
+    "example": "円",
+    "example_romaji": "en",
+    "explanation": "円 is the Japanese currency 'yen'."
+  },
+  {
+    "char": "出",
+    "romaji": "deru",
+    "meaning": "exit",
+    "example": "出る",
+    "example_romaji": "deru",
+    "explanation": "出 means 'to go out'."
+  },
+  {
+    "char": "分",
+    "romaji": "fun",
+    "meaning": "minute, part",
+    "example": "五分",
+    "example_romaji": "gofun",
+    "explanation": "分 means 'minute' or 'part'."
+  },
+  {
+    "char": "北",
+    "romaji": "kita",
+    "meaning": "north",
+    "example": "北",
+    "example_romaji": "kita",
+    "explanation": "北 means 'north'."
+  },
+  {
+    "char": "半",
+    "romaji": "han",
+    "meaning": "half",
+    "example": "半分",
+    "example_romaji": "hanbun",
+    "explanation": "半 means 'half'."
+  },
+  {
+    "char": "南",
+    "romaji": "minami",
+    "meaning": "south",
+    "example": "南",
+    "example_romaji": "minami",
+    "explanation": "南 means 'south'."
+  },
+  {
+    "char": "土",
+    "romaji": "tsuchi",
+    "meaning": "earth, soil",
+    "example": "土",
+    "example_romaji": "tsuchi",
+    "explanation": "土 means 'earth' or 'soil'."
+  },
+  {
+    "char": "多",
+    "romaji": "ooi",
+    "meaning": "many",
+    "example": "多い",
+    "example_romaji": "ooi",
+    "explanation": "多 means 'many'."
+  },
+  {
+    "char": "天",
+    "romaji": "ten",
+    "meaning": "heaven, sky",
+    "example": "天気",
+    "example_romaji": "tenki",
+    "explanation": "天 means 'sky' or 'heaven'."
+  },
+  {
+    "char": "安",
+    "romaji": "yasui",
+    "meaning": "cheap, safe",
+    "example": "安い",
+    "example_romaji": "yasui",
+    "explanation": "安 means 'cheap' or 'safe'."
+  },
+  {
+    "char": "少",
+    "romaji": "sukunai",
+    "meaning": "few",
+    "example": "少ない",
+    "example_romaji": "sukunai",
+    "explanation": "少 means 'few' or 'little'."
+  },
+  {
+    "char": "店",
+    "romaji": "mise",
+    "meaning": "shop",
+    "example": "店",
+    "example_romaji": "mise",
+    "explanation": "店 means 'shop' or 'store'."
+  },
+  {
+    "char": "後",
+    "romaji": "ato",
+    "meaning": "after, behind",
+    "example": "後で",
+    "example_romaji": "ato de",
+    "explanation": "後 means 'after' or 'behind'."
+  },
+  {
+    "char": "手",
+    "romaji": "te",
+    "meaning": "hand",
+    "example": "手",
+    "example_romaji": "te",
+    "explanation": "手 means 'hand'."
+  },
+  {
+    "char": "新",
+    "romaji": "atarashii",
+    "meaning": "new",
+    "example": "新しい",
+    "example_romaji": "atarashii",
+    "explanation": "新 means 'new'."
+  },
+  {
+    "char": "時",
+    "romaji": "toki",
+    "meaning": "time",
+    "example": "時間",
+    "example_romaji": "jikan",
+    "explanation": "時 means 'time' or 'hour'."
+  },
+  {
+    "char": "来",
+    "romaji": "kuru",
+    "meaning": "come",
+    "example": "来る",
+    "example_romaji": "kuru",
+    "explanation": "来 means 'to come'."
+  },
+  {
+    "char": "東",
+    "romaji": "higashi",
+    "meaning": "east",
+    "example": "東",
+    "example_romaji": "higashi",
+    "explanation": "東 means 'east'."
+  },
+  {
+    "char": "校",
+    "romaji": "kou",
+    "meaning": "school",
+    "example": "学校",
+    "example_romaji": "gakkou",
+    "explanation": "校 relates to 'school'."
+  },
+  {
+    "char": "気",
+    "romaji": "ki",
+    "meaning": "spirit, energy",
+    "example": "元気",
+    "example_romaji": "genki",
+    "explanation": "気 means 'spirit' or 'energy'."
+  },
+  {
+    "char": "白",
+    "romaji": "shiro",
+    "meaning": "white",
+    "example": "白い",
+    "example_romaji": "shiroi",
+    "explanation": "白 means 'white'."
+  },
+  {
+    "char": "百",
+    "romaji": "hyaku",
+    "meaning": "hundred",
+    "example": "百",
+    "example_romaji": "hyaku",
+    "explanation": "百 means 'hundred'."
+  },
+  {
+    "char": "目",
+    "romaji": "me",
+    "meaning": "eye",
+    "example": "目",
+    "example_romaji": "me",
+    "explanation": "目 means 'eye'."
+  },
+  {
+    "char": "社",
+    "romaji": "sha",
+    "meaning": "company, shrine",
+    "example": "会社",
+    "example_romaji": "kaisha",
+    "explanation": "社 means 'company' or 'shrine'."
+  },
+  {
+    "char": "空",
+    "romaji": "sora",
+    "meaning": "sky",
+    "example": "空",
+    "example_romaji": "sora",
+    "explanation": "空 means 'sky'."
+  },
+  {
+    "char": "立",
+    "romaji": "tatsu",
+    "meaning": "stand",
+    "example": "立つ",
+    "example_romaji": "tatsu",
+    "explanation": "立 means 'to stand'."
+  },
+  {
+    "char": "聞",
+    "romaji": "kiku",
+    "meaning": "hear, ask",
+    "example": "聞く",
+    "example_romaji": "kiku",
+    "explanation": "聞 means 'to hear' or 'ask'."
+  },
+  {
+    "char": "花",
+    "romaji": "hana",
+    "meaning": "flower",
+    "example": "花",
+    "example_romaji": "hana",
+    "explanation": "花 means 'flower'."
+  },
+  {
+    "char": "行",
+    "romaji": "iku",
+    "meaning": "go",
+    "example": "行く",
+    "example_romaji": "iku",
+    "explanation": "行 means 'to go'."
+  },
+  {
+    "char": "西",
+    "romaji": "nishi",
+    "meaning": "west",
+    "example": "西",
+    "example_romaji": "nishi",
+    "explanation": "西 means 'west'."
+  },
+  {
+    "char": "見",
+    "romaji": "miru",
+    "meaning": "see",
+    "example": "見る",
+    "example_romaji": "miru",
+    "explanation": "見 means 'to see'."
+  },
+  {
+    "char": "言",
+    "romaji": "iu",
+    "meaning": "say",
+    "example": "言う",
+    "example_romaji": "iu",
+    "explanation": "言 means 'to say'."
+  },
+  {
+    "char": "話",
+    "romaji": "hanasu",
+    "meaning": "speak",
+    "example": "話す",
+    "example_romaji": "hanasu",
+    "explanation": "話 means 'to speak'."
+  },
+  {
+    "char": "語",
+    "romaji": "go",
+    "meaning": "language",
+    "example": "日本語",
+    "example_romaji": "nihongo",
+    "explanation": "語 means 'language'."
+  },
+  {
+    "char": "読",
+    "romaji": "yomu",
+    "meaning": "read",
+    "example": "読む",
+    "example_romaji": "yomu",
+    "explanation": "読 means 'to read'."
+  },
+  {
+    "char": "買",
+    "romaji": "kau",
+    "meaning": "buy",
+    "example": "買う",
+    "example_romaji": "kau",
+    "explanation": "買 means 'to buy'."
+  },
+  {
+    "char": "足",
+    "romaji": "ashi",
+    "meaning": "foot",
+    "example": "足",
+    "example_romaji": "ashi",
+    "explanation": "足 means 'foot' or 'leg'."
+  },
+  {
+    "char": "車",
+    "romaji": "kuruma",
+    "meaning": "car",
+    "example": "車",
+    "example_romaji": "kuruma",
+    "explanation": "車 means 'car' or 'vehicle'."
+  },
+  {
+    "char": "道",
+    "romaji": "michi",
+    "meaning": "road",
+    "example": "道",
+    "example_romaji": "michi",
+    "explanation": "道 means 'road' or 'way'."
+  },
+  {
+    "char": "金",
+    "romaji": "kane",
+    "meaning": "money, gold",
+    "example": "お金",
+    "example_romaji": "okane",
+    "explanation": "金 means 'money' or 'gold'."
+  },
+  {
+    "char": "長",
+    "romaji": "nagai",
+    "meaning": "long",
+    "example": "長い",
+    "example_romaji": "nagai",
+    "explanation": "長 means 'long'."
+  },
+  {
+    "char": "間",
+    "romaji": "aida",
+    "meaning": "interval, space",
+    "example": "時間",
+    "example_romaji": "jikan",
+    "explanation": "間 means 'space' or 'interval'."
+  },
+  {
+    "char": "雨",
+    "romaji": "ame",
+    "meaning": "rain",
+    "example": "雨",
+    "example_romaji": "ame",
+    "explanation": "雨 means 'rain'."
+  },
+  {
+    "char": "電",
+    "romaji": "den",
+    "meaning": "electricity",
+    "example": "電車",
+    "example_romaji": "densha",
+    "explanation": "電 relates to electricity and is used in 'train'."
+  },
+  {
+    "char": "食",
+    "romaji": "taberu",
+    "meaning": "eat",
+    "example": "食べる",
+    "example_romaji": "taberu",
+    "explanation": "食 means 'to eat'."
+  },
+  {
+    "char": "飲",
+    "romaji": "nomu",
+    "meaning": "drink",
+    "example": "飲む",
+    "example_romaji": "nomu",
+    "explanation": "飲 means 'to drink'."
+  },
+  {
+    "char": "駅",
+    "romaji": "eki",
+    "meaning": "station",
+    "example": "駅",
+    "example_romaji": "eki",
+    "explanation": "駅 means 'station'."
+  },
+  {
+    "char": "高",
+    "romaji": "takai",
+    "meaning": "tall, expensive",
+    "example": "高い",
+    "example_romaji": "takai",
+    "explanation": "高 means 'tall' or 'expensive'."
+  },
+  {
+    "char": "魚",
+    "romaji": "sakana",
+    "meaning": "fish",
+    "example": "魚",
+    "example_romaji": "sakana",
+    "explanation": "魚 means 'fish'."
+  }
+]

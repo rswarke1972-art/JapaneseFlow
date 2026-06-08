@@ -1,0 +1,372 @@
+{
+  "basic": [
+    {
+      "char": "ア",
+      "romaji": "a",
+      "meaning": "sound a",
+      "example": "アメ",
+      "example_romaji": "ame",
+      "explanation": "ア is pronounced 'a' as in 'father'."
+    },
+    {
+      "char": "イ",
+      "romaji": "i",
+      "meaning": "sound i",
+      "example": "イヌ",
+      "example_romaji": "inu",
+      "explanation": "イ is pronounced 'i' as in 'see'."
+    },
+    {
+      "char": "ウ",
+      "romaji": "u",
+      "meaning": "sound u",
+      "example": "ウミ",
+      "example_romaji": "umi",
+      "explanation": "ウ is pronounced 'u' as in 'food'."
+    },
+    {
+      "char": "エ",
+      "romaji": "e",
+      "meaning": "sound e",
+      "example": "エキ",
+      "example_romaji": "eki",
+      "explanation": "エ is pronounced 'e' as in 'met'."
+    },
+    {
+      "char": "オ",
+      "romaji": "o",
+      "meaning": "sound o",
+      "example": "オト",
+      "example_romaji": "oto",
+      "explanation": "オ is pronounced 'o' as in 'go'."
+    },
+    {
+      "char": "カ",
+      "romaji": "ka",
+      "meaning": "sound ka",
+      "example": "カサ",
+      "example_romaji": "kasa",
+      "explanation": "カ is pronounced 'ka' as in 'car'."
+    },
+    {
+      "char": "キ",
+      "romaji": "ki",
+      "meaning": "sound ki",
+      "example": "キツネ",
+      "example_romaji": "kitsune",
+      "explanation": "キ is pronounced 'ki' as in 'key'."
+    },
+    {
+      "char": "ク",
+      "romaji": "ku",
+      "meaning": "sound ku",
+      "example": "クモ",
+      "example_romaji": "kumo",
+      "explanation": "ク is pronounced 'ku' as in 'cool'."
+    },
+    {
+      "char": "ケ",
+      "romaji": "ke",
+      "meaning": "sound ke",
+      "example": "ケムリ",
+      "example_romaji": "kemuri",
+      "explanation": "ケ is pronounced 'ke' as in 'kettle'."
+    },
+    {
+      "char": "コ",
+      "romaji": "ko",
+      "meaning": "sound ko",
+      "example": "コドモ",
+      "example_romaji": "kodomo",
+      "explanation": "コ is pronounced 'ko' as in 'core'."
+    },
+    {
+      "char": "サ",
+      "romaji": "sa",
+      "meaning": "sound sa",
+      "example": "サカナ",
+      "example_romaji": "sakana",
+      "explanation": "サ is pronounced 'sa' as in 'sun'."
+    },
+    {
+      "char": "シ",
+      "romaji": "shi",
+      "meaning": "sound shi",
+      "example": "シロ",
+      "example_romaji": "shiro",
+      "explanation": "シ is pronounced 'shi' as in 'she'."
+    },
+    {
+      "char": "ス",
+      "romaji": "su",
+      "meaning": "sound su",
+      "example": "スシ",
+      "example_romaji": "sushi",
+      "explanation": "ス is pronounced 'su' as in 'soon'."
+    },
+    {
+      "char": "セ",
+      "romaji": "se",
+      "meaning": "sound se",
+      "example": "セカイ",
+      "example_romaji": "sekai",
+      "explanation": "セ is pronounced 'se' as in 'set'."
+    },
+    {
+      "char": "ソ",
+      "romaji": "so",
+      "meaning": "sound so",
+      "example": "ソラ",
+      "example_romaji": "sora",
+      "explanation": "ソ is pronounced 'so' as in 'song'."
+    },
+    {
+      "char": "タ",
+      "romaji": "ta",
+      "meaning": "sound ta",
+      "example": "タマゴ",
+      "example_romaji": "tamago",
+      "explanation": "タ is pronounced 'ta' as in 'top'."
+    },
+    {
+      "char": "チ",
+      "romaji": "chi",
+      "meaning": "sound chi",
+      "example": "チズ",
+      "example_romaji": "chizu",
+      "explanation": "チ is pronounced 'chi' as in 'cheese'."
+    },
+    {
+      "char": "ツ",
+      "romaji": "tsu",
+      "meaning": "sound tsu",
+      "example": "ツキ",
+      "example_romaji": "tsuki",
+      "explanation": "ツ is pronounced 'tsu' (like 'ts' in 'cats')."
+    },
+    {
+      "char": "テ",
+      "romaji": "te",
+      "meaning": "sound te",
+      "example": "テ",
+      "example_romaji": "te",
+      "explanation": "テ is pronounced 'te' as in 'ten'."
+    },
+    {
+      "char": "ト",
+      "romaji": "to",
+      "meaning": "sound to",
+      "example": "トリ",
+      "example_romaji": "tori",
+      "explanation": "ト is pronounced 'to' as in 'top'."
+    },
+    {
+      "char": "ナ",
+      "romaji": "na",
+      "meaning": "sound na",
+      "example": "ナツ",
+      "example_romaji": "natsu",
+      "explanation": "ナ is pronounced 'na' as in 'nap'."
+    },
+    {
+      "char": "ニ",
+      "romaji": "ni",
+      "meaning": "sound ni",
+      "example": "ニホン",
+      "example_romaji": "nihon",
+      "explanation": "ニ is pronounced 'ni' as in 'knee'."
+    },
+    {
+      "char": "ヌ",
+      "romaji": "nu",
+      "meaning": "sound nu",
+      "example": "ヌノ",
+      "example_romaji": "nuno",
+      "explanation": "ヌ is pronounced 'nu' as in 'noon'."
+    },
+    {
+      "char": "ネ",
+      "romaji": "ne",
+      "meaning": "sound ne",
+      "example": "ネコ",
+      "example_romaji": "neko",
+      "explanation": "ネ is pronounced 'ne' as in 'net'."
+    },
+    {
+      "char": "ノ",
+      "romaji": "no",
+      "meaning": "sound no",
+      "example": "ノリ",
+      "example_romaji": "nori",
+      "explanation": "ノ is pronounced 'no' as in 'note'."
+    },
+    {
+      "char": "ハ",
+      "romaji": "ha",
+      "meaning": "sound ha",
+      "example": "ハナ",
+      "example_romaji": "hana",
+      "explanation": "ハ is pronounced 'ha' as in 'hat' (sometimes 'wa' as particle)."
+    },
+    {
+      "char": "ヒ",
+      "romaji": "hi",
+      "meaning": "sound hi",
+      "example": "ヒト",
+      "example_romaji": "hito",
+      "explanation": "ヒ is pronounced 'hi' softly like 'he'."
+    },
+    {
+      "char": "フ",
+      "romaji": "fu",
+      "meaning": "sound fu",
+      "example": "フネ",
+      "example_romaji": "fune",
+      "explanation": "フ is pronounced between 'fu' and 'hu'."
+    },
+    {
+      "char": "ヘ",
+      "romaji": "he",
+      "meaning": "sound he",
+      "example": "ヘヤ",
+      "example_romaji": "heya",
+      "explanation": "ヘ is pronounced 'he' as in 'help' (sometimes 'e' as particle)."
+    },
+    {
+      "char": "ホ",
+      "romaji": "ho",
+      "meaning": "sound ho",
+      "example": "ホシ",
+      "example_romaji": "hoshi",
+      "explanation": "ホ is pronounced 'ho' as in 'home'."
+    },
+    {
+      "char": "マ",
+      "romaji": "ma",
+      "meaning": "sound ma",
+      "example": "マド",
+      "example_romaji": "mado",
+      "explanation": "マ is pronounced 'ma' as in 'map'."
+    },
+    {
+      "char": "ミ",
+      "romaji": "mi",
+      "meaning": "sound mi",
+      "example": "ミズ",
+      "example_romaji": "mizu",
+      "explanation": "ミ is pronounced 'mi' as in 'me'."
+    },
+    {
+      "char": "ム",
+      "romaji": "mu",
+      "meaning": "sound mu",
+      "example": "ムシ",
+      "example_romaji": "mushi",
+      "explanation": "ム is pronounced 'mu' as in 'moon'."
+    },
+    {
+      "char": "メ",
+      "romaji": "me",
+      "meaning": "sound me",
+      "example": "メ",
+      "example_romaji": "me",
+      "explanation": "メ is pronounced 'me' as in 'met'."
+    },
+    {
+      "char": "モ",
+      "romaji": "mo",
+      "meaning": "sound mo",
+      "example": "モリ",
+      "example_romaji": "mori",
+      "explanation": "モ is pronounced 'mo' as in 'more'."
+    },
+    {
+      "char": "ヤ",
+      "romaji": "ya",
+      "meaning": "sound ya",
+      "example": "ヤマ",
+      "example_romaji": "yama",
+      "explanation": "ヤ is pronounced 'ya' as in 'yarn'."
+    },
+    {
+      "char": "ユ",
+      "romaji": "yu",
+      "meaning": "sound yu",
+      "example": "ユキ",
+      "example_romaji": "yuki",
+      "explanation": "ユ is pronounced 'yu' as in 'you'."
+    },
+    {
+      "char": "ヨ",
+      "romaji": "yo",
+      "meaning": "sound yo",
+      "example": "ヨル",
+      "example_romaji": "yoru",
+      "explanation": "ヨ is pronounced 'yo' as in 'yoga'."
+    },
+    {
+      "char": "ラ",
+      "romaji": "ra",
+      "meaning": "sound ra",
+      "example": "ライオン",
+      "example_romaji": "raion",
+      "explanation": "ラ is pronounced between 'ra' and 'la'."
+    },
+    {
+      "char": "リ",
+      "romaji": "ri",
+      "meaning": "sound ri",
+      "example": "リンゴ",
+      "example_romaji": "ringo",
+      "explanation": "リ is pronounced between 'ri' and 'li'."
+    },
+    {
+      "char": "ル",
+      "romaji": "ru",
+      "meaning": "sound ru",
+      "example": "ルス",
+      "example_romaji": "rusu",
+      "explanation": "ル is pronounced between 'ru' and 'lu'."
+    },
+    {
+      "char": "レ",
+      "romaji": "re",
+      "meaning": "sound re",
+      "example": "レキシ",
+      "example_romaji": "rekishi",
+      "explanation": "レ is pronounced between 're' and 'le'."
+    },
+    {
+      "char": "ロ",
+      "romaji": "ro",
+      "meaning": "sound ro",
+      "example": "ロウソク",
+      "example_romaji": "rousoku",
+      "explanation": "ロ is pronounced between 'ro' and 'lo'."
+    },
+    {
+      "char": "ワ",
+      "romaji": "wa",
+      "meaning": "sound wa",
+      "example": "ワニ",
+      "example_romaji": "wani",
+      "explanation": "ワ is pronounced 'wa' as in 'water'."
+    },
+    {
+      "char": "ヲ",
+      "romaji": "wo",
+      "meaning": "sound wo",
+      "example": "ヲ",
+      "example_romaji": "wo",
+      "explanation": "ヲ is usually pronounced 'o' and used as a particle."
+    },
+    {
+      "char": "ン",
+      "romaji": "n",
+      "meaning": "sound n",
+      "example": "ホン",
+      "example_romaji": "hon",
+      "explanation": "ン is a nasal sound like 'n' in 'song'."
+    }
+  ]
+}

@@ -15,8 +15,7 @@ let charObj = JSON.parse(localStorage.getItem("character"));
 let script = localStorage.getItem("script") || "hiragana";
 
 // Load data
-fetch("data.json")
-  .then(res => res.json())
+DataLoader.loadAll()
   .then(json => {
     data = json;
     loadCharacter(charObj);

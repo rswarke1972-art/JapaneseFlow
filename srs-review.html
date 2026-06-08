@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SRS Review | JapaneseFlow</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    .review-card {
+      background: #1e293b;
+      padding: 40px 20px;
+      border-radius: 15px;
+      margin: 20px auto;
+      max-width: 400px;
+      text-align: center;
+    }
+    .big-char {
+      font-size: 100px;
+      margin: 0;
+      color: white;
+    }
+    .hidden-info {
+      display: none;
+      margin-top: 20px;
+      padding-top: 20px;
+      border-top: 2px solid #334155;
+    }
+    .rating-btns {
+      display: none;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 10px;
+      margin-top: 20px;
+    }
+    .rating-btns button {
+      flex: 1 1 40%;
+      padding: 15px 10px;
+      font-size: 16px;
+      margin: 0;
+    }
+    .btn-again { background: #ef4444; color: white; }
+    .btn-hard { background: #f97316; color: white; }
+    .btn-good { background: #3b82f6; color: white; }
+    .btn-easy { background: #22c55e; color: black; }
+    
+    .type-input {
+      display: none;
+      margin-top: 20px;
+    }
+    .type-input input {
+      font-size: 24px;
+      text-align: center;
+      padding: 15px;
+      background: #0f172a;
+      color: white;
+      border: 2px solid #38bdf8;
+    }
+  </style>
+</head>
+<body>
+
+  <button class="back-btn" onclick="location.href='index.html'">← Home</button>
+
+  <div class="container">
+    <h2 id="reviewCounter">Reviews Left: 0</h2>
+
+    <div class="review-card" id="card">
+      <h1 class="big-char" id="charDisplay">終</h1>
+      
+      <!-- Typing UI (Active Recall) -->
+      <div class="type-input" id="typeArea">
+        <p>Type the romaji reading:</p>
+        <input type="text" id="romajiInput" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" />
+        <br>
+        <button class="action-btn" onclick="checkTyping()">Check Answer</button>
+      </div>
+
+      <!-- Show Answer Button -->
+      <button class="primary-btn" id="showAnswerBtn" style="margin-top: 30px; display: none;" onclick="showAnswer()">Show Answer</button>
+
+      <!-- Answer Data -->
+      <div class="hidden-info" id="answerData">
+        <h3 id="romajiDisplay" style="color: #38bdf8; font-size: 28px; margin: 0;"></h3>
+        <p id="meaningDisplay" style="font-size: 18px; color: #cbd5f5;"></p>
+      </div>
+
+      <!-- Rating Buttons -->
+      <div class="rating-btns" id="ratingBtns">
+        <button class="btn-again" onclick="rate(0)">Again</button>
+        <button class="btn-hard" onclick="rate(1)">Hard</button>
+        <button class="btn-good" onclick="rate(2)">Good</button>
+        <button class="btn-easy" onclick="rate(3)">Easy</button>
+      </div>
+    </div>
+    
+    <div id="finishedMsg" style="display: none;">
+      <h2>All caught up! 🎉</h2>
+      <button class="primary-btn" onclick="location.href='index.html'">Return to Dashboard</button>
+    </div>
+
+  </div>
+
+  <script src="srs.js"></script>
+  <script src="data-loader.js"></script>
+  <script src="srs-review.js"></script>
+
+</body>
+</html>

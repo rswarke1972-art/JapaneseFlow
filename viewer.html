@@ -44,7 +44,11 @@
     <div id="character"></div>
 
     <!-- Controls -->
-    <button class="action-btn" onclick="play()">▶ Play</button>
+    <button class="action-btn" onclick="playAudio()">🔊 Audio</button>
+    <button class="action-btn" id="srsAddBtn" onclick="addToSRS()">➕ Add to Reviews</button>
+    <br><br>
+    <button class="action-btn" onclick="play()">▶ Play Stroke</button>
+    <button class="action-btn" onclick="startWritingQuiz()">✍️ Practice Writing</button>
     <button class="action-btn" onclick="reset()">Reset</button>
     <button class="action-btn" onclick="nextStroke()">Next Stroke</button>
 
@@ -54,7 +58,21 @@
 
 <!-- Stroke library (used later if needed) -->
 <script src="https://cdn.jsdelivr.net/npm/hanzi-writer@3.5/dist/hanzi-writer.min.js"></script>
+<script src="srs.js"></script>
+<script src="data-loader.js"></script>
+<script src="viewer.js"></script>
 
+</body>
+</html>Stroke</button>
+
+  </div>
+
+</div>
+
+<!-- Stroke library (used later if needed) -->
+<script src="https://cdn.jsdelivr.net/npm/hanzi-writer@3.5/dist/hanzi-writer.min.js"></script>
+
+<script src="data-loader.js"></script>
 <script src="viewer.js"></script>
 
 </body>

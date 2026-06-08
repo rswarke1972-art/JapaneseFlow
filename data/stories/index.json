@@ -1,0 +1,1813 @@
+{
+  "story1": {
+    "title": "A Small Courage",
+    "content": [
+      {
+        "word": "彼",
+        "romaji": "kare",
+        "meaning": "he"
+      },
+      {
+        "word": "は",
+        "romaji": "wa",
+        "meaning": "topic particle"
+      },
+      {
+        "word": "毎日",
+        "romaji": "mainichi",
+        "meaning": "every day"
+      },
+      {
+        "word": "同じ",
+        "romaji": "onaji",
+        "meaning": "same"
+      },
+      {
+        "word": "道",
+        "romaji": "michi",
+        "meaning": "road"
+      },
+      {
+        "word": "を",
+        "romaji": "wo",
+        "meaning": "object particle"
+      },
+      {
+        "word": "歩く",
+        "romaji": "aruku",
+        "meaning": "to walk"
+      },
+      {
+        "word": "。",
+        "meaning": ""
+      },
+      {
+        "word": "その",
+        "romaji": "sono",
+        "meaning": "that"
+      },
+      {
+        "word": "道",
+        "romaji": "michi",
+        "meaning": "road"
+      },
+      {
+        "word": "に",
+        "romaji": "ni",
+        "meaning": "in"
+      },
+      {
+        "word": "小さい",
+        "romaji": "chiisai",
+        "meaning": "small"
+      },
+      {
+        "word": "店",
+        "romaji": "mise",
+        "meaning": "shop"
+      },
+      {
+        "word": "が",
+        "romaji": "ga",
+        "meaning": "subject particle"
+      },
+      {
+        "word": "ある",
+        "romaji": "aru",
+        "meaning": "to exist"
+      },
+      {
+        "word": "。",
+        "meaning": ""
+      },
+      {
+        "word": "彼",
+        "romaji": "kare",
+        "meaning": "he"
+      },
+      {
+        "word": "は",
+        "romaji": "wa",
+        "meaning": "topic particle"
+      },
+      {
+        "word": "いつも",
+        "romaji": "itsumo",
+        "meaning": "always"
+      },
+      {
+        "word": "その",
+        "romaji": "sono",
+        "meaning": "that"
+      },
+      {
+        "word": "店",
+        "romaji": "mise",
+        "meaning": "shop"
+      },
+      {
+        "word": "を",
+        "romaji": "wo",
+        "meaning": "object particle"
+      },
+      {
+        "word": "見る",
+        "romaji": "miru",
+        "meaning": "to look"
+      },
+      {
+        "word": "が",
+        "romaji": "ga",
+        "meaning": "but"
+      },
+      {
+        "word": "入る",
+        "romaji": "hairu",
+        "meaning": "to enter"
+      },
+      {
+        "word": "こと",
+        "romaji": "koto",
+        "meaning": "thing"
+      },
+      {
+        "word": "が",
+        "romaji": "ga",
+        "meaning": "subject particle"
+      },
+      {
+        "word": "できない",
+        "romaji": "dekinai",
+        "meaning": "cannot"
+      },
+      {
+        "word": "。",
+        "meaning": ""
+      },
+      {
+        "word": "ある日",
+        "romaji": "aru hi",
+        "meaning": "one day"
+      },
+      {
+        "word": "、",
+        "meaning": ""
+      },
+      {
+        "word": "彼",
+        "romaji": "kare",
+        "meaning": "he"
+      },
+      {
+        "word": "は",
+        "romaji": "wa",
+        "meaning": "topic particle"
+      },
+      {
+        "word": "少し",
+        "romaji": "sukoshi",
+        "meaning": "a little"
+      },
+      {
+        "word": "勇気",
+        "romaji": "yuuki",
+        "meaning": "courage"
+      },
+      {
+        "word": "を",
+        "romaji": "wo",
+        "meaning": "object particle"
+      },
+      {
+        "word": "出す",
+        "romaji": "dasu",
+        "meaning": "to gather (courage)"
+      },
+      {
+        "word": "。",
+        "meaning": ""
+      },
+      {
+        "word": "そして",
+        "romaji": "soshite",
+        "meaning": "and then"
+      },
+      {
+        "word": "店",
+        "romaji": "mise",
+        "meaning": "shop"
+      },
+      {
+        "word": "に",
+        "romaji": "ni",
+        "meaning": "into"
+      },
+      {
+        "word": "入る",
+        "romaji": "hairu",
+        "meaning": "to enter"
+      },
+      {
+        "word": "。",
+        "meaning": ""
+      },
+      {
+        "word": "店",
+        "romaji": "mise",
+        "meaning": "shop"
+      },
+      {
+        "word": "の",
+        "romaji": "no",
+        "meaning": "of"
+      },
+      {
+        "word": "人",
+        "romaji": "hito",
+        "meaning": "person"
+      },
+      {
+        "word": "は",
+        "romaji": "wa",
+        "meaning": "topic particle"
+      },
+      {
+        "word": "優しい",
+        "romaji": "yasashii",
+        "meaning": "kind"
+      },
+      {
+        "word": "。",
+        "meaning": ""
+      },
+      {
+        "word": "彼",
+        "romaji": "kare",
+        "meaning": "he"
+      },
+      {
+        "word": "は",
+        "romaji": "wa",
+        "meaning": "topic particle"
+      },
+      {
+        "word": "とても",
+        "romaji": "totemo",
+        "meaning": "very"
+      },
+      {
+        "word": "嬉しい",
+        "romaji": "ureshii",
+        "meaning": "happy"
+      },
+      {
+        "word": "。",
+        "meaning": ""
+      },
+      {
+        "word": "小さい",
+        "romaji": "chiisai",
+        "meaning": "small"
+      },
+      {
+        "word": "勇気",
+        "romaji": "yuuki",
+        "meaning": "courage"
+      },
+      {
+        "word": "は",
+        "romaji": "wa",
+        "meaning": "topic particle"
+      },
+      {
+        "word": "大きい",
+        "romaji": "ookii",
+        "meaning": "big"
+      },
+      {
+        "word": "変化",
+        "romaji": "henka",
+        "meaning": "change"
+      },
+      {
+        "word": "を",
+        "romaji": "wo",
+        "meaning": "object particle"
+      },
+      {
+        "word": "作る",
+        "romaji": "tsukuru",
+        "meaning": "to create"
+      },
+      {
+        "word": "。",
+        "meaning": ""
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple-choice",
+        "question": "男はどうして店に入れませんでしたか？",
+        "options": [
+          "お金がない",
+          "閉まっていた",
+          "勇気がなかった",
+          "道がわからない"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "true-false",
+        "question": "男は毎日同じ道を歩きます。",
+        "options": [
+          "True",
+          "False"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "meaning",
+        "question": "What does 「勇気 (yuuki)」 mean?",
+        "options": [
+          "Fear",
+          "Courage",
+          "Shop",
+          "Road"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "店の中の人はどうでしたか？",
+        "options": [
+          "怖い",
+          "忙しい",
+          "優しい",
+          "静か"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "multiple-choice",
+        "question": "小さい勇気は何を作りますか？",
+        "options": [
+          "おいしい料理",
+          "大きい変化",
+          "新しい店",
+          "古い本"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  "story2": {
+    "title": "A Rainy Day",
+    "content": [
+      {
+        "word": "今日",
+        "romaji": "kyou",
+        "meaning": "today"
+      },
+      {
+        "word": "は",
+        "romaji": "wa",
+        "meaning": "topic particle"
+      },
+      {
+        "word": "雨",
+        "romaji": "ame",
+        "meaning": "rain"
+      },
+      {
+        "word": "が",
+        "romaji": "ga",
+        "meaning": "subject particle"
+      },
+      {
+        "word": "降る",
+        "romaji": "furu",
+        "meaning": "to fall (rain)"
+      },
+      {
+        "word": "。",
+        "meaning": ""
+      },
+      {
+        "word": "彼女",
+        "romaji": "kanojo",
+        "meaning": "she"
+      },
+      {
+        "word": "は",
+        "romaji": "wa",
+        "meaning": "topic particle"
+      },
+      {
+        "word": "傘",
+        "romaji": "kasa",
+        "meaning": "umbrella"
+      },
+      {
+        "word": "を",
+        "romaji": "wo",
+        "meaning": "object particle"
+      },
+      {
+        "word": "持つ",
+        "romaji": "motsu",
+        "meaning": "to carry"
+      },
+      {
+        "word": "。",
+        "meaning": ""
+      },
+      {
+        "word": "道",
+        "romaji": "michi",
+        "meaning": "road"
+      },
+      {
+        "word": "で",
+        "romaji": "de",
+        "meaning": "at"
+      },
+      {
+        "word": "小さい",
+        "romaji": "chiisai",
+        "meaning": "small"
+      },
+      {
+        "word": "子供",
+        "romaji": "kodomo",
+        "meaning": "child"
+      },
+      {
+        "word": "が",
+        "romaji": "ga",
+        "meaning": "subject particle"
+      },
+      {
+        "word": "いる",
+        "romaji": "iru",
+        "meaning": "to be (living)"
+      },
+      {
+        "word": "。",
+        "meaning": ""
+      },
+      {
+        "word": "子供",
+        "romaji": "kodomo",
+        "meaning": "child"
+      },
+      {
+        "word": "は",
+        "romaji": "wa",
+        "meaning": "topic particle"
+      },
+      {
+        "word": "濡れる",
+        "romaji": "nureru",
+        "meaning": "to get wet"
+      },
+      {
+        "word": "。",
+        "meaning": ""
+      },
+      {
+        "word": "彼女",
+        "romaji": "kanojo",
+        "meaning": "she"
+      },
+      {
+        "word": "は",
+        "romaji": "wa",
+        "meaning": "topic particle"
+      },
+      {
+        "word": "傘",
+        "romaji": "kasa",
+        "meaning": "umbrella"
+      },
+      {
+        "word": "を",
+        "romaji": "wo",
+        "meaning": "object particle"
+      },
+      {
+        "word": "子供",
+        "romaji": "kodomo",
+        "meaning": "child"
+      },
+      {
+        "word": "に",
+        "romaji": "ni",
+        "meaning": "to"
+      },
+      {
+        "word": "あげる",
+        "romaji": "ageru",
+        "meaning": "to give"
+      },
+      {
+        "word": "。",
+        "meaning": ""
+      },
+      {
+        "word": "彼女",
+        "romaji": "kanojo",
+        "meaning": "she"
+      },
+      {
+        "word": "は",
+        "romaji": "wa",
+        "meaning": "topic particle"
+      },
+      {
+        "word": "少し",
+        "romaji": "sukoshi",
+        "meaning": "a little"
+      },
+      {
+        "word": "濡れる",
+        "romaji": "nureru",
+        "meaning": "to get wet"
+      },
+      {
+        "word": "が",
+        "romaji": "ga",
+        "meaning": "but"
+      },
+      {
+        "word": "嬉しい",
+        "romaji": "ureshii",
+        "meaning": "happy"
+      },
+      {
+        "word": "。",
+        "meaning": ""
+      },
+      {
+        "word": "子供",
+        "romaji": "kodomo",
+        "meaning": "child"
+      },
+      {
+        "word": "は",
+        "romaji": "wa",
+        "meaning": "topic particle"
+      },
+      {
+        "word": "笑う",
+        "romaji": "warau",
+        "meaning": "to smile/laugh"
+      },
+      {
+        "word": "。",
+        "meaning": ""
+      },
+      {
+        "word": "雨",
+        "romaji": "ame",
+        "meaning": "rain"
+      },
+      {
+        "word": "の",
+        "romaji": "no",
+        "meaning": "of"
+      },
+      {
+        "word": "日",
+        "romaji": "hi",
+        "meaning": "day"
+      },
+      {
+        "word": "は",
+        "romaji": "wa",
+        "meaning": "topic particle"
+      },
+      {
+        "word": "少し",
+        "romaji": "sukoshi",
+        "meaning": "a little"
+      },
+      {
+        "word": "暖かい",
+        "romaji": "atatakai",
+        "meaning": "warm (emotionally)"
+      },
+      {
+        "word": "。",
+        "meaning": ""
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple-choice",
+        "question": "彼女は誰に傘をあげましたか？",
+        "options": [
+          "友達",
+          "男の人",
+          "子供",
+          "先生"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "true-false",
+        "question": "彼女は傘をあげて、少し濡れました。",
+        "options": [
+          "True",
+          "False"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "multiple-choice",
+        "question": "天気はどうでしたか？",
+        "options": [
+          "晴れ",
+          "雪",
+          "雨",
+          "曇り"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "true-false",
+        "question": "子供は傘をもらって泣きました。",
+        "options": [
+          "True",
+          "False"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "彼女は濡れた後、どう感じましたか？",
+        "options": [
+          "怒った",
+          "悲しい",
+          "寒い",
+          "嬉しい"
+        ],
+        "answer": 3
+      }
+    ]
+  },
+  "story3": {
+    "title": "The Lost Wallet",
+    "content": [
+      {
+        "word": "ある日",
+        "romaji": "aru hi",
+        "meaning": "one day"
+      },
+      {
+        "word": "、",
+        "meaning": ""
+      },
+      {
+        "word": "彼",
+        "romaji": "kare",
+        "meaning": "he"
+      },
+      {
+        "word": "は",
+        "romaji": "wa",
+        "meaning": "topic particle"
+      },
+      {
+        "word": "道",
+        "romaji": "michi",
+        "meaning": "road"
+      },
+      {
+        "word": "で",
+        "romaji": "de",
+        "meaning": "at"
+      },
+      {
+        "word": "財布",
+        "romaji": "saifu",
+        "meaning": "wallet"
+      },
+      {
+        "word": "を",
+        "romaji": "wo",
+        "meaning": "object particle"
+      },
+      {
+        "word": "見つける",
+        "romaji": "mitsukeru",
+        "meaning": "to find"
+      },
+      {
+        "word": "。",
+        "meaning": ""
+      },
+      {
+        "word": "財布",
+        "romaji": "saifu",
+        "meaning": "wallet"
+      },
+      {
+        "word": "の",
+        "romaji": "no",
+        "meaning": "of"
+      },
+      {
+        "word": "中",
+        "romaji": "naka",
+        "meaning": "inside"
+      },
+      {
+        "word": "に",
+        "romaji": "ni",
+        "meaning": "in"
+      },
+      {
+        "word": "お金",
+        "romaji": "okane",
+        "meaning": "money"
+      },
+      {
+        "word": "と",
+        "romaji": "to",
+        "meaning": "and"
+      },
+      {
+        "word": "カード",
+        "romaji": "kaado",
+        "meaning": "card"
+      },
+      {
+        "word": "が",
+        "romaji": "ga",
+        "meaning": "subject particle"
+      },
+      {
+        "word": "ある",
+        "romaji": "aru",
+        "meaning": "to exist"
+      },
+      {
+        "word": "。",
+        "meaning": ""
+      },
+      {
+        "word": "彼",
+        "romaji": "kare",
+        "meaning": "he"
+      },
+      {
+        "word": "は",
+        "romaji": "wa",
+        "meaning": "topic particle"
+      },
+      {
+        "word": "少し",
+        "romaji": "sukoshi",
+        "meaning": "a little"
+      },
+      {
+        "word": "考える",
+        "romaji": "kangaeru",
+        "meaning": "to think"
+      },
+      {
+        "word": "。",
+        "meaning": ""
+      },
+      {
+        "word": "「",
+        "meaning": ""
+      },
+      {
+        "word": "どうする",
+        "romaji": "dousuru",
+        "meaning": "what to do"
+      },
+      {
+        "word": "？",
+        "meaning": ""
+      },
+      {
+        "word": "」",
+        "meaning": ""
+      },
+      {
+        "word": "彼",
+        "romaji": "kare",
+        "meaning": "he"
+      },
+      {
+        "word": "は",
+        "romaji": "wa",
+        "meaning": "topic particle"
+      },
+      {
+        "word": "警察",
+        "romaji": "keisatsu",
+        "meaning": "police"
+      },
+      {
+        "word": "に",
+        "romaji": "ni",
+        "meaning": "to"
+      },
+      {
+        "word": "行く",
+        "romaji": "iku",
+        "meaning": "to go"
+      },
+      {
+        "word": "こと",
+        "romaji": "koto",
+        "meaning": "thing"
+      },
+      {
+        "word": "を",
+        "romaji": "wo",
+        "meaning": "object particle"
+      },
+      {
+        "word": "決める",
+        "romaji": "kimeru",
+        "meaning": "to decide"
+      },
+      {
+        "word": "。",
+        "meaning": ""
+      },
+      {
+        "word": "警察",
+        "romaji": "keisatsu",
+        "meaning": "police"
+      },
+      {
+        "word": "で",
+        "romaji": "de",
+        "meaning": "at"
+      },
+      {
+        "word": "財布",
+        "romaji": "saifu",
+        "meaning": "wallet"
+      },
+      {
+        "word": "を",
+        "romaji": "wo",
+        "meaning": "object particle"
+      },
+      {
+        "word": "渡す",
+        "romaji": "watasu",
+        "meaning": "to hand over"
+      },
+      {
+        "word": ""
+      },
+      {
+        "word": "後で",
+        "romaji": "ato de",
+        "meaning": "later"
+      },
+      {
+        "word": "、",
+        "meaning": ""
+      },
+      {
+        "word": "財布",
+        "romaji": "saifu",
+        "meaning": "wallet"
+      },
+      {
+        "word": "の",
+        "romaji": "no",
+        "meaning": "of"
+      },
+      {
+        "word": "持ち主",
+        "romaji": "mochinushi",
+        "meaning": "owner"
+      },
+      {
+        "word": "が",
+        "romaji": "ga",
+        "meaning": "subject particle"
+      },
+      {
+        "word": "見つかる",
+        "romaji": "mitsukaru",
+        "meaning": "to be found"
+      },
+      {
+        "word": "。",
+        "meaning": ""
+      },
+      {
+        "word": "その",
+        "romaji": "sono",
+        "meaning": "that"
+      },
+      {
+        "word": "人",
+        "romaji": "hito",
+        "meaning": "person"
+      },
+      {
+        "word": "は",
+        "romaji": "wa",
+        "meaning": "topic particle"
+      },
+      {
+        "word": "とても",
+        "romaji": "totemo",
+        "meaning": "very"
+      },
+      {
+        "word": "感謝する",
+        "romaji": "kansha suru",
+        "meaning": "to thank"
+      },
+      {
+        "word": "。",
+        "meaning": ""
+      },
+      {
+        "word": "彼",
+        "romaji": "kare",
+        "meaning": "he"
+      },
+      {
+        "word": "は",
+        "romaji": "wa",
+        "meaning": "topic particle"
+      },
+      {
+        "word": "安心する",
+        "romaji": "anshin suru",
+        "meaning": "to feel relieved"
+      },
+      {
+        "word": "。",
+        "meaning": ""
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple-choice",
+        "question": "彼は道で何を見つけましたか？",
+        "options": [
+          "お金",
+          "財布",
+          "カード",
+          "かばん"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "true-false",
+        "question": "彼は財布を自分の家に持って帰りました。",
+        "options": [
+          "True",
+          "False"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "彼は財布をどこに持って行きましたか？",
+        "options": [
+          "警察",
+          "学校",
+          "店",
+          "病院"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "true-false",
+        "question": "財布の持ち主は見つかりました。",
+        "options": [
+          "True",
+          "False"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "multiple-choice",
+        "question": "持ち主はどうしましたか？",
+        "options": [
+          "怒った",
+          "泣いた",
+          "感謝した",
+          "逃げた"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  "story4": {
+    "title": "The Old Letter",
+    "content": [
+      {
+        "word": "ある日",
+        "romaji": "aru hi",
+        "meaning": "one day"
+      },
+      {
+        "word": "、",
+        "meaning": ""
+      },
+      {
+        "word": "彼女",
+        "romaji": "kanojo",
+        "meaning": "she"
+      },
+      {
+        "word": "は",
+        "romaji": "wa",
+        "meaning": "topic particle"
+      },
+      {
+        "word": "古い",
+        "romaji": "furui",
+        "meaning": "old"
+      },
+      {
+        "word": "箱",
+        "romaji": "hako",
+        "meaning": "box"
+      },
+      {
+        "word": "を",
+        "romaji": "wo",
+        "meaning": "object particle"
+      },
+      {
+        "word": "見つける",
+        "romaji": "mitsukeru",
+        "meaning": "to find"
+      },
+      {
+        "word": "。",
+        "meaning": ""
+      },
+      {
+        "word": "箱",
+        "romaji": "hako",
+        "meaning": "box"
+      },
+      {
+        "word": "の",
+        "romaji": "no",
+        "meaning": "of"
+      },
+      {
+        "word": "中",
+        "romaji": "naka",
+        "meaning": "inside"
+      },
+      {
+        "word": "に",
+        "romaji": "ni",
+        "meaning": "in"
+      },
+      {
+        "word": "手紙",
+        "romaji": "tegami",
+        "meaning": "letter"
+      },
+      {
+        "word": "が",
+        "romaji": "ga",
+        "meaning": "subject particle"
+      },
+      {
+        "word": "ある",
+        "romaji": "aru",
+        "meaning": "to exist"
+      },
+      {
+        "word": "。",
+        "meaning": ""
+      },
+      {
+        "word": "彼女",
+        "romaji": "kanojo",
+        "meaning": "she"
+      },
+      {
+        "word": "は",
+        "romaji": "wa",
+        "meaning": "topic particle"
+      },
+      {
+        "word": "その",
+        "romaji": "sono",
+        "meaning": "that"
+      },
+      {
+        "word": "手紙",
+        "romaji": "tegami",
+        "meaning": "letter"
+      },
+      {
+        "word": "を",
+        "romaji": "wo",
+        "meaning": "object particle"
+      },
+      {
+        "word": "読む",
+        "romaji": "yomu",
+        "meaning": "to read"
+      },
+      {
+        "word": "。",
+        "meaning": ""
+      },
+      {
+        "word": "それ",
+        "romaji": "sore",
+        "meaning": "it"
+      },
+      {
+        "word": "は",
+        "romaji": "wa",
+        "meaning": "topic particle"
+      },
+      {
+        "word": "昔",
+        "romaji": "mukashi",
+        "meaning": "long ago"
+      },
+      {
+        "word": "の",
+        "romaji": "no",
+        "meaning": "of"
+      },
+      {
+        "word": "友達",
+        "romaji": "tomodachi",
+        "meaning": "friend"
+      },
+      {
+        "word": "から",
+        "romaji": "kara",
+        "meaning": "from"
+      },
+      {
+        "word": "の",
+        "romaji": "no",
+        "meaning": "of"
+      },
+      {
+        "word": "手紙",
+        "romaji": "tegami",
+        "meaning": "letter"
+      },
+      {
+        "word": "だ",
+        "romaji": "da",
+        "meaning": "is"
+      },
+      {
+        "word": "。",
+        "meaning": ""
+      },
+      {
+        "word": "手紙",
+        "romaji": "tegami",
+        "meaning": "letter"
+      },
+      {
+        "word": "に",
+        "romaji": "ni",
+        "meaning": "in"
+      },
+      {
+        "word": "楽しい",
+        "romaji": "tanoshii",
+        "meaning": "fun"
+      },
+      {
+        "word": "思い出",
+        "romaji": "omoide",
+        "meaning": "memories"
+      },
+      {
+        "word": "が",
+        "romaji": "ga",
+        "meaning": "subject particle"
+      },
+      {
+        "word": "書く",
+        "romaji": "kaku",
+        "meaning": "to write"
+      },
+      {
+        "word": "。",
+        "meaning": ""
+      },
+      {
+        "word": "彼女",
+        "romaji": "kanojo",
+        "meaning": "she"
+      },
+      {
+        "word": "は",
+        "romaji": "wa",
+        "meaning": "topic particle"
+      },
+      {
+        "word": "少し",
+        "romaji": "sukoshi",
+        "meaning": "a little"
+      },
+      {
+        "word": "悲しい",
+        "romaji": "kanashii",
+        "meaning": "sad"
+      },
+      {
+        "word": "が",
+        "romaji": "ga",
+        "meaning": "but"
+      },
+      {
+        "word": "笑う",
+        "romaji": "warau",
+        "meaning": "to smile"
+      },
+      {
+        "word": "。",
+        "meaning": ""
+      },
+      {
+        "word": "今",
+        "romaji": "ima",
+        "meaning": "now"
+      },
+      {
+        "word": "は",
+        "romaji": "wa",
+        "meaning": "topic particle"
+      },
+      {
+        "word": "その",
+        "romaji": "sono",
+        "meaning": "that"
+      },
+      {
+        "word": "友達",
+        "romaji": "tomodachi",
+        "meaning": "friend"
+      },
+      {
+        "word": "に",
+        "romaji": "ni",
+        "meaning": "to"
+      },
+      {
+        "word": "会う",
+        "romaji": "au",
+        "meaning": "to meet"
+      },
+      {
+        "word": "こと",
+        "romaji": "koto",
+        "meaning": "thing"
+      },
+      {
+        "word": "が",
+        "romaji": "ga",
+        "meaning": "subject particle"
+      },
+      {
+        "word": "できない",
+        "romaji": "dekinai",
+        "meaning": "cannot"
+      },
+      {
+        "word": "。",
+        "meaning": ""
+      },
+      {
+        "word": "でも",
+        "romaji": "demo",
+        "meaning": "but"
+      },
+      {
+        "word": "その",
+        "romaji": "sono",
+        "meaning": "that"
+      },
+      {
+        "word": "思い出",
+        "romaji": "omoide",
+        "meaning": "memory"
+      },
+      {
+        "word": "は",
+        "romaji": "wa",
+        "meaning": "topic particle"
+      },
+      {
+        "word": "心",
+        "romaji": "kokoro",
+        "meaning": "heart"
+      },
+      {
+        "word": "の",
+        "romaji": "no",
+        "meaning": "of"
+      },
+      {
+        "word": "中",
+        "romaji": "naka",
+        "meaning": "inside"
+      },
+      {
+        "word": "に",
+        "romaji": "ni",
+        "meaning": "in"
+      },
+      {
+        "word": "残る",
+        "romaji": "nokoru",
+        "meaning": "to remain"
+      },
+      {
+        "word": "。",
+        "meaning": ""
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple-choice",
+        "question": "彼女は古い箱の中で何を見つけましたか？",
+        "options": [
+          "写真",
+          "本",
+          "手紙",
+          "お金"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "true-false",
+        "question": "その手紙は先生からの手紙でした。",
+        "options": [
+          "True",
+          "False"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "手紙を読んで、彼女はどうしましたか？",
+        "options": [
+          "怒った",
+          "悲しいが笑った",
+          "泣いた",
+          "捨てた"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "true-false",
+        "question": "彼女は今、その友達に会うことができます。",
+        "options": [
+          "True",
+          "False"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "meaning",
+        "question": "What does 「思い出 (omoide)」 mean?",
+        "options": [
+          "Friend",
+          "Letter",
+          "Memories",
+          "Heart"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  "story5": {
+    "title": "The Meaning of Effort",
+    "content": [
+      {
+        "word": "彼",
+        "romaji": "kare",
+        "meaning": "he"
+      },
+      {
+        "word": "は",
+        "romaji": "wa",
+        "meaning": "topic particle"
+      },
+      {
+        "word": "毎日",
+        "romaji": "mainichi",
+        "meaning": "every day"
+      },
+      {
+        "word": "勉強",
+        "romaji": "benkyou",
+        "meaning": "study"
+      },
+      {
+        "word": "する",
+        "romaji": "suru",
+        "meaning": "to do"
+      },
+      {
+        "word": "。",
+        "meaning": ""
+      },
+      {
+        "word": "でも",
+        "romaji": "demo",
+        "meaning": "but"
+      },
+      {
+        "word": "なかなか",
+        "romaji": "nakanaka",
+        "meaning": "not easily"
+      },
+      {
+        "word": "上手",
+        "romaji": "jouzu",
+        "meaning": "good/skilled"
+      },
+      {
+        "word": "に",
+        "romaji": "ni",
+        "meaning": "adverb particle"
+      },
+      {
+        "word": "ならない",
+        "romaji": "naranai",
+        "meaning": "does not become"
+      },
+      {
+        "word": "。",
+        "meaning": ""
+      },
+      {
+        "word": "彼",
+        "romaji": "kare",
+        "meaning": "he"
+      },
+      {
+        "word": "は",
+        "romaji": "wa",
+        "meaning": "topic particle"
+      },
+      {
+        "word": "時々",
+        "romaji": "tokidoki",
+        "meaning": "sometimes"
+      },
+      {
+        "word": "やめたい",
+        "romaji": "yametai",
+        "meaning": "want to quit"
+      },
+      {
+        "word": "と",
+        "romaji": "to",
+        "meaning": "that"
+      },
+      {
+        "word": "思う",
+        "romaji": "omou",
+        "meaning": "to think"
+      },
+      {
+        "word": "。",
+        "meaning": ""
+      },
+      {
+        "word": "ある日",
+        "romaji": "aru hi",
+        "meaning": "one day"
+      },
+      {
+        "word": "、",
+        "meaning": ""
+      },
+      {
+        "word": "先生",
+        "romaji": "sensei",
+        "meaning": "teacher"
+      },
+      {
+        "word": "は",
+        "romaji": "wa",
+        "meaning": "topic particle"
+      },
+      {
+        "word": "言う",
+        "romaji": "iu",
+        "meaning": "to say"
+      },
+      {
+        "word": "。",
+        "meaning": ""
+      },
+      {
+        "word": "「",
+        "meaning": ""
+      },
+      {
+        "word": "少し",
+        "romaji": "sukoshi",
+        "meaning": "a little"
+      },
+      {
+        "word": "ずつ",
+        "romaji": "zutsu",
+        "meaning": "little by little"
+      },
+      {
+        "word": "でも",
+        "romaji": "demo",
+        "meaning": "even"
+      },
+      {
+        "word": "いい",
+        "romaji": "ii",
+        "meaning": "good"
+      },
+      {
+        "word": "。",
+        "meaning": ""
+      },
+      {
+        "word": "続ける",
+        "romaji": "tsuzukeru",
+        "meaning": "to continue"
+      },
+      {
+        "word": "こと",
+        "romaji": "koto",
+        "meaning": "thing"
+      },
+      {
+        "word": "が",
+        "romaji": "ga",
+        "meaning": "subject particle"
+      },
+      {
+        "word": "大切",
+        "romaji": "taisetsu",
+        "meaning": "important"
+      },
+      {
+        "word": "だ",
+        "romaji": "da",
+        "meaning": "is"
+      },
+      {
+        "word": "。",
+        "meaning": ""
+      },
+      {
+        "word": "」",
+        "meaning": ""
+      },
+      {
+        "word": "彼",
+        "romaji": "kare",
+        "meaning": "he"
+      },
+      {
+        "word": "は",
+        "romaji": "wa",
+        "meaning": "topic particle"
+      },
+      {
+        "word": "もう一度",
+        "romaji": "mou ichido",
+        "meaning": "once more"
+      },
+      {
+        "word": "頑張る",
+        "romaji": "ganbaru",
+        "meaning": "to try hard"
+      },
+      {
+        "word": "。",
+        "meaning": ""
+      },
+      {
+        "word": "時間",
+        "romaji": "jikan",
+        "meaning": "time"
+      },
+      {
+        "word": "が",
+        "romaji": "ga",
+        "meaning": "subject particle"
+      },
+      {
+        "word": "経つ",
+        "romaji": "tatsu",
+        "meaning": "to pass (time)"
+      },
+      {
+        "word": "。",
+        "meaning": ""
+      },
+      {
+        "word": "少し",
+        "romaji": "sukoshi",
+        "meaning": "a little"
+      },
+      {
+        "word": "ずつ",
+        "romaji": "zutsu",
+        "meaning": "little by little"
+      },
+      {
+        "word": "上手",
+        "romaji": "jouzu",
+        "meaning": "skilled"
+      },
+      {
+        "word": "に",
+        "romaji": "ni",
+        "meaning": "adverb particle"
+      },
+      {
+        "word": "なる",
+        "romaji": "naru",
+        "meaning": "to become"
+      },
+      {
+        "word": "。",
+        "meaning": ""
+      },
+      {
+        "word": "彼",
+        "romaji": "kare",
+        "meaning": "he"
+      },
+      {
+        "word": "は",
+        "romaji": "wa",
+        "meaning": "topic particle"
+      },
+      {
+        "word": "やっと",
+        "romaji": "yatto",
+        "meaning": "finally"
+      },
+      {
+        "word": "気づく",
+        "romaji": "kizuku",
+        "meaning": "to realize"
+      },
+      {
+        "word": "。",
+        "meaning": ""
+      },
+      {
+        "word": "努力",
+        "romaji": "doryoku",
+        "meaning": "effort"
+      },
+      {
+        "word": "は",
+        "romaji": "wa",
+        "meaning": "topic particle"
+      },
+      {
+        "word": "すぐ",
+        "romaji": "sugu",
+        "meaning": "immediately"
+      },
+      {
+        "word": "結果",
+        "romaji": "kekka",
+        "meaning": "result"
+      },
+      {
+        "word": "に",
+        "romaji": "ni",
+        "meaning": "into"
+      },
+      {
+        "word": "ならない",
+        "romaji": "naranai",
+        "meaning": "does not become"
+      },
+      {
+        "word": "。",
+        "meaning": ""
+      },
+      {
+        "word": "でも",
+        "romaji": "demo",
+        "meaning": "but"
+      },
+      {
+        "word": "続ける",
+        "romaji": "tsuzukeru",
+        "meaning": "to continue"
+      },
+      {
+        "word": "人",
+        "romaji": "hito",
+        "meaning": "person"
+      },
+      {
+        "word": "は",
+        "romaji": "wa",
+        "meaning": "topic particle"
+      },
+      {
+        "word": "必ず",
+        "romaji": "kanarazu",
+        "meaning": "surely"
+      },
+      {
+        "word": "強く",
+        "romaji": "tsuyoku",
+        "meaning": "strong"
+      },
+      {
+        "word": "なる",
+        "romaji": "naru",
+        "meaning": "to become"
+      },
+      {
+        "word": "。",
+        "meaning": ""
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple-choice",
+        "question": "彼は毎日何をしますか？",
+        "options": [
+          "遊ぶ",
+          "勉強する",
+          "走る",
+          "寝る"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "true-false",
+        "question": "彼はすぐに上手になりました。",
+        "options": [
+          "True",
+          "False"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "先生は何と言いましたか？",
+        "options": [
+          "やめなさい",
+          "少しずつでもいい",
+          "もっと速く",
+          "簡単だ"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "true-false",
+        "question": "時間が経って、彼は少しずつ上手になりました。",
+        "options": [
+          "True",
+          "False"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "multiple-choice",
+        "question": "努力は何に似ていますか？",
+        "options": [
+          "すぐ結果になる",
+          "結果にならない",
+          "続けると強くなる",
+          "無駄だ"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  "wildcat": {
+    "title": "注文の多い料理店",
+    "file": "wildcat.json"
+  }
+}

@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Grammar Lessons | JapaneseFlow</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    .grammar-card {
+      background: #1e293b;
+      margin: 15px auto;
+      padding: 20px;
+      border-radius: 12px;
+      width: 90%;
+      max-width: 500px;
+      text-align: left;
+    }
+    .grammar-card h3 {
+      color: #38bdf8;
+      margin-top: 0;
+    }
+    .grammar-card .meaning {
+      color: #f59e0b;
+      font-weight: bold;
+    }
+    .grammar-card .structure {
+      background: #0f172a;
+      padding: 10px;
+      border-radius: 8px;
+      font-family: monospace;
+      color: #22c55e;
+      margin-bottom: 10px;
+    }
+    .grammar-example {
+      margin-top: 15px;
+      padding-top: 10px;
+      border-top: 1px solid #334155;
+    }
+    .level-tabs {
+      display: flex;
+      justify-content: center;
+      gap: 10px;
+      margin-bottom: 20px;
+    }
+    .level-tabs button {
+      width: 100px;
+    }
+  </style>
+</head>
+<body>
+
+<button class="back-btn" onclick="goBack()">⬅ Back</button>
+
+<div class="container" style="margin-top: 40px;">
+  <h1>Grammar Lessons</h1>
+  
+  <div class="level-tabs">
+    <button onclick="loadGrammar('n5')" style="background:#0ea5e9;">JLPT N5</button>
+    <button onclick="loadGrammar('n4')" style="background:#8b5cf6;">JLPT N4</button>
+  </div>
+
+  <div id="grammarList"></div>
+</div>
+
+<script src="data-loader.js"></script>
+<script src="srs.js"></script>
+<script>
+  let grammarData = {};
+
+  async function init() {
+    const data = await DataLoader.loadAll();
+    grammarData = data.grammar;
+    loadGrammar('n5');
+  }
+
+  function loadGrammar(level) {
+    const list = document.getElementById('grammarList');
+    list.innerHTML = "";
+    
+    if (!grammarData[level]) {
+      list.innerHTML = "<p>No grammar data available for this level yet.</p>";
+      return;
+    }
+
+    grammarData[level].forEach(point => {
+      let examplesHtml = "";
+      point.examples.forEach(ex => {
+        examplesHtml += `
+          <div class="grammar-example">
+            <div style="font-size: 18px;">${ex.japanese}</div>
+            <div style="color: #94a3b8; font-size: 14px;">${ex.english}</div>
+          </div>
+        `;
+      });
+
+      const card = document.createElement("div");
+      card.className = "grammar-card";
+      card.innerHTML = `
+        <h3>${point.title}</h3>
+        <p class="meaning">${point.meaning}</p>
+        <div class="structure">${point.structure}</div>
+        <p style="color: #cbd5f5;">${point.explanation}</p>
+        ${examplesHtml}
+        <button style="margin-top:15px; background:#22c55e; width:100%; max-width:none;" onclick="markLearned('${point.id}')">Mark as Learned (+5 XP)</button>
+      `;
+      list.appendChild(card);
+    });
+  }
+
+  function markLearned(id) {
+    if (typeof SRS !== 'undefined') {
+      if (!SRS.data.stats.achievements.includes(id)) {
+        SRS.data.stats.achievements.push(id);
+        SRS.addXP(5);
+        SRS.save();
+        alert("Learned! +5 XP");
+      } else {
+        alert("You already marked this as learned.");
+      }
+    }
+  }
+
+  function goBack() {
+    window.history.back();
+  }
+
+  init();
+</script>
+
+</body>
+</html>

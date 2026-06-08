@@ -11,8 +11,7 @@ const level = localStorage.getItem("level") || "basic";
 // Load data
 async function loadData() {
   try {
-    let res = await fetch("data.json");
-    let data = await res.json();
+    let data = await DataLoader.loadAll();
 
     // 🔥 ALWAYS LOAD ALL CHARACTERS
     allCharacters = getAllCharacters(data);

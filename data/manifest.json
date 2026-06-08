@@ -1,0 +1,22 @@
+{
+  "kana": [
+    "hiragana",
+    "katakana"
+  ],
+  "kanji": [
+    "n5",
+    "n4",
+    "n3",
+    "n2",
+    "n1"
+  ],
+  "grammar": [
+    "n5",
+    "n4"
+  ],
+  "sentences": [
+    "n5",
+    "n4"
+  ],
+  "stories": "index.json"
+}

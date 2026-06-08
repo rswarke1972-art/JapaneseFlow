@@ -1,0 +1,3362 @@
+[
+  {
+    "char": "丸",
+    "romaji": "maru",
+    "meaning": "circle",
+    "example": "丸い",
+    "example_romaji": "marui",
+    "explanation": "丸 means 'round' or 'circle'."
+  },
+  {
+    "char": "久",
+    "romaji": "hisashii",
+    "meaning": "long time",
+    "example": "久しぶり",
+    "example_romaji": "hisashiburi",
+    "explanation": "久 means 'long time'."
+  },
+  {
+    "char": "才",
+    "romaji": "sai",
+    "meaning": "age",
+    "example": "十才",
+    "example_romaji": "jussai",
+    "explanation": "才 is used for age counting."
+  },
+  {
+    "char": "支",
+    "romaji": "shi",
+    "meaning": "support",
+    "example": "支える",
+    "example_romaji": "sasaeru",
+    "explanation": "支 means 'to support'."
+  },
+  {
+    "char": "戸",
+    "romaji": "to",
+    "meaning": "door",
+    "example": "戸",
+    "example_romaji": "to",
+    "explanation": "戸 means 'door'."
+  },
+  {
+    "char": "欠",
+    "romaji": "kakeru",
+    "meaning": "lack",
+    "example": "欠ける",
+    "example_romaji": "kakeru",
+    "explanation": "欠 means 'to lack'."
+  },
+  {
+    "char": "王",
+    "romaji": "ou",
+    "meaning": "king",
+    "example": "王",
+    "example_romaji": "ou",
+    "explanation": "王 means 'king'."
+  },
+  {
+    "char": "化",
+    "romaji": "ka",
+    "meaning": "change",
+    "example": "文化",
+    "example_romaji": "bunka",
+    "explanation": "化 means 'change'."
+  },
+  {
+    "char": "内",
+    "romaji": "uchi",
+    "meaning": "inside",
+    "example": "内",
+    "example_romaji": "uchi",
+    "explanation": "内 means 'inside'."
+  },
+  {
+    "char": "反",
+    "romaji": "han",
+    "meaning": "oppose",
+    "example": "反対",
+    "example_romaji": "hantai",
+    "explanation": "反 means 'opposite' or 'oppose'."
+  },
+  {
+    "char": "比",
+    "romaji": "kuraberu",
+    "meaning": "compare",
+    "example": "比べる",
+    "example_romaji": "kuraberu",
+    "explanation": "比 means 'to compare'."
+  },
+  {
+    "char": "夫",
+    "romaji": "otto",
+    "meaning": "husband",
+    "example": "夫",
+    "example_romaji": "otto",
+    "explanation": "夫 means 'husband'."
+  },
+  {
+    "char": "仏",
+    "romaji": "butsu",
+    "meaning": "Buddha",
+    "example": "仏",
+    "example_romaji": "butsu",
+    "explanation": "仏 means 'Buddha'."
+  },
+  {
+    "char": "毛",
+    "romaji": "ke",
+    "meaning": "hair",
+    "example": "毛",
+    "example_romaji": "ke",
+    "explanation": "毛 means 'hair'."
+  },
+  {
+    "char": "予",
+    "romaji": "yo",
+    "meaning": "beforehand",
+    "example": "予定",
+    "example_romaji": "yotei",
+    "explanation": "予 means 'beforehand'."
+  },
+  {
+    "char": "由",
+    "romaji": "yuu",
+    "meaning": "reason",
+    "example": "理由",
+    "example_romaji": "riyuu",
+    "explanation": "由 means 'reason'."
+  },
+  {
+    "char": "未",
+    "romaji": "mi",
+    "meaning": "not yet",
+    "example": "未定",
+    "example_romaji": "mitei",
+    "explanation": "未 means 'not yet'."
+  },
+  {
+    "char": "布",
+    "romaji": "nuno",
+    "meaning": "cloth",
+    "example": "布",
+    "example_romaji": "nuno",
+    "explanation": "布 means 'cloth'."
+  },
+  {
+    "char": "包",
+    "romaji": "tsutsumu",
+    "meaning": "wrap",
+    "example": "包む",
+    "example_romaji": "tsutsumu",
+    "explanation": "包 means 'to wrap'."
+  },
+  {
+    "char": "末",
+    "romaji": "matsu",
+    "meaning": "end",
+    "example": "週末",
+    "example_romaji": "shuumatsu",
+    "explanation": "末 means 'end'."
+  },
+  {
+    "char": "平",
+    "romaji": "taira",
+    "meaning": "flat",
+    "example": "平ら",
+    "example_romaji": "taira",
+    "explanation": "平 means 'flat'."
+  },
+  {
+    "char": "辺",
+    "romaji": "hen",
+    "meaning": "area",
+    "example": "周辺",
+    "example_romaji": "shuuhen",
+    "explanation": "辺 means 'area' or 'side'."
+  },
+  {
+    "char": "氷",
+    "romaji": "koori",
+    "meaning": "ice",
+    "example": "氷",
+    "example_romaji": "koori",
+    "explanation": "氷 means 'ice'."
+  },
+  {
+    "char": "付",
+    "romaji": "tsukeru",
+    "meaning": "attach",
+    "example": "付ける",
+    "example_romaji": "tsukeru",
+    "explanation": "付 means 'to attach'."
+  },
+  {
+    "char": "皮",
+    "romaji": "kawa",
+    "meaning": "skin",
+    "example": "皮",
+    "example_romaji": "kawa",
+    "explanation": "皮 means 'skin'."
+  },
+  {
+    "char": "犯",
+    "romaji": "okasu",
+    "meaning": "commit crime",
+    "example": "犯す",
+    "example_romaji": "okasu",
+    "explanation": "犯 means 'to commit (crime)'."
+  },
+  {
+    "char": "必",
+    "romaji": "hitsu",
+    "meaning": "certain",
+    "example": "必要",
+    "example_romaji": "hitsuyou",
+    "explanation": "必 means 'certain' or 'necessary'."
+  },
+  {
+    "char": "石",
+    "romaji": "ishi",
+    "meaning": "stone",
+    "example": "石",
+    "example_romaji": "ishi",
+    "explanation": "石 means 'stone'."
+  },
+  {
+    "char": "他",
+    "romaji": "ta",
+    "meaning": "other",
+    "example": "他",
+    "example_romaji": "ta",
+    "explanation": "他 means 'other'."
+  },
+  {
+    "char": "打",
+    "romaji": "utsu",
+    "meaning": "hit",
+    "example": "打つ",
+    "example_romaji": "utsu",
+    "explanation": "打 means 'to hit'."
+  },
+  {
+    "char": "加",
+    "romaji": "kuwaeru",
+    "meaning": "add",
+    "example": "加える",
+    "example_romaji": "kuwaeru",
+    "explanation": "加 means 'to add'."
+  },
+  {
+    "char": "可",
+    "romaji": "ka",
+    "meaning": "possible",
+    "example": "可能",
+    "example_romaji": "kanou",
+    "explanation": "可 means 'possible'."
+  },
+  {
+    "char": "央",
+    "romaji": "ou",
+    "meaning": "center",
+    "example": "中央",
+    "example_romaji": "chuuou",
+    "explanation": "央 means 'center'."
+  },
+  {
+    "char": "刊",
+    "romaji": "kan",
+    "meaning": "publish",
+    "example": "刊行",
+    "example_romaji": "kankou",
+    "explanation": "刊 relates to publishing."
+  },
+  {
+    "char": "玉",
+    "romaji": "tama",
+    "meaning": "ball, jewel",
+    "example": "玉",
+    "example_romaji": "tama",
+    "explanation": "玉 means 'ball' or 'jewel'."
+  },
+  {
+    "char": "旧",
+    "romaji": "kyuu",
+    "meaning": "old",
+    "example": "旧",
+    "example_romaji": "kyuu",
+    "explanation": "旧 means 'old' (former)."
+  },
+  {
+    "char": "号",
+    "romaji": "gou",
+    "meaning": "number",
+    "example": "番号",
+    "example_romaji": "bangou",
+    "explanation": "号 means 'number'."
+  },
+  {
+    "char": "皿",
+    "romaji": "sara",
+    "meaning": "plate",
+    "example": "皿",
+    "example_romaji": "sara",
+    "explanation": "皿 means 'plate'."
+  },
+  {
+    "char": "札",
+    "romaji": "satsu",
+    "meaning": "bill, tag",
+    "example": "札",
+    "example_romaji": "satsu",
+    "explanation": "札 means 'bill' or 'tag'."
+  },
+  {
+    "char": "史",
+    "romaji": "shi",
+    "meaning": "history",
+    "example": "歴史",
+    "example_romaji": "rekishi",
+    "explanation": "史 means 'history'."
+  },
+  {
+    "char": "失",
+    "romaji": "ushinau",
+    "meaning": "lose",
+    "example": "失う",
+    "example_romaji": "ushinau",
+    "explanation": "失 means 'to lose'."
+  },
+  {
+    "char": "示",
+    "romaji": "shimesu",
+    "meaning": "show",
+    "example": "示す",
+    "example_romaji": "shimesu",
+    "explanation": "示 means 'to show'."
+  },
+  {
+    "char": "申",
+    "romaji": "mousu",
+    "meaning": "say (humble)",
+    "example": "申す",
+    "example_romaji": "mousu",
+    "explanation": "申 is a humble form of 'to say'."
+  },
+  {
+    "char": "礼",
+    "romaji": "rei",
+    "meaning": "thanks, manners",
+    "example": "お礼",
+    "example_romaji": "orei",
+    "explanation": "礼 means 'thanks' or 'courtesy'."
+  },
+  {
+    "char": "令",
+    "romaji": "rei",
+    "meaning": "order",
+    "example": "命令",
+    "example_romaji": "meirei",
+    "explanation": "令 means 'order' or 'command'."
+  },
+  {
+    "char": "列",
+    "romaji": "retsu",
+    "meaning": "row",
+    "example": "列",
+    "example_romaji": "retsu",
+    "explanation": "列 means 'row' or 'line'."
+  },
+  {
+    "char": "老",
+    "romaji": "rou",
+    "meaning": "old age",
+    "example": "老人",
+    "example_romaji": "roujin",
+    "explanation": "老 means 'old age'."
+  },
+  {
+    "char": "式",
+    "romaji": "shiki",
+    "meaning": "ceremony",
+    "example": "式",
+    "example_romaji": "shiki",
+    "explanation": "式 means 'ceremony'."
+  },
+  {
+    "char": "州",
+    "romaji": "shuu",
+    "meaning": "state",
+    "example": "州",
+    "example_romaji": "shuu",
+    "explanation": "州 means 'state' or region."
+  },
+  {
+    "char": "寺",
+    "romaji": "tera",
+    "meaning": "temple",
+    "example": "寺",
+    "example_romaji": "tera",
+    "explanation": "寺 means 'temple'."
+  },
+  {
+    "char": "次",
+    "romaji": "tsugi",
+    "meaning": "next",
+    "example": "次",
+    "example_romaji": "tsugi",
+    "explanation": "次 means 'next'."
+  },
+  {
+    "char": "守",
+    "romaji": "mamoru",
+    "meaning": "protect",
+    "example": "守る",
+    "example_romaji": "mamoru",
+    "explanation": "守 means 'to protect'."
+  },
+  {
+    "char": "糸",
+    "romaji": "ito",
+    "meaning": "thread",
+    "example": "糸",
+    "example_romaji": "ito",
+    "explanation": "糸 means 'thread'."
+  },
+  {
+    "char": "在",
+    "romaji": "zai",
+    "meaning": "exist",
+    "example": "存在",
+    "example_romaji": "sonzai",
+    "explanation": "在 means 'to exist' or 'be located'."
+  },
+  {
+    "char": "再",
+    "romaji": "sai",
+    "meaning": "again",
+    "example": "再び",
+    "example_romaji": "futatabi",
+    "explanation": "再 means 'again'."
+  },
+  {
+    "char": "向",
+    "romaji": "mukau",
+    "meaning": "face toward",
+    "example": "向かう",
+    "example_romaji": "mukau",
+    "explanation": "向 means 'to face' or 'toward'."
+  },
+  {
+    "char": "交",
+    "romaji": "kawasu",
+    "meaning": "exchange",
+    "example": "交換",
+    "example_romaji": "koukan",
+    "explanation": "交 means 'to exchange'."
+  },
+  {
+    "char": "血",
+    "romaji": "chi",
+    "meaning": "blood",
+    "example": "血",
+    "example_romaji": "chi",
+    "explanation": "血 means 'blood'."
+  },
+  {
+    "char": "件",
+    "romaji": "ken",
+    "meaning": "matter",
+    "example": "事件",
+    "example_romaji": "jiken",
+    "explanation": "件 is used for matters or cases."
+  },
+  {
+    "char": "共",
+    "romaji": "tomo",
+    "meaning": "together",
+    "example": "共に",
+    "example_romaji": "tomo ni",
+    "explanation": "共 means 'together'."
+  },
+  {
+    "char": "曲",
+    "romaji": "kyoku",
+    "meaning": "music piece",
+    "example": "曲",
+    "example_romaji": "kyoku",
+    "explanation": "曲 means 'song' or 'piece'."
+  },
+  {
+    "char": "各",
+    "romaji": "kaku",
+    "meaning": "each",
+    "example": "各国",
+    "example_romaji": "kakukoku",
+    "explanation": "各 means 'each'."
+  },
+  {
+    "char": "印",
+    "romaji": "shirushi",
+    "meaning": "mark",
+    "example": "印",
+    "example_romaji": "shirushi",
+    "explanation": "印 means 'mark' or 'sign'."
+  },
+  {
+    "char": "因",
+    "romaji": "in",
+    "meaning": "cause",
+    "example": "原因",
+    "example_romaji": "genin",
+    "explanation": "因 means 'cause'."
+  },
+  {
+    "char": "羽",
+    "romaji": "hane",
+    "meaning": "feather",
+    "example": "羽",
+    "example_romaji": "hane",
+    "explanation": "羽 means 'feather'."
+  },
+  {
+    "char": "団",
+    "romaji": "dan",
+    "meaning": "group",
+    "example": "団体",
+    "example_romaji": "dantai",
+    "explanation": "団 means 'group'."
+  },
+  {
+    "char": "竹",
+    "romaji": "take",
+    "meaning": "bamboo",
+    "example": "竹",
+    "example_romaji": "take",
+    "explanation": "竹 means 'bamboo'."
+  },
+  {
+    "char": "仲",
+    "romaji": "naka",
+    "meaning": "relationship",
+    "example": "仲間",
+    "example_romaji": "nakama",
+    "explanation": "仲 means 'relationship'."
+  },
+  {
+    "char": "虫",
+    "romaji": "mushi",
+    "meaning": "insect",
+    "example": "虫",
+    "example_romaji": "mushi",
+    "explanation": "虫 means 'insect'."
+  },
+  {
+    "char": "兆",
+    "romaji": "chou",
+    "meaning": "trillion",
+    "example": "兆",
+    "example_romaji": "chou",
+    "explanation": "兆 means 'trillion'."
+  },
+  {
+    "char": "伝",
+    "romaji": "tsutaeru",
+    "meaning": "transmit",
+    "example": "伝える",
+    "example_romaji": "tsutaeru",
+    "explanation": "伝 means 'to convey'."
+  },
+  {
+    "char": "当",
+    "romaji": "ataru",
+    "meaning": "hit, appropriate",
+    "example": "当たる",
+    "example_romaji": "ataru",
+    "explanation": "当 means 'to hit' or 'be appropriate'."
+  },
+  {
+    "char": "成",
+    "romaji": "naru",
+    "meaning": "become",
+    "example": "成る",
+    "example_romaji": "naru",
+    "explanation": "成 means 'to become'."
+  },
+  {
+    "char": "全",
+    "romaji": "zen",
+    "meaning": "all",
+    "example": "全部",
+    "example_romaji": "zenbu",
+    "explanation": "全 means 'all'."
+  },
+  {
+    "char": "争",
+    "romaji": "arasou",
+    "meaning": "compete",
+    "example": "争う",
+    "example_romaji": "arasou",
+    "explanation": "争 means 'to compete' or 'argue'."
+  },
+  {
+    "char": "任",
+    "romaji": "nin",
+    "meaning": "responsibility",
+    "example": "責任",
+    "example_romaji": "sekinin",
+    "explanation": "任 means 'responsibility'."
+  },
+  {
+    "char": "米",
+    "romaji": "kome",
+    "meaning": "rice",
+    "example": "米",
+    "example_romaji": "kome",
+    "explanation": "米 means 'rice'."
+  },
+  {
+    "char": "両",
+    "romaji": "ryou",
+    "meaning": "both",
+    "example": "両方",
+    "example_romaji": "ryouhou",
+    "explanation": "両 means 'both'."
+  },
+  {
+    "char": "利",
+    "romaji": "ri",
+    "meaning": "benefit",
+    "example": "便利",
+    "example_romaji": "benri",
+    "explanation": "利 means 'benefit' or 'advantage'."
+  },
+  {
+    "char": "余",
+    "romaji": "yo",
+    "meaning": "extra",
+    "example": "余分",
+    "example_romaji": "yobun",
+    "explanation": "余 means 'extra' or 'remaining'."
+  },
+  {
+    "char": "防",
+    "romaji": "fusegu",
+    "meaning": "prevent",
+    "example": "防ぐ",
+    "example_romaji": "fusegu",
+    "explanation": "防 means 'to prevent'."
+  },
+  {
+    "char": "役",
+    "romaji": "yaku",
+    "meaning": "role",
+    "example": "役",
+    "example_romaji": "yaku",
+    "explanation": "役 means 'role' or 'duty'."
+  },
+  {
+    "char": "返",
+    "romaji": "kaesu",
+    "meaning": "return",
+    "example": "返す",
+    "example_romaji": "kaesu",
+    "explanation": "返 means 'to return'."
+  },
+  {
+    "char": "判",
+    "romaji": "han",
+    "meaning": "judge",
+    "example": "判断",
+    "example_romaji": "handan",
+    "explanation": "判 means 'to judge'."
+  },
+  {
+    "char": "臣",
+    "romaji": "shin",
+    "meaning": "servant",
+    "example": "大臣",
+    "example_romaji": "daijin",
+    "explanation": "臣 means 'servant' or 'minister'."
+  },
+  {
+    "char": "身",
+    "romaji": "mi",
+    "meaning": "body",
+    "example": "自分の身",
+    "example_romaji": "jibun no mi",
+    "explanation": "身 means 'body' or 'oneself'."
+  },
+  {
+    "char": "折",
+    "romaji": "oru",
+    "meaning": "fold",
+    "example": "折る",
+    "example_romaji": "oru",
+    "explanation": "折 means 'to fold'."
+  },
+  {
+    "char": "努",
+    "romaji": "tsutomeru",
+    "meaning": "effort",
+    "example": "努力",
+    "example_romaji": "doryoku",
+    "explanation": "努 relates to effort."
+  },
+  {
+    "char": "投",
+    "romaji": "nageru",
+    "meaning": "throw",
+    "example": "投げる",
+    "example_romaji": "nageru",
+    "explanation": "投 means 'to throw'."
+  },
+  {
+    "char": "対",
+    "romaji": "tai",
+    "meaning": "opposite",
+    "example": "対する",
+    "example_romaji": "taisuru",
+    "explanation": "対 means 'opposite' or 'against'."
+  },
+  {
+    "char": "束",
+    "romaji": "soku",
+    "meaning": "bundle",
+    "example": "約束",
+    "example_romaji": "yakusoku",
+    "explanation": "束 means 'bundle' and appears in 'promise'."
+  },
+  {
+    "char": "谷",
+    "romaji": "tani",
+    "meaning": "valley",
+    "example": "谷",
+    "example_romaji": "tani",
+    "explanation": "谷 means 'valley'."
+  },
+  {
+    "char": "位",
+    "romaji": "i",
+    "meaning": "rank",
+    "example": "位置",
+    "example_romaji": "ichi",
+    "explanation": "位 means 'position' or 'rank'."
+  },
+  {
+    "char": "囲",
+    "romaji": "kakomu",
+    "meaning": "surround",
+    "example": "囲む",
+    "example_romaji": "kakomu",
+    "explanation": "囲 means 'to surround'."
+  },
+  {
+    "char": "完",
+    "romaji": "kan",
+    "meaning": "complete",
+    "example": "完全",
+    "example_romaji": "kanzen",
+    "explanation": "完 means 'complete'."
+  },
+  {
+    "char": "角",
+    "romaji": "kaku",
+    "meaning": "angle",
+    "example": "角",
+    "example_romaji": "kaku",
+    "explanation": "角 means 'angle'."
+  },
+  {
+    "char": "快",
+    "romaji": "kai",
+    "meaning": "pleasant",
+    "example": "快適",
+    "example_romaji": "kaiteki",
+    "explanation": "快 means 'pleasant'."
+  },
+  {
+    "char": "改",
+    "romaji": "aratameru",
+    "meaning": "change",
+    "example": "改める",
+    "example_romaji": "aratameru",
+    "explanation": "改 means 'to change or reform'."
+  },
+  {
+    "char": "技",
+    "romaji": "waza",
+    "meaning": "skill",
+    "example": "技",
+    "example_romaji": "waza",
+    "explanation": "技 means 'skill'."
+  },
+  {
+    "char": "局",
+    "romaji": "kyoku",
+    "meaning": "office",
+    "example": "郵便局",
+    "example_romaji": "yuubinkyoku",
+    "explanation": "局 means 'office'."
+  },
+  {
+    "char": "君",
+    "romaji": "kimi",
+    "meaning": "you",
+    "example": "君",
+    "example_romaji": "kimi",
+    "explanation": "君 means 'you' (informal)."
+  },
+  {
+    "char": "均",
+    "romaji": "kin",
+    "meaning": "equal",
+    "example": "平均",
+    "example_romaji": "heikin",
+    "explanation": "均 means 'equal'."
+  },
+  {
+    "char": "形",
+    "romaji": "katachi",
+    "meaning": "shape",
+    "example": "形",
+    "example_romaji": "katachi",
+    "explanation": "形 means 'shape'."
+  },
+  {
+    "char": "決",
+    "romaji": "kimeru",
+    "meaning": "decide",
+    "example": "決める",
+    "example_romaji": "kimeru",
+    "explanation": "決 means 'to decide'."
+  },
+  {
+    "char": "芸",
+    "romaji": "gei",
+    "meaning": "art",
+    "example": "芸術",
+    "example_romaji": "geijutsu",
+    "explanation": "芸 means 'art' or 'performance'."
+  },
+  {
+    "char": "求",
+    "romaji": "motomeru",
+    "meaning": "seek",
+    "example": "求める",
+    "example_romaji": "motomeru",
+    "explanation": "求 means 'to seek' or 'request'."
+  },
+  {
+    "char": "希",
+    "romaji": "ki",
+    "meaning": "hope",
+    "example": "希望",
+    "example_romaji": "kibou",
+    "explanation": "希 means 'hope' or 'rare'."
+  },
+  {
+    "char": "告",
+    "romaji": "tsugeru",
+    "meaning": "tell",
+    "example": "告げる",
+    "example_romaji": "tsugeru",
+    "explanation": "告 means 'to inform'."
+  },
+  {
+    "char": "材",
+    "romaji": "zai",
+    "meaning": "material",
+    "example": "材料",
+    "example_romaji": "zairyou",
+    "explanation": "材 means 'material'."
+  },
+  {
+    "char": "坂",
+    "romaji": "saka",
+    "meaning": "slope",
+    "example": "坂",
+    "example_romaji": "saka",
+    "explanation": "坂 means 'hill' or 'slope'."
+  },
+  {
+    "char": "似",
+    "romaji": "niru",
+    "meaning": "resemble",
+    "example": "似る",
+    "example_romaji": "niru",
+    "explanation": "似 means 'to resemble'."
+  },
+  {
+    "char": "児",
+    "romaji": "ji",
+    "meaning": "child",
+    "example": "児童",
+    "example_romaji": "jidou",
+    "explanation": "児 means 'child'."
+  },
+  {
+    "char": "状",
+    "romaji": "jou",
+    "meaning": "condition",
+    "example": "状態",
+    "example_romaji": "joutai",
+    "explanation": "状 means 'condition'."
+  },
+  {
+    "char": "初",
+    "romaji": "hajime",
+    "meaning": "first",
+    "example": "最初",
+    "example_romaji": "saisho",
+    "explanation": "初 means 'first' or 'beginning'."
+  },
+  {
+    "char": "助",
+    "romaji": "tasukeru",
+    "meaning": "help",
+    "example": "助ける",
+    "example_romaji": "tasukeru",
+    "explanation": "助 means 'to help'."
+  },
+  {
+    "char": "労",
+    "romaji": "rou",
+    "meaning": "labor",
+    "example": "労働",
+    "example_romaji": "roudou",
+    "explanation": "労 relates to labor or effort."
+  },
+  {
+    "char": "冷",
+    "romaji": "tsumetai",
+    "meaning": "cold",
+    "example": "冷たい",
+    "example_romaji": "tsumetai",
+    "explanation": "冷 means 'cold'."
+  },
+  {
+    "char": "例",
+    "romaji": "rei",
+    "meaning": "example",
+    "example": "例",
+    "example_romaji": "rei",
+    "explanation": "例 means 'example'."
+  },
+  {
+    "char": "和",
+    "romaji": "wa",
+    "meaning": "harmony",
+    "example": "平和",
+    "example_romaji": "heiwa",
+    "explanation": "和 means 'harmony' or 'peace'."
+  },
+  {
+    "char": "述",
+    "romaji": "noberu",
+    "meaning": "state",
+    "example": "述べる",
+    "example_romaji": "noberu",
+    "explanation": "述 means 'to state'."
+  },
+  {
+    "char": "承",
+    "romaji": "uketamawaru",
+    "meaning": "receive (formal)",
+    "example": "承る",
+    "example_romaji": "uketamawaru",
+    "explanation": "承 means 'to receive' politely."
+  },
+  {
+    "char": "招",
+    "romaji": "maneku",
+    "meaning": "invite",
+    "example": "招く",
+    "example_romaji": "maneku",
+    "explanation": "招 means 'to invite'."
+  },
+  {
+    "char": "実",
+    "romaji": "jitsu",
+    "meaning": "truth",
+    "example": "事実",
+    "example_romaji": "jijitsu",
+    "explanation": "実 means 'truth' or 'reality'."
+  },
+  {
+    "char": "取",
+    "romaji": "toru",
+    "meaning": "take",
+    "example": "取る",
+    "example_romaji": "toru",
+    "explanation": "取 means 'to take'."
+  },
+  {
+    "char": "治",
+    "romaji": "naosu",
+    "meaning": "heal",
+    "example": "治す",
+    "example_romaji": "naosu",
+    "explanation": "治 means 'to heal'."
+  },
+  {
+    "char": "受",
+    "romaji": "ukeru",
+    "meaning": "receive",
+    "example": "受ける",
+    "example_romaji": "ukeru",
+    "explanation": "受 means 'to receive'."
+  },
+  {
+    "char": "周",
+    "romaji": "shuu",
+    "meaning": "around",
+    "example": "周り",
+    "example_romaji": "mawari",
+    "explanation": "周 means 'around'."
+  },
+  {
+    "char": "妻",
+    "romaji": "tsuma",
+    "meaning": "wife",
+    "example": "妻",
+    "example_romaji": "tsuma",
+    "explanation": "妻 means 'wife'."
+  },
+  {
+    "char": "参",
+    "romaji": "sanka",
+    "meaning": "participate",
+    "example": "参加",
+    "example_romaji": "sanka",
+    "explanation": "参 relates to participation."
+  },
+  {
+    "char": "枝",
+    "romaji": "eda",
+    "meaning": "branch",
+    "example": "枝",
+    "example_romaji": "eda",
+    "explanation": "枝 means 'branch'."
+  },
+  {
+    "char": "刷",
+    "romaji": "suru",
+    "meaning": "print",
+    "example": "印刷",
+    "example_romaji": "insatsu",
+    "explanation": "刷 means 'to print'."
+  },
+  {
+    "char": "効",
+    "romaji": "kou",
+    "meaning": "effect",
+    "example": "効果",
+    "example_romaji": "kouka",
+    "explanation": "効 means 'effect' or 'result'."
+  },
+  {
+    "char": "幸",
+    "romaji": "shiawase",
+    "meaning": "happiness",
+    "example": "幸せ",
+    "example_romaji": "shiawase",
+    "explanation": "幸 means 'happiness'."
+  },
+  {
+    "char": "固",
+    "romaji": "katai",
+    "meaning": "hard",
+    "example": "固い",
+    "example_romaji": "katai",
+    "explanation": "固 means 'hard' or 'solid'."
+  },
+  {
+    "char": "季",
+    "romaji": "ki",
+    "meaning": "season",
+    "example": "季節",
+    "example_romaji": "kisetsu",
+    "explanation": "季 means 'season'."
+  },
+  {
+    "char": "岸",
+    "romaji": "kishi",
+    "meaning": "shore",
+    "example": "岸",
+    "example_romaji": "kishi",
+    "explanation": "岸 means 'shore'."
+  },
+  {
+    "char": "岩",
+    "romaji": "iwa",
+    "meaning": "rock",
+    "example": "岩",
+    "example_romaji": "iwa",
+    "explanation": "岩 means 'rock'."
+  },
+  {
+    "char": "泣",
+    "romaji": "naku",
+    "meaning": "cry",
+    "example": "泣く",
+    "example_romaji": "naku",
+    "explanation": "泣 means 'to cry'."
+  },
+  {
+    "char": "協",
+    "romaji": "kyou",
+    "meaning": "cooperate",
+    "example": "協力",
+    "example_romaji": "kyouryoku",
+    "explanation": "協 means 'cooperation'."
+  },
+  {
+    "char": "居",
+    "romaji": "iru",
+    "meaning": "exist (living)",
+    "example": "いる",
+    "example_romaji": "iru",
+    "explanation": "居 means 'to exist' (for living things)."
+  },
+  {
+    "char": "苦",
+    "romaji": "kurushii",
+    "meaning": "painful",
+    "example": "苦しい",
+    "example_romaji": "kurushii",
+    "explanation": "苦 means 'painful' or 'suffering'."
+  },
+  {
+    "char": "具",
+    "romaji": "gu",
+    "meaning": "tool",
+    "example": "道具",
+    "example_romaji": "dougu",
+    "explanation": "具 means 'tool'."
+  },
+  {
+    "char": "果",
+    "romaji": "ka",
+    "meaning": "result",
+    "example": "結果",
+    "example_romaji": "kekka",
+    "explanation": "果 means 'result'."
+  },
+  {
+    "char": "河",
+    "romaji": "kawa",
+    "meaning": "river",
+    "example": "河",
+    "example_romaji": "kawa",
+    "explanation": "河 means 'river'."
+  },
+  {
+    "char": "官",
+    "romaji": "kan",
+    "meaning": "government",
+    "example": "官",
+    "example_romaji": "kan",
+    "explanation": "官 relates to government or officials."
+  },
+  {
+    "char": "委",
+    "romaji": "i",
+    "meaning": "committee",
+    "example": "委員",
+    "example_romaji": "iin",
+    "explanation": "委 relates to committees."
+  },
+  {
+    "char": "易",
+    "romaji": "yasui",
+    "meaning": "easy",
+    "example": "易しい",
+    "example_romaji": "yasashii",
+    "explanation": "易 means 'easy'."
+  },
+  {
+    "char": "育",
+    "romaji": "sodateru",
+    "meaning": "raise",
+    "example": "育てる",
+    "example_romaji": "sodateru",
+    "explanation": "育 means 'to raise or grow'."
+  },
+  {
+    "char": "泳",
+    "romaji": "oyogu",
+    "meaning": "swim",
+    "example": "泳ぐ",
+    "example_romaji": "oyogu",
+    "explanation": "泳 means 'to swim'."
+  },
+  {
+    "char": "直",
+    "romaji": "naosu",
+    "meaning": "fix",
+    "example": "直す",
+    "example_romaji": "naosu",
+    "explanation": "直 means 'to fix'."
+  },
+  {
+    "char": "定",
+    "romaji": "tei",
+    "meaning": "decide",
+    "example": "決定",
+    "example_romaji": "kettei",
+    "explanation": "定 means 'to decide'."
+  },
+  {
+    "char": "底",
+    "romaji": "soko",
+    "meaning": "bottom",
+    "example": "底",
+    "example_romaji": "soko",
+    "explanation": "底 means 'bottom'."
+  },
+  {
+    "char": "的",
+    "romaji": "teki",
+    "meaning": "target",
+    "example": "目的",
+    "example_romaji": "mokuteki",
+    "explanation": "的 means 'target' or '-like'."
+  },
+  {
+    "char": "性",
+    "romaji": "sei",
+    "meaning": "nature",
+    "example": "性格",
+    "example_romaji": "seikaku",
+    "explanation": "性 means 'nature' or 'character'."
+  },
+  {
+    "char": "昔",
+    "romaji": "mukashi",
+    "meaning": "long ago",
+    "example": "昔",
+    "example_romaji": "mukashi",
+    "explanation": "昔 means 'long ago'."
+  },
+  {
+    "char": "制",
+    "romaji": "sei",
+    "meaning": "system",
+    "example": "制度",
+    "example_romaji": "seido",
+    "explanation": "制 relates to systems or control."
+  },
+  {
+    "char": "卒",
+    "romaji": "sotsu",
+    "meaning": "graduate",
+    "example": "卒業",
+    "example_romaji": "sotsugyou",
+    "explanation": "卒 means 'graduate'."
+  },
+  {
+    "char": "非",
+    "romaji": "hi",
+    "meaning": "not",
+    "example": "非常",
+    "example_romaji": "hijou",
+    "explanation": "非 means 'not' or 'non-'."
+  },
+  {
+    "char": "波",
+    "romaji": "nami",
+    "meaning": "wave",
+    "example": "波",
+    "example_romaji": "nami",
+    "explanation": "波 means 'wave'."
+  },
+  {
+    "char": "板",
+    "romaji": "ita",
+    "meaning": "board",
+    "example": "板",
+    "example_romaji": "ita",
+    "explanation": "板 means 'board'."
+  },
+  {
+    "char": "版",
+    "romaji": "han",
+    "meaning": "edition",
+    "example": "出版",
+    "example_romaji": "shuppan",
+    "explanation": "版 means 'edition'."
+  },
+  {
+    "char": "念",
+    "romaji": "nen",
+    "meaning": "thought",
+    "example": "記念",
+    "example_romaji": "kinen",
+    "explanation": "念 means 'thought' or 'feeling'."
+  },
+  {
+    "char": "武",
+    "romaji": "bu",
+    "meaning": "military",
+    "example": "武道",
+    "example_romaji": "budou",
+    "explanation": "武 relates to military or martial arts."
+  },
+  {
+    "char": "表",
+    "romaji": "omote",
+    "meaning": "surface",
+    "example": "表",
+    "example_romaji": "omote",
+    "explanation": "表 means 'surface' or 'front'."
+  },
+  {
+    "char": "命",
+    "romaji": "inochi",
+    "meaning": "life",
+    "example": "命",
+    "example_romaji": "inochi",
+    "explanation": "命 means 'life'."
+  },
+  {
+    "char": "府",
+    "romaji": "fu",
+    "meaning": "government",
+    "example": "政府",
+    "example_romaji": "seifu",
+    "explanation": "府 relates to government."
+  },
+  {
+    "char": "放",
+    "romaji": "hanasu",
+    "meaning": "release",
+    "example": "放す",
+    "example_romaji": "hanasu",
+    "explanation": "放 means 'to release'."
+  },
+  {
+    "char": "法",
+    "romaji": "hou",
+    "meaning": "law",
+    "example": "法律",
+    "example_romaji": "houritsu",
+    "explanation": "法 means 'law' or 'method'."
+  },
+  {
+    "char": "油",
+    "romaji": "abura",
+    "meaning": "oil",
+    "example": "油",
+    "example_romaji": "abura",
+    "explanation": "油 means 'oil'."
+  },
+  {
+    "char": "勇",
+    "romaji": "yuu",
+    "meaning": "bravery",
+    "example": "勇気",
+    "example_romaji": "yuuki",
+    "explanation": "勇 means 'bravery'."
+  },
+  {
+    "char": "要",
+    "romaji": "you",
+    "meaning": "important",
+    "example": "必要",
+    "example_romaji": "hitsuyou",
+    "explanation": "要 means 'important' or 'necessary'."
+  },
+  {
+    "char": "負",
+    "romaji": "makeru",
+    "meaning": "lose",
+    "example": "負ける",
+    "example_romaji": "makeru",
+    "explanation": "負 means 'to lose'."
+  },
+  {
+    "char": "迷",
+    "romaji": "mayou",
+    "meaning": "be lost",
+    "example": "迷う",
+    "example_romaji": "mayou",
+    "explanation": "迷 means 'to get lost'."
+  },
+  {
+    "char": "約",
+    "romaji": "yaku",
+    "meaning": "promise",
+    "example": "約束",
+    "example_romaji": "yakusoku",
+    "explanation": "約 means 'promise' or 'approx'."
+  },
+  {
+    "char": "面",
+    "romaji": "men",
+    "meaning": "face",
+    "example": "顔面",
+    "example_romaji": "ganmen",
+    "explanation": "面 means 'face' or 'surface'."
+  },
+  {
+    "char": "変",
+    "romaji": "hen",
+    "meaning": "change",
+    "example": "変化",
+    "example_romaji": "henka",
+    "explanation": "変 means 'change'."
+  },
+  {
+    "char": "飛",
+    "romaji": "tobu",
+    "meaning": "fly",
+    "example": "飛ぶ",
+    "example_romaji": "tobu",
+    "explanation": "飛 means 'to fly'."
+  },
+  {
+    "char": "美",
+    "romaji": "bi",
+    "meaning": "beauty",
+    "example": "美しい",
+    "example_romaji": "utsukushii",
+    "explanation": "美 means 'beauty'."
+  },
+  {
+    "char": "独",
+    "romaji": "doku",
+    "meaning": "alone",
+    "example": "独立",
+    "example_romaji": "dokuritsu",
+    "explanation": "独 means 'alone' or 'independent'."
+  },
+  {
+    "char": "則",
+    "romaji": "soku",
+    "meaning": "rule",
+    "example": "規則",
+    "example_romaji": "kisoku",
+    "explanation": "則 means 'rule'."
+  },
+  {
+    "char": "相",
+    "romaji": "sou",
+    "meaning": "mutual",
+    "example": "相談",
+    "example_romaji": "soudan",
+    "explanation": "相 means 'mutual'."
+  },
+  {
+    "char": "草",
+    "romaji": "kusa",
+    "meaning": "grass",
+    "example": "草",
+    "example_romaji": "kusa",
+    "explanation": "草 means 'grass'."
+  },
+  {
+    "char": "祖",
+    "romaji": "so",
+    "meaning": "ancestor",
+    "example": "祖父",
+    "example_romaji": "sofu",
+    "explanation": "祖 means 'ancestor'."
+  },
+  {
+    "char": "信",
+    "romaji": "shin",
+    "meaning": "trust",
+    "example": "信用",
+    "example_romaji": "shinyou",
+    "explanation": "信 means 'trust' or 'belief'."
+  },
+  {
+    "char": "政",
+    "romaji": "sei",
+    "meaning": "politics",
+    "example": "政治",
+    "example_romaji": "seiji",
+    "explanation": "政 relates to politics or government."
+  },
+  {
+    "char": "星",
+    "romaji": "hoshi",
+    "meaning": "star",
+    "example": "星",
+    "example_romaji": "hoshi",
+    "explanation": "星 means 'star'."
+  },
+  {
+    "char": "点",
+    "romaji": "ten",
+    "meaning": "point",
+    "example": "点",
+    "example_romaji": "ten",
+    "explanation": "点 means 'point' or 'dot'."
+  },
+  {
+    "char": "追",
+    "romaji": "ou",
+    "meaning": "chase",
+    "example": "追う",
+    "example_romaji": "ou",
+    "explanation": "追 means 'to chase'."
+  },
+  {
+    "char": "単",
+    "romaji": "tan",
+    "meaning": "simple",
+    "example": "簡単",
+    "example_romaji": "kantan",
+    "explanation": "単 means 'simple'."
+  },
+  {
+    "char": "炭",
+    "romaji": "sumi",
+    "meaning": "charcoal",
+    "example": "炭",
+    "example_romaji": "sumi",
+    "explanation": "炭 means 'charcoal'."
+  },
+  {
+    "char": "退",
+    "romaji": "taisu",
+    "meaning": "retreat",
+    "example": "退く",
+    "example_romaji": "shirizoku",
+    "explanation": "退 means 'to retreat'."
+  },
+  {
+    "char": "栄",
+    "romaji": "ei",
+    "meaning": "prosper",
+    "example": "栄える",
+    "example_romaji": "sakaeru",
+    "explanation": "栄 means 'to prosper'."
+  },
+  {
+    "char": "科",
+    "romaji": "ka",
+    "meaning": "subject",
+    "example": "科学",
+    "example_romaji": "kagaku",
+    "explanation": "科 means 'subject' or 'department'."
+  },
+  {
+    "char": "活",
+    "romaji": "katsu",
+    "meaning": "life, active",
+    "example": "生活",
+    "example_romaji": "seikatsu",
+    "explanation": "活 relates to life or activity."
+  },
+  {
+    "char": "胃",
+    "romaji": "i",
+    "meaning": "stomach",
+    "example": "胃",
+    "example_romaji": "i",
+    "explanation": "胃 means 'stomach'."
+  },
+  {
+    "char": "級",
+    "romaji": "kyuu",
+    "meaning": "level",
+    "example": "級",
+    "example_romaji": "kyuu",
+    "explanation": "級 means 'grade' or 'level'."
+  },
+  {
+    "char": "軍",
+    "romaji": "gun",
+    "meaning": "army",
+    "example": "軍",
+    "example_romaji": "gun",
+    "explanation": "軍 means 'army'."
+  },
+  {
+    "char": "係",
+    "romaji": "kakari",
+    "meaning": "relation",
+    "example": "関係",
+    "example_romaji": "kankei",
+    "explanation": "係 means 'relation' or 'person in charge'."
+  },
+  {
+    "char": "型",
+    "romaji": "kata",
+    "meaning": "model",
+    "example": "型",
+    "example_romaji": "kata",
+    "explanation": "型 means 'type' or 'model'."
+  },
+  {
+    "char": "客",
+    "romaji": "kyaku",
+    "meaning": "guest",
+    "example": "客",
+    "example_romaji": "kyaku",
+    "explanation": "客 means 'guest' or 'customer'."
+  },
+  {
+    "char": "逆",
+    "romaji": "gyaku",
+    "meaning": "reverse",
+    "example": "逆",
+    "example_romaji": "gyaku",
+    "explanation": "逆 means 'opposite' or 'reverse'."
+  },
+  {
+    "char": "限",
+    "romaji": "gen",
+    "meaning": "limit",
+    "example": "制限",
+    "example_romaji": "seigen",
+    "explanation": "限 means 'limit'."
+  },
+  {
+    "char": "厚",
+    "romaji": "atsui",
+    "meaning": "thick",
+    "example": "厚い",
+    "example_romaji": "atsui",
+    "explanation": "厚 means 'thick'."
+  },
+  {
+    "char": "指",
+    "romaji": "yubi",
+    "meaning": "finger",
+    "example": "指",
+    "example_romaji": "yubi",
+    "explanation": "指 means 'finger'."
+  },
+  {
+    "char": "昨",
+    "romaji": "saku",
+    "meaning": "previous",
+    "example": "昨日",
+    "example_romaji": "kinou",
+    "explanation": "昨 relates to the past (yesterday)."
+  },
+  {
+    "char": "祝",
+    "romaji": "iwau",
+    "meaning": "celebrate",
+    "example": "祝う",
+    "example_romaji": "iwau",
+    "explanation": "祝 means 'to celebrate'."
+  },
+  {
+    "char": "神",
+    "romaji": "kami",
+    "meaning": "god",
+    "example": "神",
+    "example_romaji": "kami",
+    "explanation": "神 means 'god' or 'spirit'."
+  },
+  {
+    "char": "査",
+    "romaji": "sa",
+    "meaning": "investigate",
+    "example": "調査",
+    "example_romaji": "chousa",
+    "explanation": "査 means 'to investigate'."
+  },
+  {
+    "char": "省",
+    "romaji": "shou",
+    "meaning": "ministry, reflect",
+    "example": "反省",
+    "example_romaji": "hansei",
+    "explanation": "省 means 'to reflect' or 'government ministry'."
+  },
+  {
+    "char": "酒",
+    "romaji": "sake",
+    "meaning": "alcohol",
+    "example": "お酒",
+    "example_romaji": "osake",
+    "explanation": "酒 means 'alcohol' or 'sake'."
+  },
+  {
+    "char": "笑",
+    "romaji": "warau",
+    "meaning": "laugh",
+    "example": "笑う",
+    "example_romaji": "warau",
+    "explanation": "笑 means 'to laugh'."
+  },
+  {
+    "char": "消",
+    "romaji": "kesu",
+    "meaning": "erase",
+    "example": "消す",
+    "example_romaji": "kesu",
+    "explanation": "消 means 'to erase' or 'turn off'."
+  },
+  {
+    "char": "師",
+    "romaji": "shi",
+    "meaning": "teacher",
+    "example": "教師",
+    "example_romaji": "kyoushi",
+    "explanation": "師 means 'teacher' or 'master'."
+  },
+  {
+    "char": "財",
+    "romaji": "zai",
+    "meaning": "wealth",
+    "example": "財産",
+    "example_romaji": "zaisan",
+    "explanation": "財 means 'wealth' or 'property'."
+  },
+  {
+    "char": "殺",
+    "romaji": "korosu",
+    "meaning": "kill",
+    "example": "殺す",
+    "example_romaji": "korosu",
+    "explanation": "殺 means 'to kill'."
+  },
+  {
+    "char": "差",
+    "romaji": "sa",
+    "meaning": "difference",
+    "example": "差",
+    "example_romaji": "sa",
+    "explanation": "差 means 'difference'."
+  },
+  {
+    "char": "残",
+    "romaji": "nokoru",
+    "meaning": "remain",
+    "example": "残る",
+    "example_romaji": "nokoru",
+    "explanation": "残 means 'to remain'."
+  },
+  {
+    "char": "航",
+    "romaji": "kou",
+    "meaning": "navigate",
+    "example": "航空",
+    "example_romaji": "koukuu",
+    "explanation": "航 relates to navigation or aviation."
+  },
+  {
+    "char": "根",
+    "romaji": "ne",
+    "meaning": "root",
+    "example": "根",
+    "example_romaji": "ne",
+    "explanation": "根 means 'root'."
+  },
+  {
+    "char": "個",
+    "romaji": "ko",
+    "meaning": "individual",
+    "example": "個人",
+    "example_romaji": "kojin",
+    "explanation": "個 means 'individual'."
+  },
+  {
+    "char": "候",
+    "romaji": "kou",
+    "meaning": "climate, wait",
+    "example": "気候",
+    "example_romaji": "kikou",
+    "explanation": "候 relates to climate or waiting."
+  },
+  {
+    "char": "庫",
+    "romaji": "ko",
+    "meaning": "warehouse",
+    "example": "倉庫",
+    "example_romaji": "souko",
+    "explanation": "庫 means 'warehouse'."
+  },
+  {
+    "char": "記",
+    "romaji": "ki",
+    "meaning": "record",
+    "example": "記録",
+    "example_romaji": "kiroku",
+    "explanation": "記 means 'record'."
+  },
+  {
+    "char": "訓",
+    "romaji": "kun",
+    "meaning": "instruction",
+    "example": "訓練",
+    "example_romaji": "kunren",
+    "explanation": "訓 means 'instruction'."
+  },
+  {
+    "char": "害",
+    "romaji": "gai",
+    "meaning": "harm",
+    "example": "被害",
+    "example_romaji": "higai",
+    "explanation": "害 means 'damage' or 'harm'."
+  },
+  {
+    "char": "格",
+    "romaji": "kaku",
+    "meaning": "status",
+    "example": "性格",
+    "example_romaji": "seikaku",
+    "explanation": "格 means 'status' or 'character'."
+  },
+  {
+    "char": "荷",
+    "romaji": "ni",
+    "meaning": "load",
+    "example": "荷物",
+    "example_romaji": "nimotsu",
+    "explanation": "荷 means 'load' or 'luggage'."
+  },
+  {
+    "char": "帯",
+    "romaji": "obi",
+    "meaning": "belt",
+    "example": "帯",
+    "example_romaji": "obi",
+    "explanation": "帯 means 'belt'."
+  },
+  {
+    "char": "島",
+    "romaji": "shima",
+    "meaning": "island",
+    "example": "島",
+    "example_romaji": "shima",
+    "explanation": "島 means 'island'."
+  },
+  {
+    "char": "庭",
+    "romaji": "niwa",
+    "meaning": "garden",
+    "example": "庭",
+    "example_romaji": "niwa",
+    "explanation": "庭 means 'garden'."
+  },
+  {
+    "char": "徒",
+    "romaji": "to",
+    "meaning": "student",
+    "example": "生徒",
+    "example_romaji": "seito",
+    "explanation": "徒 means 'student' or 'follower'."
+  },
+  {
+    "char": "席",
+    "romaji": "seki",
+    "meaning": "seat",
+    "example": "席",
+    "example_romaji": "seki",
+    "explanation": "席 means 'seat'."
+  },
+  {
+    "char": "息",
+    "romaji": "iki",
+    "meaning": "breath",
+    "example": "息",
+    "example_romaji": "iki",
+    "explanation": "息 means 'breath'."
+  },
+  {
+    "char": "造",
+    "romaji": "tsukuru",
+    "meaning": "build",
+    "example": "造る",
+    "example_romaji": "tsukuru",
+    "explanation": "造 means 'to build or make'."
+  },
+  {
+    "char": "孫",
+    "romaji": "mago",
+    "meaning": "grandchild",
+    "example": "孫",
+    "example_romaji": "mago",
+    "explanation": "孫 means 'grandchild'."
+  },
+  {
+    "char": "速",
+    "romaji": "hayai",
+    "meaning": "fast",
+    "example": "速い",
+    "example_romaji": "hayai",
+    "explanation": "速 means 'fast'."
+  },
+  {
+    "char": "能",
+    "romaji": "nou",
+    "meaning": "ability",
+    "example": "能力",
+    "example_romaji": "nouryoku",
+    "explanation": "能 means 'ability'."
+  },
+  {
+    "char": "配",
+    "romaji": "kubaru",
+    "meaning": "distribute",
+    "example": "配る",
+    "example_romaji": "kubaru",
+    "explanation": "配 means 'to distribute'."
+  },
+  {
+    "char": "倍",
+    "romaji": "bai",
+    "meaning": "double",
+    "example": "倍",
+    "example_romaji": "bai",
+    "explanation": "倍 means 'double'."
+  },
+  {
+    "char": "破",
+    "romaji": "yaburu",
+    "meaning": "break",
+    "example": "破る",
+    "example_romaji": "yaburu",
+    "explanation": "破 means 'to break'."
+  },
+  {
+    "char": "馬",
+    "romaji": "uma",
+    "meaning": "horse",
+    "example": "馬",
+    "example_romaji": "uma",
+    "explanation": "馬 means 'horse'."
+  },
+  {
+    "char": "浴",
+    "romaji": "abiru",
+    "meaning": "bathe",
+    "example": "浴びる",
+    "example_romaji": "abiru",
+    "explanation": "浴 means 'to bathe'."
+  },
+  {
+    "char": "容",
+    "romaji": "you",
+    "meaning": "contain",
+    "example": "内容",
+    "example_romaji": "naiyou",
+    "explanation": "容 means 'contain' or 'content'."
+  },
+  {
+    "char": "流",
+    "romaji": "nagare",
+    "meaning": "flow",
+    "example": "流れる",
+    "example_romaji": "nagareru",
+    "explanation": "流 means 'to flow'."
+  },
+  {
+    "char": "留",
+    "romaji": "tomeru",
+    "meaning": "stop",
+    "example": "留める",
+    "example_romaji": "tomeru",
+    "explanation": "留 means 'to stop or stay'."
+  },
+  {
+    "char": "連",
+    "romaji": "ren",
+    "meaning": "connect",
+    "example": "連絡",
+    "example_romaji": "renraku",
+    "explanation": "連 means 'to connect'."
+  },
+  {
+    "char": "陸",
+    "romaji": "riku",
+    "meaning": "land",
+    "example": "陸",
+    "example_romaji": "riku",
+    "explanation": "陸 means 'land'."
+  },
+  {
+    "char": "率",
+    "romaji": "ritsu",
+    "meaning": "rate",
+    "example": "確率",
+    "example_romaji": "kakuritsu",
+    "explanation": "率 means 'rate' or 'ratio'."
+  },
+  {
+    "char": "略",
+    "romaji": "ryaku",
+    "meaning": "abbreviate",
+    "example": "省略",
+    "example_romaji": "shouryaku",
+    "explanation": "略 means 'abbreviation'."
+  },
+  {
+    "char": "望",
+    "romaji": "nozomu",
+    "meaning": "wish",
+    "example": "望む",
+    "example_romaji": "nozomu",
+    "explanation": "望 means 'to wish'."
+  },
+  {
+    "char": "務",
+    "romaji": "mu",
+    "meaning": "duty",
+    "example": "義務",
+    "example_romaji": "gimu",
+    "explanation": "務 means 'duty'."
+  },
+  {
+    "char": "敗",
+    "romaji": "makeru",
+    "meaning": "lose",
+    "example": "敗れる",
+    "example_romaji": "yabureru",
+    "explanation": "敗 means 'to lose'."
+  },
+  {
+    "char": "部",
+    "romaji": "bu",
+    "meaning": "section",
+    "example": "部屋",
+    "example_romaji": "heya",
+    "explanation": "部 means 'section' or 'room'."
+  },
+  {
+    "char": "副",
+    "romaji": "fuku",
+    "meaning": "vice",
+    "example": "副社長",
+    "example_romaji": "fukushachou",
+    "explanation": "副 means 'vice' or 'assistant'."
+  },
+  {
+    "char": "婦",
+    "romaji": "fu",
+    "meaning": "woman",
+    "example": "主婦",
+    "example_romaji": "shufu",
+    "explanation": "婦 means 'woman' or 'wife'."
+  },
+  {
+    "char": "側",
+    "romaji": "gawa",
+    "meaning": "side",
+    "example": "右側",
+    "example_romaji": "migigawa",
+    "explanation": "側 means 'side'."
+  },
+  {
+    "char": "組",
+    "romaji": "kumi",
+    "meaning": "group",
+    "example": "組",
+    "example_romaji": "kumi",
+    "explanation": "組 means 'group'."
+  },
+  {
+    "char": "責",
+    "romaji": "seki",
+    "meaning": "responsibility",
+    "example": "責任",
+    "example_romaji": "sekinin",
+    "explanation": "責 means 'responsibility'."
+  },
+  {
+    "char": "接",
+    "romaji": "setsu",
+    "meaning": "connect",
+    "example": "接続",
+    "example_romaji": "setsuzoku",
+    "explanation": "接 means 'to connect'."
+  },
+  {
+    "char": "船",
+    "romaji": "fune",
+    "meaning": "ship",
+    "example": "船",
+    "example_romaji": "fune",
+    "explanation": "船 means 'ship'."
+  },
+  {
+    "char": "商",
+    "romaji": "shou",
+    "meaning": "commerce",
+    "example": "商売",
+    "example_romaji": "shoubai",
+    "explanation": "商 means 'commerce'."
+  },
+  {
+    "char": "設",
+    "romaji": "setsu",
+    "meaning": "establish",
+    "example": "設立",
+    "example_romaji": "setsuritsu",
+    "explanation": "設 means 'to establish' or 'set up'."
+  },
+  {
+    "char": "雪",
+    "romaji": "yuki",
+    "meaning": "snow",
+    "example": "雪",
+    "example_romaji": "yuki",
+    "explanation": "雪 means 'snow'."
+  },
+  {
+    "char": "清",
+    "romaji": "kiyoi",
+    "meaning": "clean",
+    "example": "清い",
+    "example_romaji": "kiyoi",
+    "explanation": "清 means 'clean' or 'pure'."
+  },
+  {
+    "char": "深",
+    "romaji": "fukai",
+    "meaning": "deep",
+    "example": "深い",
+    "example_romaji": "fukai",
+    "explanation": "深 means 'deep'."
+  },
+  {
+    "char": "得",
+    "romaji": "eru",
+    "meaning": "obtain",
+    "example": "得る",
+    "example_romaji": "eru",
+    "explanation": "得 means 'to obtain'."
+  },
+  {
+    "char": "第",
+    "romaji": "dai",
+    "meaning": "number prefix",
+    "example": "第一",
+    "example_romaji": "daiichi",
+    "explanation": "第 is used for ordinal numbers."
+  },
+  {
+    "char": "停",
+    "romaji": "tei",
+    "meaning": "stop",
+    "example": "停車",
+    "example_romaji": "teisha",
+    "explanation": "停 means 'to stop'."
+  },
+  {
+    "char": "断",
+    "romaji": "tatsu",
+    "meaning": "cut off",
+    "example": "断る",
+    "example_romaji": "kotowaru",
+    "explanation": "断 means 'to cut off' or refuse."
+  },
+  {
+    "char": "貨",
+    "romaji": "ka",
+    "meaning": "goods",
+    "example": "貨物",
+    "example_romaji": "kamotsu",
+    "explanation": "貨 means 'goods' or cargo."
+  },
+  {
+    "char": "液",
+    "romaji": "eki",
+    "meaning": "liquid",
+    "example": "液体",
+    "example_romaji": "ekitai",
+    "explanation": "液 means 'liquid'."
+  },
+  {
+    "char": "移",
+    "romaji": "utsuru",
+    "meaning": "move",
+    "example": "移る",
+    "example_romaji": "utsuru",
+    "explanation": "移 means 'to move'."
+  },
+  {
+    "char": "経",
+    "romaji": "kei",
+    "meaning": "pass, manage",
+    "example": "経験",
+    "example_romaji": "keiken",
+    "explanation": "経 relates to passing or experience."
+  },
+  {
+    "char": "規",
+    "romaji": "ki",
+    "meaning": "rule",
+    "example": "規則",
+    "example_romaji": "kisoku",
+    "explanation": "規 means 'rule'."
+  },
+  {
+    "char": "寄",
+    "romaji": "yoru",
+    "meaning": "approach",
+    "example": "寄る",
+    "example_romaji": "yoru",
+    "explanation": "寄 means 'to approach'."
+  },
+  {
+    "char": "許",
+    "romaji": "yurusu",
+    "meaning": "permit",
+    "example": "許す",
+    "example_romaji": "yurusu",
+    "explanation": "許 means 'to permit'."
+  },
+  {
+    "char": "球",
+    "romaji": "kyuu",
+    "meaning": "sphere",
+    "example": "地球",
+    "example_romaji": "chikyuu",
+    "explanation": "球 means 'sphere' or 'ball'."
+  },
+  {
+    "char": "救",
+    "romaji": "sukuu",
+    "meaning": "save",
+    "example": "救う",
+    "example_romaji": "sukuu",
+    "explanation": "救 means 'to save'."
+  },
+  {
+    "char": "険",
+    "romaji": "ken",
+    "meaning": "danger",
+    "example": "危険",
+    "example_romaji": "kiken",
+    "explanation": "険 means 'danger'."
+  },
+  {
+    "char": "現",
+    "romaji": "gen",
+    "meaning": "appear",
+    "example": "現れる",
+    "example_romaji": "arawareru",
+    "explanation": "現 means 'to appear'."
+  },
+  {
+    "char": "混",
+    "romaji": "mazaru",
+    "meaning": "mix",
+    "example": "混ざる",
+    "example_romaji": "mazaru",
+    "explanation": "混 means 'to mix'."
+  },
+  {
+    "char": "祭",
+    "romaji": "matsuri",
+    "meaning": "festival",
+    "example": "祭り",
+    "example_romaji": "matsuri",
+    "explanation": "祭 means 'festival'."
+  },
+  {
+    "char": "細",
+    "romaji": "hosoi",
+    "meaning": "thin",
+    "example": "細い",
+    "example_romaji": "hosoi",
+    "explanation": "細 means 'thin'."
+  },
+  {
+    "char": "術",
+    "romaji": "jutsu",
+    "meaning": "technique",
+    "example": "技術",
+    "example_romaji": "gijutsu",
+    "explanation": "術 means 'technique'."
+  },
+  {
+    "char": "宿",
+    "romaji": "yado",
+    "meaning": "lodging",
+    "example": "宿",
+    "example_romaji": "yado",
+    "explanation": "宿 means 'inn' or lodging."
+  },
+  {
+    "char": "章",
+    "romaji": "shou",
+    "meaning": "chapter",
+    "example": "章",
+    "example_romaji": "shou",
+    "explanation": "章 means 'chapter'."
+  },
+  {
+    "char": "常",
+    "romaji": "jou",
+    "meaning": "usual",
+    "example": "通常",
+    "example_romaji": "tsuujou",
+    "explanation": "常 means 'usual' or 'normal'."
+  },
+  {
+    "char": "情",
+    "romaji": "jou",
+    "meaning": "emotion",
+    "example": "感情",
+    "example_romaji": "kanjou",
+    "explanation": "情 means 'emotion' or 'feeling'."
+  },
+  {
+    "char": "植",
+    "romaji": "ueru",
+    "meaning": "plant",
+    "example": "植える",
+    "example_romaji": "ueru",
+    "explanation": "植 means 'to plant'."
+  },
+  {
+    "char": "順",
+    "romaji": "jun",
+    "meaning": "order",
+    "example": "順番",
+    "example_romaji": "junban",
+    "explanation": "順 means 'order'."
+  },
+  {
+    "char": "象",
+    "romaji": "zou",
+    "meaning": "elephant",
+    "example": "象",
+    "example_romaji": "zou",
+    "explanation": "象 means 'elephant'."
+  },
+  {
+    "char": "焼",
+    "romaji": "yaku",
+    "meaning": "burn",
+    "example": "焼く",
+    "example_romaji": "yaku",
+    "explanation": "焼 means 'to burn or grill'."
+  },
+  {
+    "char": "勝",
+    "romaji": "katsu",
+    "meaning": "win",
+    "example": "勝つ",
+    "example_romaji": "katsu",
+    "explanation": "勝 means 'to win'."
+  },
+  {
+    "char": "歯",
+    "romaji": "ha",
+    "meaning": "tooth",
+    "example": "歯",
+    "example_romaji": "ha",
+    "explanation": "歯 means 'tooth'."
+  },
+  {
+    "char": "最",
+    "romaji": "sai",
+    "meaning": "most",
+    "example": "最初",
+    "example_romaji": "saisho",
+    "explanation": "最 means 'most'."
+  },
+  {
+    "char": "散",
+    "romaji": "chiru",
+    "meaning": "scatter",
+    "example": "散る",
+    "example_romaji": "chiru",
+    "explanation": "散 means 'to scatter'."
+  },
+  {
+    "char": "港",
+    "romaji": "minato",
+    "meaning": "harbor",
+    "example": "港",
+    "example_romaji": "minato",
+    "explanation": "港 means 'harbor'."
+  },
+  {
+    "char": "検",
+    "romaji": "ken",
+    "meaning": "inspect",
+    "example": "検査",
+    "example_romaji": "kensa",
+    "explanation": "検 means 'inspection'."
+  },
+  {
+    "char": "湖",
+    "romaji": "mizuumi",
+    "meaning": "lake",
+    "example": "湖",
+    "example_romaji": "mizuumi",
+    "explanation": "湖 means 'lake'."
+  },
+  {
+    "char": "期",
+    "romaji": "ki",
+    "meaning": "period",
+    "example": "期間",
+    "example_romaji": "kikan",
+    "explanation": "期 means 'period'."
+  },
+  {
+    "char": "喜",
+    "romaji": "yorokobu",
+    "meaning": "rejoice",
+    "example": "喜ぶ",
+    "example_romaji": "yorokobu",
+    "explanation": "喜 means 'to rejoice'."
+  },
+  {
+    "char": "結",
+    "romaji": "musubu",
+    "meaning": "tie",
+    "example": "結ぶ",
+    "example_romaji": "musubu",
+    "explanation": "結 means 'to tie or connect'."
+  },
+  {
+    "char": "景",
+    "romaji": "kei",
+    "meaning": "scenery",
+    "example": "景色",
+    "example_romaji": "keshiki",
+    "explanation": "景 means 'scenery'."
+  },
+  {
+    "char": "給",
+    "romaji": "kyuu",
+    "meaning": "supply",
+    "example": "給料",
+    "example_romaji": "kyuuryou",
+    "explanation": "給 means 'supply' or 'salary'."
+  },
+  {
+    "char": "雲",
+    "romaji": "kumo",
+    "meaning": "cloud",
+    "example": "雲",
+    "example_romaji": "kumo",
+    "explanation": "雲 means 'cloud'."
+  },
+  {
+    "char": "営",
+    "romaji": "ei",
+    "meaning": "manage",
+    "example": "営業",
+    "example_romaji": "eigyou",
+    "explanation": "営 means 'to manage'."
+  },
+  {
+    "char": "温",
+    "romaji": "atatakai",
+    "meaning": "warm",
+    "example": "温かい",
+    "example_romaji": "atatakai",
+    "explanation": "温 means 'warm'."
+  },
+  {
+    "char": "過",
+    "romaji": "sugiru",
+    "meaning": "pass, exceed",
+    "example": "過ぎる",
+    "example_romaji": "sugiru",
+    "explanation": "過 means 'to exceed'."
+  },
+  {
+    "char": "絵",
+    "romaji": "e",
+    "meaning": "picture",
+    "example": "絵",
+    "example_romaji": "e",
+    "explanation": "絵 means 'picture'."
+  },
+  {
+    "char": "階",
+    "romaji": "kai",
+    "meaning": "floor",
+    "example": "階段",
+    "example_romaji": "kaidan",
+    "explanation": "階 means 'floor or level'."
+  },
+  {
+    "char": "覚",
+    "romaji": "oboeru",
+    "meaning": "remember",
+    "example": "覚える",
+    "example_romaji": "oboeru",
+    "explanation": "覚 means 'to remember'."
+  },
+  {
+    "char": "貯",
+    "romaji": "tameru",
+    "meaning": "save money",
+    "example": "貯める",
+    "example_romaji": "tameru",
+    "explanation": "貯 means 'to save'."
+  },
+  {
+    "char": "達",
+    "romaji": "tachi",
+    "meaning": "plural marker",
+    "example": "私達",
+    "example_romaji": "watashitachi",
+    "explanation": "達 is used to make plural."
+  },
+  {
+    "char": "測",
+    "romaji": "hakaru",
+    "meaning": "measure",
+    "example": "測る",
+    "example_romaji": "hakaru",
+    "explanation": "測 means 'to measure'."
+  },
+  {
+    "char": "童",
+    "romaji": "dou",
+    "meaning": "child",
+    "example": "児童",
+    "example_romaji": "jidou",
+    "explanation": "童 means 'child'."
+  },
+  {
+    "char": "等",
+    "romaji": "toushi",
+    "meaning": "etc",
+    "example": "等",
+    "example_romaji": "tou",
+    "explanation": "等 means 'etc.' or equal."
+  },
+  {
+    "char": "湯",
+    "romaji": "yu",
+    "meaning": "hot water",
+    "example": "お湯",
+    "example_romaji": "oyu",
+    "explanation": "湯 means 'hot water'."
+  },
+  {
+    "char": "登",
+    "romaji": "noboru",
+    "meaning": "climb",
+    "example": "登る",
+    "example_romaji": "noboru",
+    "explanation": "登 means 'to climb'."
+  },
+  {
+    "char": "程",
+    "romaji": "hodo",
+    "meaning": "extent",
+    "example": "程度",
+    "example_romaji": "teido",
+    "explanation": "程 means 'degree or extent'."
+  },
+  {
+    "char": "絶",
+    "romaji": "taeru",
+    "meaning": "stop",
+    "example": "絶える",
+    "example_romaji": "taeru",
+    "explanation": "絶 means 'to cease'."
+  },
+  {
+    "char": "然",
+    "romaji": "zen",
+    "meaning": "so, natural",
+    "example": "当然",
+    "example_romaji": "touzen",
+    "explanation": "然 means 'so' or 'natural'."
+  },
+  {
+    "char": "富",
+    "romaji": "tomi",
+    "meaning": "wealth",
+    "example": "富",
+    "example_romaji": "tomi",
+    "explanation": "富 means 'wealth'."
+  },
+  {
+    "char": "復",
+    "romaji": "fuku",
+    "meaning": "return",
+    "example": "復習",
+    "example_romaji": "fukushuu",
+    "explanation": "復 means 'return or review'."
+  },
+  {
+    "char": "費",
+    "romaji": "hi",
+    "meaning": "cost",
+    "example": "費用",
+    "example_romaji": "hiyou",
+    "explanation": "費 means 'expense'."
+  },
+  {
+    "char": "番",
+    "romaji": "ban",
+    "meaning": "number",
+    "example": "番号",
+    "example_romaji": "bangou",
+    "explanation": "番 means 'number'."
+  },
+  {
+    "char": "悲",
+    "romaji": "kanashii",
+    "meaning": "sad",
+    "example": "悲しい",
+    "example_romaji": "kanashii",
+    "explanation": "悲 means 'sad'."
+  },
+  {
+    "char": "筆",
+    "romaji": "fude",
+    "meaning": "brush",
+    "example": "筆",
+    "example_romaji": "fude",
+    "explanation": "筆 means 'writing brush'."
+  },
+  {
+    "char": "備",
+    "romaji": "sonaeru",
+    "meaning": "prepare",
+    "example": "備える",
+    "example_romaji": "sonaeru",
+    "explanation": "備 means 'to prepare'."
+  },
+  {
+    "char": "貿",
+    "romaji": "bou",
+    "meaning": "trade",
+    "example": "貿易",
+    "example_romaji": "boueki",
+    "explanation": "貿 relates to trade."
+  },
+  {
+    "char": "無",
+    "romaji": "mu",
+    "meaning": "none",
+    "example": "無い",
+    "example_romaji": "nai",
+    "explanation": "無 means 'nothing'."
+  },
+  {
+    "char": "報",
+    "romaji": "hou",
+    "meaning": "report",
+    "example": "情報",
+    "example_romaji": "jouhou",
+    "explanation": "報 means 'report'."
+  },
+  {
+    "char": "満",
+    "romaji": "man",
+    "meaning": "full",
+    "example": "満足",
+    "example_romaji": "manzoku",
+    "explanation": "満 means 'full'."
+  },
+  {
+    "char": "量",
+    "romaji": "ryou",
+    "meaning": "quantity",
+    "example": "量",
+    "example_romaji": "ryou",
+    "explanation": "量 means 'quantity'."
+  },
+  {
+    "char": "遊",
+    "romaji": "asobu",
+    "meaning": "play",
+    "example": "遊ぶ",
+    "example_romaji": "asobu",
+    "explanation": "遊 means 'to play'."
+  },
+  {
+    "char": "落",
+    "romaji": "ochiru",
+    "meaning": "fall",
+    "example": "落ちる",
+    "example_romaji": "ochiru",
+    "explanation": "落 means 'to fall'."
+  },
+  {
+    "char": "陽",
+    "romaji": "you",
+    "meaning": "sun",
+    "example": "太陽",
+    "example_romaji": "taiyou",
+    "explanation": "陽 means 'sun'."
+  },
+  {
+    "char": "葉",
+    "romaji": "ha",
+    "meaning": "leaf",
+    "example": "葉",
+    "example_romaji": "ha",
+    "explanation": "葉 means 'leaf'."
+  },
+  {
+    "char": "税",
+    "romaji": "zei",
+    "meaning": "tax",
+    "example": "税金",
+    "example_romaji": "zeikin",
+    "explanation": "税 means 'tax'."
+  },
+  {
+    "char": "路",
+    "romaji": "ro",
+    "meaning": "road",
+    "example": "道路",
+    "example_romaji": "douro",
+    "explanation": "路 means 'road'."
+  },
+  {
+    "char": "豊",
+    "romaji": "yutaka",
+    "meaning": "abundant",
+    "example": "豊か",
+    "example_romaji": "yutaka",
+    "explanation": "豊 means 'abundant' or 'rich'."
+  },
+  {
+    "char": "夢",
+    "romaji": "yume",
+    "meaning": "dream",
+    "example": "夢",
+    "example_romaji": "yume",
+    "explanation": "夢 means 'dream'."
+  },
+  {
+    "char": "農",
+    "romaji": "nou",
+    "meaning": "agriculture",
+    "example": "農業",
+    "example_romaji": "nougyou",
+    "explanation": "農 relates to farming."
+  },
+  {
+    "char": "続",
+    "romaji": "tsuzuku",
+    "meaning": "continue",
+    "example": "続く",
+    "example_romaji": "tsuzuku",
+    "explanation": "続 means 'to continue'."
+  },
+  {
+    "char": "損",
+    "romaji": "son",
+    "meaning": "loss",
+    "example": "損",
+    "example_romaji": "son",
+    "explanation": "損 means 'loss'."
+  },
+  {
+    "char": "想",
+    "romaji": "sou",
+    "meaning": "imagine",
+    "example": "想像",
+    "example_romaji": "souzou",
+    "explanation": "想 means 'to imagine'."
+  },
+  {
+    "char": "戦",
+    "romaji": "tatakau",
+    "meaning": "fight",
+    "example": "戦う",
+    "example_romaji": "tatakau",
+    "explanation": "戦 means 'to fight'."
+  },
+  {
+    "char": "勢",
+    "romaji": "sei",
+    "meaning": "force",
+    "example": "勢い",
+    "example_romaji": "ikioi",
+    "explanation": "勢 means 'force' or 'energy'."
+  },
+  {
+    "char": "数",
+    "romaji": "kazu",
+    "meaning": "number",
+    "example": "数",
+    "example_romaji": "kazu",
+    "explanation": "数 means 'number'."
+  },
+  {
+    "char": "置",
+    "romaji": "oku",
+    "meaning": "place",
+    "example": "置く",
+    "example_romaji": "oku",
+    "explanation": "置 means 'to place'."
+  },
+  {
+    "char": "鉄",
+    "romaji": "tetsu",
+    "meaning": "iron",
+    "example": "鉄",
+    "example_romaji": "tetsu",
+    "explanation": "鉄 means 'iron'."
+  },
+  {
+    "char": "感",
+    "romaji": "kan",
+    "meaning": "feeling",
+    "example": "感情",
+    "example_romaji": "kanjou",
+    "explanation": "感 means 'feeling'."
+  },
+  {
+    "char": "解",
+    "romaji": "toku",
+    "meaning": "solve",
+    "example": "解く",
+    "example_romaji": "toku",
+    "explanation": "解 means 'to solve'."
+  },
+  {
+    "char": "園",
+    "romaji": "en",
+    "meaning": "garden",
+    "example": "公園",
+    "example_romaji": "kouen",
+    "explanation": "園 means 'garden'."
+  },
+  {
+    "char": "愛",
+    "romaji": "ai",
+    "meaning": "love",
+    "example": "愛",
+    "example_romaji": "ai",
+    "explanation": "愛 means 'love'."
+  },
+  {
+    "char": "塩",
+    "romaji": "shio",
+    "meaning": "salt",
+    "example": "塩",
+    "example_romaji": "shio",
+    "explanation": "塩 means 'salt'."
+  },
+  {
+    "char": "極",
+    "romaji": "kyoku",
+    "meaning": "extreme",
+    "example": "極める",
+    "example_romaji": "kiwameru",
+    "explanation": "極 means 'extreme'."
+  },
+  {
+    "char": "禁",
+    "romaji": "kin",
+    "meaning": "prohibit",
+    "example": "禁止",
+    "example_romaji": "kinshi",
+    "explanation": "禁 means 'prohibit'."
+  },
+  {
+    "char": "罪",
+    "romaji": "tsumi",
+    "meaning": "crime",
+    "example": "罪",
+    "example_romaji": "tsumi",
+    "explanation": "罪 means 'crime'."
+  },
+  {
+    "char": "資",
+    "romaji": "shi",
+    "meaning": "resource",
+    "example": "資源",
+    "example_romaji": "shigen",
+    "explanation": "資 means 'resource'."
+  },
+  {
+    "char": "準",
+    "romaji": "jun",
+    "meaning": "standard",
+    "example": "準備",
+    "example_romaji": "junbi",
+    "explanation": "準 means 'standard or prepare'."
+  },
+  {
+    "char": "種",
+    "romaji": "tane",
+    "meaning": "kind",
+    "example": "種類",
+    "example_romaji": "shurui",
+    "explanation": "種 means 'type'."
+  },
+  {
+    "char": "雑",
+    "romaji": "zatsu",
+    "meaning": "misc",
+    "example": "雑誌",
+    "example_romaji": "zasshi",
+    "explanation": "雑 means 'miscellaneous'."
+  },
+  {
+    "char": "際",
+    "romaji": "sai",
+    "meaning": "occasion",
+    "example": "実際",
+    "example_romaji": "jissai",
+    "explanation": "際 means 'occasion'."
+  },
+  {
+    "char": "算",
+    "romaji": "san",
+    "meaning": "calculate",
+    "example": "計算",
+    "example_romaji": "keisan",
+    "explanation": "算 means 'calculate'."
+  },
+  {
+    "char": "察",
+    "romaji": "satsu",
+    "meaning": "guess, judge",
+    "example": "警察",
+    "example_romaji": "keisatsu",
+    "explanation": "察 means 'to guess or observe'."
+  },
+  {
+    "char": "構",
+    "romaji": "kou",
+    "meaning": "structure",
+    "example": "構造",
+    "example_romaji": "kouzou",
+    "explanation": "構 means 'structure'."
+  },
+  {
+    "char": "関",
+    "romaji": "kan",
+    "meaning": "relation",
+    "example": "関係",
+    "example_romaji": "kankei",
+    "explanation": "関 means 'connection'."
+  },
+  {
+    "char": "境",
+    "romaji": "kyou",
+    "meaning": "boundary",
+    "example": "環境",
+    "example_romaji": "kankyou",
+    "explanation": "境 means 'boundary or environment'."
+  },
+  {
+    "char": "漁",
+    "romaji": "gyo",
+    "meaning": "fishing",
+    "example": "漁業",
+    "example_romaji": "gyogyou",
+    "explanation": "漁 relates to fishing."
+  },
+  {
+    "char": "演",
+    "romaji": "en",
+    "meaning": "perform",
+    "example": "演技",
+    "example_romaji": "engi",
+    "explanation": "演 means 'perform'."
+  },
+  {
+    "char": "慣",
+    "romaji": "nareru",
+    "meaning": "get used to",
+    "example": "慣れる",
+    "example_romaji": "nareru",
+    "explanation": "慣 means 'to get used to'."
+  },
+  {
+    "char": "管",
+    "romaji": "kan",
+    "meaning": "pipe, manage",
+    "example": "管理",
+    "example_romaji": "kanri",
+    "explanation": "管 relates to control or pipes."
+  },
+  {
+    "char": "銅",
+    "romaji": "dou",
+    "meaning": "copper",
+    "example": "銅",
+    "example_romaji": "dou",
+    "explanation": "銅 means 'copper'."
+  },
+  {
+    "char": "適",
+    "romaji": "teki",
+    "meaning": "suitable",
+    "example": "適当",
+    "example_romaji": "tekitou",
+    "explanation": "適 means 'suitable'."
+  },
+  {
+    "char": "精",
+    "romaji": "sei",
+    "meaning": "refined",
+    "example": "精神",
+    "example_romaji": "seishin",
+    "explanation": "精 means 'spirit or refined'."
+  },
+  {
+    "char": "製",
+    "romaji": "sei",
+    "meaning": "manufacture",
+    "example": "製品",
+    "example_romaji": "seihin",
+    "explanation": "製 means 'to manufacture'."
+  },
+  {
+    "char": "静",
+    "romaji": "shizuka",
+    "meaning": "quiet",
+    "example": "静か",
+    "example_romaji": "shizuka",
+    "explanation": "静 means 'quiet'."
+  },
+  {
+    "char": "像",
+    "romaji": "zou",
+    "meaning": "image",
+    "example": "画像",
+    "example_romaji": "gazou",
+    "explanation": "像 means 'image'."
+  },
+  {
+    "char": "増",
+    "romaji": "fueru",
+    "meaning": "increase",
+    "example": "増える",
+    "example_romaji": "fueru",
+    "explanation": "増 means 'increase'."
+  },
+  {
+    "char": "総",
+    "romaji": "sou",
+    "meaning": "total",
+    "example": "総合",
+    "example_romaji": "sougou",
+    "explanation": "総 means 'total'."
+  },
+  {
+    "char": "鼻",
+    "romaji": "hana",
+    "meaning": "nose",
+    "example": "鼻",
+    "example_romaji": "hana",
+    "explanation": "鼻 means 'nose'."
+  },
+  {
+    "char": "複",
+    "romaji": "fuku",
+    "meaning": "multiple",
+    "example": "複雑",
+    "example_romaji": "fukuzatsu",
+    "explanation": "複 means 'complex or multiple'."
+  },
+  {
+    "char": "鳴",
+    "romaji": "naku",
+    "meaning": "sound",
+    "example": "鳴く",
+    "example_romaji": "naku",
+    "explanation": "鳴 means 'to make sound'."
+  },
+  {
+    "char": "綿",
+    "romaji": "wata",
+    "meaning": "cotton",
+    "example": "綿",
+    "example_romaji": "wata",
+    "explanation": "綿 means 'cotton'."
+  },
+  {
+    "char": "様",
+    "romaji": "sama",
+    "meaning": "manner",
+    "example": "様子",
+    "example_romaji": "yousu",
+    "explanation": "様 means 'manner'."
+  },
+  {
+    "char": "領",
+    "romaji": "ryou",
+    "meaning": "territory",
+    "example": "領土",
+    "example_romaji": "ryoudo",
+    "explanation": "領 means 'territory'."
+  },
+  {
+    "char": "緑",
+    "romaji": "midori",
+    "meaning": "green",
+    "example": "緑",
+    "example_romaji": "midori",
+    "explanation": "緑 means 'green'."
+  },
+  {
+    "char": "練",
+    "romaji": "neru",
+    "meaning": "practice",
+    "example": "練習",
+    "example_romaji": "renshuu",
+    "explanation": "練 means 'practice'."
+  },
+  {
+    "char": "歴",
+    "romaji": "reki",
+    "meaning": "history",
+    "example": "歴史",
+    "example_romaji": "rekishi",
+    "explanation": "歴 means 'history'."
+  },
+  {
+    "char": "輪",
+    "romaji": "wa",
+    "meaning": "wheel",
+    "example": "輪",
+    "example_romaji": "wa",
+    "explanation": "輪 means 'wheel'."
+  },
+  {
+    "char": "編",
+    "romaji": "hen",
+    "meaning": "compile",
+    "example": "編集",
+    "example_romaji": "henshuu",
+    "explanation": "編 means 'to compile'."
+  },
+  {
+    "char": "箱",
+    "romaji": "hako",
+    "meaning": "box",
+    "example": "箱",
+    "example_romaji": "hako",
+    "explanation": "箱 means 'box'."
+  },
+  {
+    "char": "熱",
+    "romaji": "netsu",
+    "meaning": "heat",
+    "example": "熱",
+    "example_romaji": "netsu",
+    "explanation": "熱 means 'heat'."
+  },
+  {
+    "char": "選",
+    "romaji": "erabu",
+    "meaning": "choose",
+    "example": "選ぶ",
+    "example_romaji": "erabu",
+    "explanation": "選 means 'to choose'."
+  },
+  {
+    "char": "線",
+    "romaji": "sen",
+    "meaning": "line",
+    "example": "線",
+    "example_romaji": "sen",
+    "explanation": "線 means 'line'."
+  },
+  {
+    "char": "導",
+    "romaji": "michibiku",
+    "meaning": "guide",
+    "example": "導く",
+    "example_romaji": "michibiku",
+    "explanation": "導 means 'to guide'."
+  },
+  {
+    "char": "談",
+    "romaji": "dan",
+    "meaning": "talk",
+    "example": "相談",
+    "example_romaji": "soudan",
+    "explanation": "談 means 'talk or discussion'."
+  },
+  {
+    "char": "調",
+    "romaji": "shiraberu",
+    "meaning": "investigate",
+    "example": "調べる",
+    "example_romaji": "shiraberu",
+    "explanation": "調 means 'to investigate'."
+  },
+  {
+    "char": "横",
+    "romaji": "yoko",
+    "meaning": "side",
+    "example": "横",
+    "example_romaji": "yoko",
+    "explanation": "横 means 'side'."
+  },
+  {
+    "char": "確",
+    "romaji": "tashika",
+    "meaning": "certain",
+    "example": "確か",
+    "example_romaji": "tashika",
+    "explanation": "確 means 'certain'."
+  },
+  {
+    "char": "課",
+    "romaji": "ka",
+    "meaning": "section",
+    "example": "課",
+    "example_romaji": "ka",
+    "explanation": "課 means 'section or lesson'."
+  },
+  {
+    "char": "器",
+    "romaji": "utsuwa",
+    "meaning": "container",
+    "example": "器",
+    "example_romaji": "utsuwa",
+    "explanation": "器 means 'container'."
+  },
+  {
+    "char": "賛",
+    "romaji": "san",
+    "meaning": "approve",
+    "example": "賛成",
+    "example_romaji": "sansei",
+    "explanation": "賛 means 'approval'."
+  },
+  {
+    "char": "賞",
+    "romaji": "shou",
+    "meaning": "prize",
+    "example": "賞",
+    "example_romaji": "shou",
+    "explanation": "賞 means 'prize'."
+  },
+  {
+    "char": "機",
+    "romaji": "ki",
+    "meaning": "machine",
+    "example": "機械",
+    "example_romaji": "kikai",
+    "explanation": "機 means 'machine'."
+  },
+  {
+    "char": "橋",
+    "romaji": "hashi",
+    "meaning": "bridge",
+    "example": "橋",
+    "example_romaji": "hashi",
+    "explanation": "橋 means 'bridge'."
+  },
+  {
+    "char": "築",
+    "romaji": "kizuku",
+    "meaning": "build",
+    "example": "築く",
+    "example_romaji": "kizuku",
+    "explanation": "築 means 'to build'."
+  },
+  {
+    "char": "積",
+    "romaji": "tsumu",
+    "meaning": "pile",
+    "example": "積む",
+    "example_romaji": "tsumu",
+    "explanation": "積 means 'to pile up'."
+  },
+  {
+    "char": "輸",
+    "romaji": "yu",
+    "meaning": "transport",
+    "example": "輸送",
+    "example_romaji": "yusou",
+    "explanation": "輸 means 'transport'."
+  },
+  {
+    "char": "録",
+    "romaji": "roku",
+    "meaning": "record",
+    "example": "記録",
+    "example_romaji": "kiroku",
+    "explanation": "録 means 'record'."
+  },
+  {
+    "char": "績",
+    "romaji": "seki",
+    "meaning": "achievement",
+    "example": "成績",
+    "example_romaji": "seiseki",
+    "explanation": "績 means 'achievement'."
+  },
+  {
+    "char": "講",
+    "romaji": "kou",
+    "meaning": "lecture",
+    "example": "講義",
+    "example_romaji": "kougi",
+    "explanation": "講 means 'lecture'."
+  },
+  {
+    "char": "職",
+    "romaji": "shoku",
+    "meaning": "job",
+    "example": "職業",
+    "example_romaji": "shokugyou",
+    "explanation": "職 means 'job'."
+  },
+  {
+    "char": "観",
+    "romaji": "kan",
+    "meaning": "view",
+    "example": "観光",
+    "example_romaji": "kankou",
+    "explanation": "観 means 'view or observe'."
+  },
+  {
+    "char": "額",
+    "romaji": "gaku",
+    "meaning": "amount",
+    "example": "金額",
+    "example_romaji": "kingaku",
+    "explanation": "額 means 'amount'."
+  },
+  {
+    "char": "類",
+    "romaji": "rui",
+    "meaning": "kind",
+    "example": "種類",
+    "example_romaji": "shurui",
+    "explanation": "類 means 'type'."
+  },
+  {
+    "char": "願",
+    "romaji": "negau",
+    "meaning": "wish",
+    "example": "願う",
+    "example_romaji": "negau",
+    "explanation": "願 means 'to wish'."
+  },
+  {
+    "char": "識",
+    "romaji": "shiki",
+    "meaning": "knowledge",
+    "example": "知識",
+    "example_romaji": "chishiki",
+    "explanation": "識 means 'knowledge' or 'awareness'."
+  },
+  {
+    "char": "競",
+    "romaji": "kisou",
+    "meaning": "compete",
+    "example": "競争",
+    "example_romaji": "kyousou",
+    "explanation": "競 means 'to compete'."
+  },
+  {
+    "char": "議",
+    "romaji": "gi",
+    "meaning": "discussion",
+    "example": "会議",
+    "example_romaji": "kaigi",
+    "explanation": "議 means 'discussion or meeting'."
+  }
+]
